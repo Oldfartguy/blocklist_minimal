@@ -34,9 +34,7 @@ jobs:
           BLOCK_TMP="blocklists.tmp"
           RESOLVERS_FILE="resolvers.tmp"
 
-          # Tải list ~1000 public resolver để chia tải, tránh bị rate-limit
-          curl -fsSL https://raw.githubusercontent.com/blechschmidt/massdns/master/lists/resolvers.txt > "$RESOLVERS_FILE"
-          echo "Resolvers: $(wc -l < "$RESOLVERS_FILE")"
+          printf '%s\n' 8.8.8.8 8.8.4.4 > "$RESOLVERS_FILE"
 
           echo "Downloading..."
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
@@ -63,7 +61,7 @@ jobs:
 
           # Pass 1 – concurrency 2000, timeout 500ms, tự retry SERVFAIL 1 lần
           echo "Pass 1..."
-          massdns -r "$RESOLVERS_FILE" -t A -o J -s 2000 --retry SERVFAIL "$BLOCK_TMP" \
+          massdns -r "$RESOLVERS_FILE" -t A -o J -s 800 --retry SERVFAIL "$BLOCK_TMP" \
           | tee >(jq -r 'select(.status == "SERVFAIL") | .name | rtrimstr(".")' > "$SERVFAIL_TMP") \
           | jq -r 'select(.status == "NOERROR") | .name | rtrimstr(".")' > "$BLOCK_OUT"
 
@@ -73,7 +71,7 @@ jobs:
           # Pass 2 – retry SERVFAIL với concurrency thấp hơn
           if [[ "$SERVFAIL_COUNT" -gt 0 ]]; then
             echo "Pass 2..."
-            massdns -r "$RESOLVERS_FILE" -t A -o J -s 500 --retry SERVFAIL "$SERVFAIL_TMP" \
+            massdns -r "$RESOLVERS_FILE" -t A -o J -s 200 --retry SERVFAIL "$SERVFAIL_TMP" \
             | jq -r 'select(.status == "NOERROR") | .name | rtrimstr(".")' >> "$BLOCK_OUT"
           fi
 
