@@ -42,18 +42,13 @@ jobs:
           BLOCK_TMP="blocklists.tmp"
           RESOLVERS_FILE="resolvers.tmp"
 
-          cat > "$RESOLVERS_FILE" << 'EOF'
-          1.1.1.1
-          1.0.0.1
-          8.8.8.8
-          8.8.4.4
-          9.9.9.9
-          149.112.112.112
-          208.67.222.222
-          208.67.220.220
-          94.140.14.14
-          94.140.15.15
-          EOF
+          printf '%s\n' \
+            1.1.1.1 1.0.0.1 \
+            8.8.8.8 8.8.4.4 \
+            9.9.9.9 149.112.112.112 \
+            208.67.222.222 208.67.220.220 \
+            94.140.14.14 94.140.15.15 \
+          > "$RESOLVERS_FILE"
 
           echo "Downloading..."
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
@@ -76,15 +71,7 @@ jobs:
           TOTAL=$(wc -l < "$BLOCK_TMP")
           echo "Total: $TOTAL"
 
-          massdns \
-            -r "$RESOLVERS_FILE" \
-            -t A \
-            -o S \
-            --retry 0 \
-            --timeout 1000 \
-            --hashmap-size 1000000 \
-            -q \
-            "$BLOCK_TMP" \
+          massdns -r "$RESOLVERS_FILE" -t A -o S -q "$BLOCK_TMP" \
           | awk '{
               if ($2 == "A" && $3 !~ /^(0\.0\.0\.0|127\.)/) {
                 sub(/\.$/, "", $1)
