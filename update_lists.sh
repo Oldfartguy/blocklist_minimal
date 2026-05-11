@@ -37,6 +37,8 @@ TOTAL=$(wc -l < "$BLOCK_TMP")
 echo "Total domains collected: $TOTAL"
 echo "Validating domains via Google DNS API (this may take a while)..."
 
+touch "$BLOCK_VALID"
+
 # Parallel check using Google DNS JSON API
 # Using -P 50 to balance speed and potential rate limiting
 cat "$BLOCK_TMP" | xargs -n 1 -P 50 bash -c '
@@ -50,8 +52,9 @@ cat "$BLOCK_TMP" | xargs -n 1 -P 50 bash -c '
   /^V / { print $2 > out }
   { 
     count++; 
-    if (count % 20 == 0 || count == total) {
+    if (count % 10 == 0 || count == total) {
       printf "\rProgress: %d/%d (%.1f%%)   ", count, total, (count*100/total)
+      fflush()
     } 
   }
   END { print "" }
