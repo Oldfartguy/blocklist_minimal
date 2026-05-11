@@ -37,9 +37,10 @@ echo "Validating domains via Google DNS API..."
 
 touch "$BLOCK_VALID"
 
-cat "$BLOCK_TMP" | xargs -n 50 -P 50 bash -c '
+cat "$BLOCK_TMP" | xargs -n 100 -P 150 bash -c '
   for domain in "$@"; do
-    if nslookup -timeout=1 -retry=1 "$domain" 8.8.8.8 > /dev/null 2>&1; then
+    if nslookup -timeout=1 -retry=0 "$domain" 1.1.1.1 > /dev/null 2>&1 || \
+       nslookup -timeout=1 -retry=0 "$domain" 8.8.8.8 > /dev/null 2>&1; then
       echo "V $domain"
     else
       echo "I $domain"
