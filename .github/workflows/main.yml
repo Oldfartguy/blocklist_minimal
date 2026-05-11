@@ -71,9 +71,9 @@ jobs:
           TOTAL=$(wc -l < "$BLOCK_TMP")
           echo "Total: $TOTAL"
 
-          massdns -r "$RESOLVERS_FILE" -t A -o S -q "$BLOCK_TMP" \
+          massdns -r "$RESOLVERS_FILE" -t A -o S "$BLOCK_TMP" \
           | awk '{
-              if ($2 == "A" && $3 !~ /^(0\.0\.0\.0|127\.)/) {
+              if ($2 ~ /^(A|AAAA|CNAME)$/ && $3 !~ /^(0\.0\.0\.0|127\.)/) {
                 sub(/\.$/, "", $1)
                 if (!seen[$1]++) print $1
               }
@@ -86,5 +86,5 @@ jobs:
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: auto-update blocklists [skip ci]"
+          commit_message: "chore: auto-update blocklists"
           file_pattern: 'blocklists.txt'
