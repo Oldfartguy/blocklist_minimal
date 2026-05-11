@@ -9,5 +9,6 @@ Danh sách blocklist tại dự án này được sử dụng trên `doh.bibica.
 ```
 Valid: 192965 / 224839
 ```
+![uyU6GIXk](https://img.bibica.net/uyU6GIXk.png)
 
 Do doh.bibica.net chạy qua Cloudflare Pages, tiết kiệm được cái gì thì tiết kiệm thôi
