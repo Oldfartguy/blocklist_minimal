@@ -1,17 +1,12 @@
 #!/bin/bash
 
-# Định nghĩa đường dẫn tương đối trong Github Workspace
-DIR="rules"
-BLOCK_OUT="./$DIR/blocklists.txt"
-ALLOW_OUT="./$DIR/allowlists.txt"
-BLOCK_TMP="/tmp/blocklists.tmp"
-ALLOW_TMP="/tmp/allowlists.tmp"
+# File output
+BLOCK_OUT="blocklists.txt"
+BLOCK_TMP="blocklists.tmp"
+BLOCK_VALID="blocklists_valid.tmp"
 
-# Tạo thư mục rules nếu chưa có
-mkdir -p "./$DIR"
-
-# Cleanup khi script exit
-trap "rm -f $BLOCK_TMP $ALLOW_TMP; exit" INT TERM EXIT
+# Cleanup
+trap "rm -f $BLOCK_TMP $BLOCK_VALID; exit" INT TERM EXIT
 
 extract_domains() {
   awk '{
@@ -31,20 +26,30 @@ extract_domains() {
 
 echo "Downloading and processing blocklists..."
 curl -fsSL --max-time 60 \
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
-https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
-https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
-https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
-https://badmojr.github.io/1Hosts/Lite/adblock.txt \
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
+  https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
+  https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
+  https://badmojr.github.io/1Hosts/Lite/adblock.txt \
 | extract_domains > "$BLOCK_TMP"
 
-echo "Downloading and processing allowlists..."
-curl -fsSL --max-time 60 \
-https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
-| extract_domains > "$ALLOW_TMP"
+TOTAL=$(wc -l < "$BLOCK_TMP")
+echo "Total domains collected: $TOTAL"
+echo "Validating domains via Google DNS API (this may take a while)..."
 
-# Di chuyển file tmp vào thư mục đích
-mv "$BLOCK_TMP" "$BLOCK_OUT"
-mv "$ALLOW_TMP" "$ALLOW_OUT"
+# Parallel check using Google DNS JSON API
+# Using -P 50 to balance speed and potential rate limiting
+cat "$BLOCK_TMP" | xargs -n 1 -P 50 bash -c '
+  domain="$0"
+  if curl -s --max-time 2 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
+    echo "${domain}"
+  fi
+' > "$BLOCK_VALID"
 
-echo "Done. Files saved to $BLOCK_OUT and $ALLOW_OUT"
+VALID_COUNT=$(wc -l < "$BLOCK_VALID")
+echo "Validation complete. Valid domains: $VALID_COUNT (Removed $((TOTAL - VALID_COUNT)) dead domains)"
+
+# Save to final destination
+mv "$BLOCK_VALID" "$BLOCK_OUT"
+
+echo "Done. File saved to $BLOCK_OUT"
