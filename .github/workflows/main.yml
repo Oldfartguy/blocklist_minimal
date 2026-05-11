@@ -21,15 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Cache massdns
-        id: cache-massdns
-        uses: actions/cache@v4
-        with:
-          path: /usr/local/bin/massdns
-          key: massdns-v1-linux
-
       - name: Build massdns
-        if: steps.cache-massdns.outputs.cache-hit != 'true'
         run: |
           sudo apt-get install -y --no-install-recommends build-essential
           git clone --depth 1 https://github.com/blechschmidt/massdns /tmp/massdns
