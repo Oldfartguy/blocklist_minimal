@@ -2,28 +2,100 @@ name: Update DNS Blocklists
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 */6 * * *'   # 4 lần/ngày – đủ fresh, không tốn quota
   workflow_dispatch:
+    inputs:
+      parallel:
+        description: 'Số worker song song (mặc định: 3000)'
+        required: false
+        default: '3000'
+      force:
+        description: 'Bỏ qua cache, tải lại toàn bộ'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
 
+concurrency:
+  group: blocklist-update
+  cancel-in-progress: true   # Hủy run cũ nếu có run mới hơn trigger
+
 jobs:
-  update-lists:
+  update:
     runs-on: ubuntu-latest
-    
+    timeout-minutes: 30
+
     steps:
-      - name: Checkout repository
+      # ── 1. Checkout ────────────────────────────────────────────────────────
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1   # shallow clone – nhanh hơn
 
-      - name: Run update script
+      # ── 2. Cache massdns binary ────────────────────────────────────────────
+      - name: Cache massdns
+        id: cache-massdns
+        uses: actions/cache@v4
+        with:
+          path: /usr/local/bin/massdns
+          key: massdns-v1-${{ runner.os }}
+
+      - name: Build massdns (nếu chưa có cache)
+        if: steps.cache-massdns.outputs.cache-hit != 'true'
         run: |
-          chmod +x update_lists.sh
-          ./update_lists.sh
+          sudo apt-get install -y --no-install-recommends build-essential git
+          git clone --depth 1 https://github.com/blechschmidt/massdns /tmp/massdns
+          make -C /tmp/massdns -j"$(nproc)"
+          sudo mv /tmp/massdns/bin/massdns /usr/local/bin/massdns
+          rm -rf /tmp/massdns
 
-      - name: Commit and Push changes
+      # ── 3. Cache blocklist nguồn (tránh re-download khi nguồn chưa đổi) ───
+      - name: Cache raw sources
+        if: ${{ !inputs.force }}
+        id: cache-sources
+        uses: actions/cache@v4
+        with:
+          path: .cache/sources
+          key: sources-${{ runner.os }}-${{ hashFiles('sources.txt') }}-${{ github.run_number }}
+          restore-keys: |
+            sources-${{ runner.os }}-${{ hashFiles('sources.txt') }}-
+
+      # ── 4. Chạy script chính ───────────────────────────────────────────────
+      - name: Run blocklist update
+        env:
+          PARALLEL: ${{ inputs.parallel || '3000' }}
+          CACHE_DIR: .cache/sources
+        run: |
+          chmod +x blocklist_validator.sh
+          ./blocklist_validator.sh
+
+      # ── 5. Thống kê kết quả ────────────────────────────────────────────────
+      - name: Summary
+        if: always()
+        run: |
+          if [[ -f blocklists.txt ]]; then
+            TOTAL=$(wc -l < blocklists.txt)
+            echo "### ✅ Blocklist Updated" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Metric | Value |" >> "$GITHUB_STEP_SUMMARY"
+            echo "|--------|-------|" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Total valid domains | \`$TOTAL\` |" >> "$GITHUB_STEP_SUMMARY"
+            echo "| Updated at | $(date -u '+%Y-%m-%d %H:%M UTC') |" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "### ❌ blocklists.txt not found" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      # ── 6. Commit nếu có thay đổi ─────────────────────────────────────────
+      - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: blocklists"
+          commit_message: |
+            chore: auto-update blocklists [skip ci]
+
+            Updated: ${{ github.run_id }}
+            Domains: $(wc -l < blocklists.txt 2>/dev/null || echo '?')
           file_pattern: 'blocklists.txt'
-          branch: ${{ github.ref }}
+          branch: ${{ github.ref_name }}
+          commit_user_name: 'github-actions[bot]'
+          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
