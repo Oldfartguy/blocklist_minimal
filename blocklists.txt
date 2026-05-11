@@ -9439,6 +9439,7 @@ ads.brandadvance.co.uk
 ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bulldogcpi.com
@@ -15258,7 +15259,6 @@ analytics-chi-nfl.yinzcam.com
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -16980,6 +16980,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -21442,6 +21443,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -31876,6 +31878,7 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampda.net
+cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -70326,6 +70329,7 @@ hjfes.surfsynergy.com
 hjfyid.100yearshop.co.kr
 hjfyms.istanbulhomes.com
 hjgcdi.farmacybeauty.com
+hjhtjzugjsizr.com
 hjidtzxvgybjp.site
 hjiuz.meundies.com
 hjjugtkcrizxg.website
@@ -105672,7 +105676,6 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -116301,6 +116304,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -125096,6 +125100,7 @@ reklama.teenfuckhd.com
 reklama.wp.pl
 reklamaction.com
 reklamagaci.com
+reklamaizer.ru
 reklamamarketing.ru
 reklamamiami.com
 reklamaster.com
@@ -133396,7 +133401,6 @@ seomaster.com.br
 seomonitor.ro
 seomoz.org
 seon.io
-seondnsresolve.com
 seonify.com
 seoparts.com
 seoparts.net
@@ -143935,6 +143939,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -149645,7 +149650,6 @@ ss.viabiler.dk
 ss.vibralab.co
 ss.vibrancy-music.com
 ss.vibrandoensintonia.com
-ss.victoriancaravanhire.com.au
 ss.vicuras.dk
 ss.vierdaagsecamping.nl
 ss.vigselbutiken.se
@@ -158543,7 +158547,6 @@ stats.askmen.com
 stats.asmodee.net
 stats.asp24.pl
 stats.assets.video
-stats.astrr.ru
 stats.asymptotic.io
 stats.auto-dombrowski.de
 stats.autohome.com.cn
@@ -162516,7 +162519,6 @@ t-ring-fallback-s2.msedge.net
 t-ring-fallback.msedge.net
 t-ring-s.msedge.net
 t-ring-s2.msedge.net
-t-ring-trafficshield.msedge.net
 t-s.actemra.com
 t-s.activase.com
 t-s.allergicasthma.com
@@ -185173,7 +185175,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
