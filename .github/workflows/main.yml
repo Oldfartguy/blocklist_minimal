@@ -34,8 +34,9 @@ jobs:
           BLOCK_TMP="blocklists.tmp"
           RESOLVERS_FILE="resolvers.tmp"
 
-          # Chỉ giữ resolver ổn định, bỏ OpenDNS/AdGuard hay bị REFUSED
-          printf '%s\n' 1.1.1.1 1.0.0.1 8.8.8.8 8.8.4.4 9.9.9.9 149.112.112.112 > "$RESOLVERS_FILE"
+          # Tải list ~1000 public resolver để chia tải, tránh bị rate-limit
+          curl -fsSL https://raw.githubusercontent.com/blechschmidt/massdns/master/lists/resolvers.txt > "$RESOLVERS_FILE"
+          echo "Resolvers: $(wc -l < "$RESOLVERS_FILE")"
 
           echo "Downloading..."
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
