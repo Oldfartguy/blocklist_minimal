@@ -2,25 +2,15 @@ name: Update DNS Blocklists
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 4 lần/ngày – đủ fresh, không tốn quota
+    - cron: '0 */6 * * *'
   workflow_dispatch:
-    inputs:
-      parallel:
-        description: 'Số worker song song (mặc định: 3000)'
-        required: false
-        default: '3000'
-      force:
-        description: 'Bỏ qua cache, tải lại toàn bộ'
-        required: false
-        type: boolean
-        default: false
 
 permissions:
   contents: write
 
 concurrency:
   group: blocklist-update
-  cancel-in-progress: true   # Hủy run cũ nếu có run mới hơn trigger
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -28,74 +18,86 @@ jobs:
     timeout-minutes: 30
 
     steps:
-      # ── 1. Checkout ────────────────────────────────────────────────────────
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 1   # shallow clone – nhanh hơn
 
-      # ── 2. Cache massdns binary ────────────────────────────────────────────
       - name: Cache massdns
         id: cache-massdns
         uses: actions/cache@v4
         with:
           path: /usr/local/bin/massdns
-          key: massdns-v1-${{ runner.os }}
+          key: massdns-v1-linux
 
-      - name: Build massdns (nếu chưa có cache)
+      - name: Build massdns
         if: steps.cache-massdns.outputs.cache-hit != 'true'
         run: |
-          sudo apt-get install -y --no-install-recommends build-essential git
+          sudo apt-get install -y --no-install-recommends build-essential
           git clone --depth 1 https://github.com/blechschmidt/massdns /tmp/massdns
-          make -C /tmp/massdns -j"$(nproc)"
+          make -C /tmp/massdns -j$(nproc)
           sudo mv /tmp/massdns/bin/massdns /usr/local/bin/massdns
-          rm -rf /tmp/massdns
 
-      # ── 3. Cache blocklist nguồn (tránh re-download khi nguồn chưa đổi) ───
-      - name: Cache raw sources
-        if: ${{ !inputs.force }}
-        id: cache-sources
-        uses: actions/cache@v4
-        with:
-          path: .cache/sources
-          key: sources-${{ runner.os }}-${{ hashFiles('sources.txt') }}-${{ github.run_number }}
-          restore-keys: |
-            sources-${{ runner.os }}-${{ hashFiles('sources.txt') }}-
-
-      # ── 4. Chạy script chính ───────────────────────────────────────────────
-      - name: Run blocklist update
-        env:
-          PARALLEL: ${{ inputs.parallel || '3000' }}
-          CACHE_DIR: .cache/sources
+      - name: Run
         run: |
-          chmod +x blocklist_validator.sh
-          ./blocklist_validator.sh
+          BLOCK_OUT="blocklists.txt"
+          BLOCK_TMP="blocklists.tmp"
+          RESOLVERS_FILE="resolvers.tmp"
 
-      # ── 5. Thống kê kết quả ────────────────────────────────────────────────
-      - name: Summary
-        if: always()
-        run: |
-          if [[ -f blocklists.txt ]]; then
-            TOTAL=$(wc -l < blocklists.txt)
-            echo "### ✅ Blocklist Updated" >> "$GITHUB_STEP_SUMMARY"
-            echo "| Metric | Value |" >> "$GITHUB_STEP_SUMMARY"
-            echo "|--------|-------|" >> "$GITHUB_STEP_SUMMARY"
-            echo "| Total valid domains | \`$TOTAL\` |" >> "$GITHUB_STEP_SUMMARY"
-            echo "| Updated at | $(date -u '+%Y-%m-%d %H:%M UTC') |" >> "$GITHUB_STEP_SUMMARY"
-          else
-            echo "### ❌ blocklists.txt not found" >> "$GITHUB_STEP_SUMMARY"
-          fi
+          cat > "$RESOLVERS_FILE" << 'EOF'
+          1.1.1.1
+          1.0.0.1
+          8.8.8.8
+          8.8.4.4
+          9.9.9.9
+          149.112.112.112
+          208.67.222.222
+          208.67.220.220
+          94.140.14.14
+          94.140.15.15
+          EOF
 
-      # ── 6. Commit nếu có thay đổi ─────────────────────────────────────────
-      - name: Commit and push
+          echo "Downloading..."
+          curl -fsSL --max-time 90 --parallel --parallel-immediate \
+            https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
+            https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
+            https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
+            https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
+            https://badmojr.github.io/1Hosts/Lite/adblock.txt \
+          | awk '{
+              if (/^[[:space:]]*$/ || /^[!#;]/) next
+              line = tolower($0)
+              sub(/^@@\|\|?/, "", line); sub(/^\|\|?/, "", line)
+              sub(/\^.*/, "", line);     sub(/[#!].*/, "", line)
+              sub(/\/.*/, "", line);     sub(/:.*/, "", line)
+              sub(/^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+[[:space:]]+/, "", line)
+              gsub(/^[[:space:]]+|[[:space:]]+$/, "", line)
+              if (line ~ /^[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?(\.[a-z0-9]([a-z0-9-]{0,61}[a-z0-9])?)+$/ && !seen[line]++) print line
+            }' | sort -u > "$BLOCK_TMP"
+
+          TOTAL=$(wc -l < "$BLOCK_TMP")
+          echo "Total: $TOTAL"
+
+          massdns \
+            -r "$RESOLVERS_FILE" \
+            -t A \
+            -o S \
+            --retry 0 \
+            --timeout 1000 \
+            --hashmap-size 1000000 \
+            -q \
+            "$BLOCK_TMP" \
+          | awk '{
+              if ($2 == "A" && $3 !~ /^(0\.0\.0\.0|127\.)/) {
+                sub(/\.$/, "", $1)
+                if (!seen[$1]++) print $1
+              }
+            }' | sort -u > "$BLOCK_OUT"
+
+          VALID=$(wc -l < "$BLOCK_OUT")
+          echo "Valid: $VALID / $TOTAL"
+          rm -f "$BLOCK_TMP" "$RESOLVERS_FILE"
+
+      - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: |
-            chore: auto-update blocklists [skip ci]
-
-            Updated: ${{ github.run_id }}
-            Domains: $(wc -l < blocklists.txt 2>/dev/null || echo '?')
+          commit_message: "chore: auto-update blocklists [skip ci]"
           file_pattern: 'blocklists.txt'
-          branch: ${{ github.ref_name }}
-          commit_user_name: 'github-actions[bot]'
-          commit_user_email: 'github-actions[bot]@users.noreply.github.com'
