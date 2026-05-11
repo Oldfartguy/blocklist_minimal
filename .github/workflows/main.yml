@@ -42,13 +42,8 @@ jobs:
           BLOCK_TMP="blocklists.tmp"
           RESOLVERS_FILE="resolvers.tmp"
 
-          printf '%s\n' \
-            1.1.1.1 1.0.0.1 \
-            8.8.8.8 8.8.4.4 \
-            9.9.9.9 149.112.112.112 \
-            208.67.222.222 208.67.220.220 \
-            94.140.14.14 94.140.15.15 \
-          > "$RESOLVERS_FILE"
+          # Chỉ giữ resolver ổn định, bỏ OpenDNS/AdGuard hay bị REFUSED
+          printf '%s\n' 1.1.1.1 1.0.0.1 8.8.8.8 8.8.4.4 9.9.9.9 149.112.112.112 > "$RESOLVERS_FILE"
 
           echo "Downloading..."
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
@@ -71,13 +66,28 @@ jobs:
           TOTAL=$(wc -l < "$BLOCK_TMP")
           echo "Total: $TOTAL"
 
-          massdns -r "$RESOLVERS_FILE" -t A -o J "$BLOCK_TMP" \
-          | jq -r 'select(.status == "NOERROR") | .name | rtrimstr(".")' \
-          | sort -u > "$BLOCK_OUT"
+          SERVFAIL_TMP="servfail.tmp"
 
+          # Pass 1 – concurrency 2000, timeout 500ms, tự retry SERVFAIL 1 lần
+          echo "Pass 1..."
+          massdns -r "$RESOLVERS_FILE" -t A -o J -s 2000 --timeout 500 --retry SERVFAIL "$BLOCK_TMP" \
+          | tee >(jq -r 'select(.status == "SERVFAIL") | .name | rtrimstr(".")' > "$SERVFAIL_TMP") \
+          | jq -r 'select(.status == "NOERROR") | .name | rtrimstr(".")' > "$BLOCK_OUT"
+
+          SERVFAIL_COUNT=$(wc -l < "$SERVFAIL_TMP")
+          echo "Pass 1 done – SERVFAIL còn: $SERVFAIL_COUNT"
+
+          # Pass 2 – retry SERVFAIL với concurrency thấp hơn
+          if [[ "$SERVFAIL_COUNT" -gt 0 ]]; then
+            echo "Pass 2..."
+            massdns -r "$RESOLVERS_FILE" -t A -o J -s 500 --timeout 500 --retry SERVFAIL "$SERVFAIL_TMP" \
+            | jq -r 'select(.status == "NOERROR") | .name | rtrimstr(".")' >> "$BLOCK_OUT"
+          fi
+
+          sort -u "$BLOCK_OUT" -o "$BLOCK_OUT"
           VALID=$(wc -l < "$BLOCK_OUT")
           echo "Valid: $VALID / $TOTAL"
-          rm -f "$BLOCK_TMP" "$RESOLVERS_FILE"
+          rm -f "$BLOCK_TMP" "$RESOLVERS_FILE" "$SERVFAIL_TMP"
 
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
