@@ -42,9 +42,20 @@ echo "Validating domains via Google DNS API (this may take a while)..."
 cat "$BLOCK_TMP" | xargs -n 1 -P 50 bash -c '
   domain="$0"
   if curl -s --max-time 2 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
-    echo "${domain}"
+    echo "V $domain"
+  else
+    echo "I $domain"
   fi
-' > "$BLOCK_VALID"
+' | awk -v total="$TOTAL" -v out="$BLOCK_VALID" '
+  /^V / { print $2 > out }
+  { 
+    count++; 
+    if (count % 20 == 0 || count == total) {
+      printf "\rProgress: %d/%d (%.1f%%)   ", count, total, (count*100/total)
+    } 
+  }
+  END { print "" }
+'
 
 VALID_COUNT=$(wc -l < "$BLOCK_VALID")
 echo "Validation complete. Valid domains: $VALID_COUNT (Removed $((TOTAL - VALID_COUNT)) dead domains)"
