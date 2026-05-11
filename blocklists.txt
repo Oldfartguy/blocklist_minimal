@@ -2443,6 +2443,7 @@
 7d6958cb00.com
 7d77f23c90.com
 7d7eab9082.com
+7db8cf0dcd.com
 7ddqvun8i1.com
 7de1da816b.com
 7dgk5h1lk.com
@@ -3218,7 +3219,7 @@ a.getflowbox.com
 a.getoop.co.uk
 a.gezondheidaanhuis.nl
 a.giantart.com
-a.gl.bitauto.com
+a.glcdn.co
 a.gramb.site
 a.gripi.online
 a.grvmedia.com
@@ -9438,7 +9439,6 @@ ads.brandadvance.co.uk
 ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bulldogcpi.com
@@ -9501,7 +9501,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.corusradionetwork.com
@@ -16981,7 +16980,6 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -17991,6 +17989,7 @@ any-digital.com
 anyadx.live
 anycast.adnxs.com
 anycast.bapi.adsafeprotected.com
+anycast.popads.net
 anyclip-media.com
 anyfiles.ru
 anylist.c.appier.net
@@ -20127,7 +20126,6 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
-app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -31260,7 +31258,6 @@ cdn.cityspark.com
 cdn.clicktale.net
 cdn.cloudfrale.com
 cdn.cmop.mgtv.com
-cdn.co
 cdn.coastoutdoors.ca
 cdn.cohesionapps.com
 cdn.comedia.coccoc.com
@@ -31756,6 +31753,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -31878,7 +31876,6 @@ cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
 cdn.zampda.net
-cdn.zampdsp.com
 cdn.zamunda.ru
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -36234,6 +36231,7 @@ conf-sg-dc.heytapdl.com
 conf-sg.dc.heytapmobi.com
 conf.f.360.cn
 conf.funshion.com
+conf.hpplay.cn
 conf.lsosad.com
 conf.piojm.tech
 conf.qvb.qcloud.com
@@ -54214,6 +54212,7 @@ error.ammnlth.net
 error.blue.pl
 error.demdex.net
 error.nextersglobal.com
+error.reg.pf-d.ca
 error.taobao.com.danuoyi.tbcache.com
 error.videonow.ru
 errorception.com
@@ -57906,6 +57905,7 @@ find.api.micloud.xiaomi.net.iberostar.com
 find.tjmartbd.com
 findandate.com
 findbetterresults.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddatinglocally.com
@@ -60767,6 +60767,7 @@ galainteractive.evergage.com
 galaksion.com
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
+galaxien.com
 galaxy-love.com
 galaxy.bjcathay.com
 galaxy.bz.mgtv.com
@@ -62230,6 +62231,7 @@ gimal.com
 gimbal.com
 gimet.site
 gimfrxstiodmt.space
+gimg.bitauto.com
 gimnsr.com
 gimperhappen.cyou
 gimpsgenips.com
@@ -69726,6 +69728,7 @@ hemblx.vans.cl
 hemcgm.smaphocase.com
 hemenindir.to
 hemineedunks.com
+hemnes.win
 hempbombs.pxf.io
 hemyn.site
 hemzwfinlnwoi.site
@@ -70034,6 +70037,7 @@ hid24.com
 hidcolouredclink.com
 hidden-fortune.pro
 hidden-master.linezing.com
+hidden.gogoceleb.com
 hiddengolf.pro
 hiddenmilk.com
 hiddenseet.com
@@ -70322,7 +70326,6 @@ hjfes.surfsynergy.com
 hjfyid.100yearshop.co.kr
 hjfyms.istanbulhomes.com
 hjgcdi.farmacybeauty.com
-hjhtjzugjsizr.com
 hjidtzxvgybjp.site
 hjiuz.meundies.com
 hjjugtkcrizxg.website
@@ -76156,6 +76159,7 @@ intake.pbstck.com
 intarget.ru
 inte.net
 integr8.digital
+integral-marketing.com
 integralvoteceased.com
 integrate.com
 integrate.thrive.today
@@ -79941,6 +79945,7 @@ katuhus.com
 katylz.lojaspompeia.com
 katzmedia.demdex.net
 kau.li
+kaubapsy.com
 kaudawwhwjllo.site
 kauflandstiftung.demdex.net
 kaushooptawo.net
@@ -94118,6 +94123,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
 matheranalytics.com
@@ -95305,6 +95311,7 @@ mediafix.technoratimedia.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -114433,6 +114440,7 @@ ping.naturadapt.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.resoluteoil.com
 ping.staticmoly.me
 ping.taplytics.com
@@ -116293,7 +116301,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -125089,7 +125096,6 @@ reklama.teenfuckhd.com
 reklama.wp.pl
 reklamaction.com
 reklamagaci.com
-reklamaizer.ru
 reklamamarketing.ru
 reklamamiami.com
 reklamaster.com
@@ -129461,7 +129467,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -149640,6 +149645,7 @@ ss.viabiler.dk
 ss.vibralab.co
 ss.vibrancy-music.com
 ss.vibrandoensintonia.com
+ss.victoriancaravanhire.com.au
 ss.vicuras.dk
 ss.vierdaagsecamping.nl
 ss.vigselbutiken.se
@@ -150442,6 +150448,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -151453,6 +151460,7 @@ sst.drinkhighrider.com
 sst.driubeauty.lt
 sst.drmueller.de
 sst.drogueriaelbarco.com
+sst.dronebd.xyz
 sst.drufire.com
 sst.drunkshakespeare.com
 sst.dtlaprint.com
@@ -158373,6 +158381,7 @@ statistics.qcc.com
 statistics.raiffeisen.ch
 statistics.rbi-nl.com
 statistics.riskommunal.net
+statistics.ro
 statistics.tapchimypham.com.vn
 statistics.tattermedia.com
 statistics.tu-darmstadt.de
@@ -158849,6 +158858,7 @@ stats.familyvacationcritic.com
 stats.fastbackward.app
 stats.fastcompany.com
 stats.feitianma.com
+stats.fidelity-media.com
 stats.fieald.com
 stats.fifthstarlabs.io
 stats.figshare.com
@@ -185163,6 +185173,7 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
