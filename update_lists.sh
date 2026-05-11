@@ -39,7 +39,7 @@ touch "$BLOCK_VALID"
 
 cat "$BLOCK_TMP" | xargs -n 50 -P 50 bash -c '
   for domain in "$@"; do
-    if curl -s --max-time 1 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
+    if nslookup -timeout=1 -retry=1 "$domain" 8.8.8.8 > /dev/null 2>&1; then
       echo "V $domain"
     else
       echo "I $domain"
