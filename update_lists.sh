@@ -1,11 +1,9 @@
 #!/bin/bash
 
-# File output
 BLOCK_OUT="blocklists.txt"
 BLOCK_TMP="blocklists.tmp"
 BLOCK_VALID="blocklists_valid.tmp"
 
-# Cleanup
 trap "rm -f $BLOCK_TMP $BLOCK_VALID; exit" INT TERM EXIT
 
 extract_domains() {
@@ -35,25 +33,26 @@ curl -fsSL --max-time 60 \
 
 TOTAL=$(wc -l < "$BLOCK_TMP")
 echo "Total domains collected: $TOTAL"
-echo "Validating domains via Google DNS API (this may take a while)..."
+echo "Validating domains via Google DNS API..."
 
 touch "$BLOCK_VALID"
 
-# Parallel check using Google DNS JSON API
-# Using -P 50 to balance speed and potential rate limiting
-cat "$BLOCK_TMP" | xargs -n 1 -P 50 bash -c '
+cat "$BLOCK_TMP" | xargs -n 1 -P 200 bash -c '
   domain="$0"
-  if curl -s --max-time 2 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
+  if curl -s --max-time 1 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
     echo "V $domain"
   else
     echo "I $domain"
   fi
 ' | awk -v total="$TOTAL" -v out="$BLOCK_VALID" '
+  BEGIN { start = systime() }
   /^V / { print $2 > out }
   { 
     count++; 
     if (count % 10 == 0 || count == total) {
-      printf "\rProgress: %d/%d (%.1f%%)   ", count, total, (count*100/total)
+      elapsed = systime() - start
+      speed = (elapsed > 0) ? count / elapsed : count
+      printf "\rProgress: %d/%d (%.1f%%) | Speed: %.0f dom/s  ", count, total, (count*100/total), speed
       fflush()
     } 
   }
@@ -63,7 +62,5 @@ cat "$BLOCK_TMP" | xargs -n 1 -P 50 bash -c '
 VALID_COUNT=$(wc -l < "$BLOCK_VALID")
 echo "Validation complete. Valid domains: $VALID_COUNT (Removed $((TOTAL - VALID_COUNT)) dead domains)"
 
-# Save to final destination
 mv "$BLOCK_VALID" "$BLOCK_OUT"
-
 echo "Done. File saved to $BLOCK_OUT"
