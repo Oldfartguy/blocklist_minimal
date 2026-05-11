@@ -24,6 +24,6 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: blocklists and allowlists"
-          file_pattern: 'rules/*.txt'
+          commit_message: "Auto-update: blocklists"
+          file_pattern: 'blocklists.txt'
           branch: ${{ github.ref }}
