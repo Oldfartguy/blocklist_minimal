@@ -71,13 +71,9 @@ jobs:
           TOTAL=$(wc -l < "$BLOCK_TMP")
           echo "Total: $TOTAL"
 
-          massdns -r "$RESOLVERS_FILE" -t A -o S "$BLOCK_TMP" \
-          | awk '{
-              if ($2 ~ /^(A|AAAA|CNAME)$/ && $3 !~ /^(0\.0\.0\.0|127\.)/) {
-                sub(/\.$/, "", $1)
-                if (!seen[$1]++) print $1
-              }
-            }' | sort -u > "$BLOCK_OUT"
+          massdns -r "$RESOLVERS_FILE" -t A -o J "$BLOCK_TMP" \
+          | jq -r 'select(.status == "NOERROR") | .name | rtrimstr(".")' \
+          | sort -u > "$BLOCK_OUT"
 
           VALID=$(wc -l < "$BLOCK_OUT")
           echo "Valid: $VALID / $TOTAL"
