@@ -37,19 +37,20 @@ echo "Validating domains via Google DNS API..."
 
 touch "$BLOCK_VALID"
 
-cat "$BLOCK_TMP" | xargs -n 1 -P 200 bash -c '
-  domain="$0"
-  if curl -s --max-time 1 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
-    echo "V $domain"
-  else
-    echo "I $domain"
-  fi
-' | awk -v total="$TOTAL" -v out="$BLOCK_VALID" '
+cat "$BLOCK_TMP" | xargs -n 50 -P 50 bash -c '
+  for domain in "$@"; do
+    if curl -s --max-time 1 "https://dns.google/resolve?name=${domain}&type=A" | grep -q "\"Status\": 0"; then
+      echo "V $domain"
+    else
+      echo "I $domain"
+    fi
+  done
+' -- | awk -v total="$TOTAL" -v out="$BLOCK_VALID" '
   BEGIN { start = systime() }
   /^V / { print $2 > out }
   { 
     count++; 
-    if (count % 10 == 0 || count == total) {
+    if (count % 50 == 0 || count == total) {
       elapsed = systime() - start
       speed = (elapsed > 0) ? count / elapsed : count
       printf "\rProgress: %d/%d (%.1f%%) | Speed: %.0f dom/s  ", count, total, (count*100/total), speed
