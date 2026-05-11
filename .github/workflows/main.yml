@@ -38,11 +38,14 @@ jobs:
 
           echo "Downloading..."
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
-            https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
-            https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
+            https://v.firebog.net/hosts/AdguardDNS.txt \
+            https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
             https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
-            https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
-            https://badmojr.github.io/1Hosts/Lite/adblock.txt \
+            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
+            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt \
+            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt \
+            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt \
+            https://raw.githubusercontent.com/Oldfartguy/Oldfartguy-blocklist/refs/heads/main/List.txt \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
