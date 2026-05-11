@@ -11921,7 +11921,6 @@ adpickup-prod.adhaven.com
 adpicmedia.net
 adpies.com
 adpinion.com
-adpionier.de
 adplatform.vrtcal.com
 adplay.it
 adplay.ru
@@ -12251,7 +12250,6 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -15840,8 +15838,7 @@ alleviateportedliterally.com
 alleviatepracticableaddicted.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
 allfreecounter.com
 allhoney.pro
 allhypefeed.com
@@ -16640,6 +16637,7 @@ analytics-cdn.sport.es
 analytics-cds.mobiedu.vn
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
+analytics-conomi.line.me
 analytics-dataplane.invideo.io
 analytics-egain.com
 analytics-eu.clickdimensions.com
@@ -18358,7 +18356,6 @@ anyangxq.com
 anybodyproper.com
 anycast.adnxs.com
 anycast.bapi.adsafeprotected.com
-anycast.popads.net
 anyclip-media.com
 anydebrid.com
 anyexists.com
@@ -19538,7 +19535,6 @@ api.tecbov.com.br
 api.telemetry.watchabc.go.com
 api.tendency.com.br
 api.terapeutaandrearaujo.com.br
-api.terracasadecor.com.br
 api.teslatreinamentos.com
 api.teste.auditiv.pt
 api.tf4srv.com
@@ -20205,7 +20201,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -21104,6 +21099,7 @@ as-eb2.3lift.com
 as-i4.com.cn
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -31113,6 +31109,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.srxy.xyz
 cdn.starseed.fr
@@ -69596,7 +69593,6 @@ hpowfhyhqgtvg.website
 hpowixs.info
 hpplap.shabon.com
 hpplosswaluxl.website
-hppvkbfcuq.com
 hprofits.com
 hpryvlxqtsgpx.site
 hps.pornpics.com
@@ -79613,7 +79609,6 @@ krut.link
 krutilka.net
 krvcn.caesarsupps.com
 krxd.net
-krytilka.ru
 kryvidmqdmlnm.space
 krzkasckoqvad.site
 krzovyae.work
@@ -83442,7 +83437,6 @@ load.dluca.aurelwear.com
 load.dmc.ainkhathon.com
 load.dmc.sannai.com.bd
 load.dmc.topsaleshub.com
-load.dog.seupetsemtartaro.shop
 load.dqpqg.bynorah.com
 load.dr.palloncinogastrico.it
 load.dress.armarioterapia.com.br
@@ -88276,7 +88270,6 @@ lovingdrop.pro
 lovingforever.pro
 lovinghosethus.com
 lovingspeakclasped.com
-lovn.ru
 lovnlite.com
 lovrsdate.com
 low-house.com
@@ -89880,7 +89873,6 @@ majestychampionshipjake.com
 majestydisbeliefcalory.com
 majiainc.com
 majile.vip
-major.dvanadva.ru
 majorbarefooted.com
 majorcharacter.com
 majoriklink.com
@@ -97807,7 +97799,6 @@ mtrs.fluor.com
 mtrs.fluorconstructors.com
 mtrs.fluoruniversity.com
 mtrvx.closurelondon.com
-mtrx.go.sonobi.com
 mts-lab.net
 mts.femalac.de
 mts.femna.de
@@ -102012,7 +102003,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -102311,7 +102301,6 @@ obgynif.com
 obhosmanw.in
 obhtt.innosupps.com
 obhxvb.tmktools.ru
-obigre.ru
 obin.distinctrobin.com
 obixdelivery.obix.com
 obixlzxvxgcmf.site
@@ -115284,7 +115273,6 @@ recordingbush.com
 recordsbuoyage.cyou
 recordsdropsflora.com
 recordtwo.com
-recoset.com
 recoshopping.naver.com
 recount57.com
 recoupsamakebe.com
@@ -119830,7 +119818,6 @@ s.schuback-parfuemerien.de
 s.schwabensolar.com
 s.scourtinerie.com
 s.scuolayogashanti.it
-s.sdx.ru
 s.seelenverwandter.de
 s.service.tiresplus.com
 s.sfxfunded.com
@@ -128358,7 +128345,6 @@ shauladubhe.top
 shaumtol.com
 shavingwitchcraft.com
 shawmailboxservice4.wixsite.com
-shawon1.kitchenbazarbd.com
 shawupdatingservic.wixstudio.io
 shawwaldrier.com
 shazamcubics.com
@@ -133708,7 +133694,6 @@ smilitygorb.club
 smind.hr
 sminerva.healthcentral.com
 smirchdevoir.qpon
-smiru.ru
 smism.jp
 smiteanimatedbeaker.com
 smithamcuvee.com
@@ -161263,6 +161248,7 @@ twbzhzsfluorp.website
 twc.trishwarecoaching.com
 twcdgc.opodo.ch
 twcnmti.top
+twcount.com
 twcouponcenter.com
 twdgdoukcxtby.xyz
 tweaahmal.com
@@ -161792,7 +161778,6 @@ ubkawximwnezm.online
 ubkybaizijoct.website
 ublasklnrnifs.site
 ublcyigsixgyu.website
-ublcz.cn
 ublfkm.trendhim.no
 ublockpop.com
 ubm.docu.info
@@ -175295,7 +175280,6 @@ yoloo-official.zendesk.com
 yolvyzasxyojr.space
 yomedia.vn
 yomeno.xyz
-yomzba.com
 yonazurilla.com
 yonbearticor.com
 yonderformerly.com
