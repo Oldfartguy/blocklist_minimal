@@ -38,10 +38,10 @@ jobs:
 
           echo "Downloading..."
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
-            https://v.firebog.net/hosts/AdguardDNS.txt \
+            https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt \
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
             https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
+            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/pro-onlydomains.txt \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt \
