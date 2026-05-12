@@ -8208,7 +8208,6 @@ a8clk.staff.mynavi.jp
 a8clk.star-mall.net
 a8clk.starwifi.jp
 a8clk.stken.owners-age.com
-a8clk.store.kadokawa.co.jp
 a8clk.store.mago-ch.com
 a8clk.stst-used.com
 a8clk.stylestore.jp
@@ -11921,6 +11920,7 @@ adpickup-prod.adhaven.com
 adpicmedia.net
 adpies.com
 adpinion.com
+adpionier.de
 adplatform.vrtcal.com
 adplay.it
 adplay.ru
@@ -12250,6 +12250,7 @@ ads.colombiaonline.com
 ads.comeon.com
 ads.compro.se
 ads.comunidades.net
+ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -13431,7 +13432,6 @@ advantageroughplay.com
 advantagesblareseizure.com
 advantagesclotblend.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -18356,6 +18356,7 @@ anyangxq.com
 anybodyproper.com
 anycast.adnxs.com
 anycast.bapi.adsafeprotected.com
+anycast.popads.net
 anyclip-media.com
 anydebrid.com
 anyexists.com
@@ -19535,6 +19536,7 @@ api.tecbov.com.br
 api.telemetry.watchabc.go.com
 api.tendency.com.br
 api.terapeutaandrearaujo.com.br
+api.terracasadecor.com.br
 api.teslatreinamentos.com
 api.teste.auditiv.pt
 api.tf4srv.com
@@ -20201,6 +20203,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -23961,7 +23964,6 @@ baucheedoa.net
 bauddoih.com
 bauernative.com
 baumiereosinic.com
-baumtvndvncob.rocks
 baunalithek.net
 bauqp.plankhardware.com
 bauvf.bullystickscentral.com
@@ -32362,7 +32364,6 @@ chvfszwf.internettilbud.dk
 chvfszwf.pricebook.site
 chwhg.cn
 chwyt1hzb.com
-chxipdpddjlpe.global
 chxlphs.com
 chy.jp
 chyeqolaelmpo.site
@@ -33880,7 +33881,6 @@ cntrealize.com
 cntuv.countrystorecatalog.com
 cntxtfl.com
 cnv.event.prod.bidr.io
-cnwafglwlbcro.life
 cnwetuaniiaal.site
 cnwuamf.top
 cnwucnf.top
@@ -36987,7 +36987,6 @@ crowd.novaon.asia
 crowded-you.pro
 crowdedgrandfather.com
 crowdedmass.com
-crowdgravity.com
 crowdscience.com
 crowdskout.com
 crowdstrike-cloudtrail-storage-bb-126d5e.s3.us-west-1.amazonaws.com
@@ -52014,7 +52013,6 @@ ep.warnsreblow.com
 ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep3.adtrafficquality.google
-epaaab.com
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -55968,7 +55966,6 @@ findanonymous.com
 findapi.micloud.xiaomi.net
 findbestop.com
 findbetterresults.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
@@ -59057,7 +59054,6 @@ galakotu.com
 galaksion.com
 galas3xy.com
 galaxiemedia.fr
-galaxien.com
 galaxy.reachifyinnovations.in
 galaxyearningsfly.com
 galaxymeet.ru
@@ -63910,6 +63906,7 @@ gtm.encare.com.br
 gtm.endodontiafacilitada.com.br
 gtm.engenheirodozero.com.br
 gtm.engfelipesoares.com.br
+gtm.enifler.com.br
 gtm.entrefarmalagoasanta.com.br
 gtm.entscheidung-auswandern.com
 gtm.entulix.com.br
@@ -68762,7 +68759,6 @@ hjcabozdxphbq.space
 hjcgucgcypvex.store
 hjcgw.com
 hjclprovgorvp.store
-hjcpyuivygenx.rocks
 hjdhlpthcezvm.space
 hjdrlkhcnkesl.site
 hjejk.ispiceyou.com
@@ -69593,6 +69589,7 @@ hpowfhyhqgtvg.website
 hpowixs.info
 hpplap.shabon.com
 hpplosswaluxl.website
+hppvkbfcuq.com
 hprofits.com
 hpryvlxqtsgpx.site
 hps.pornpics.com
@@ -75795,7 +75792,6 @@ javdtezk7.com
 javgg.eu
 javhd-trk.com
 javmg.com
-javoz.mitoredlight.com
 javvso.newone-shop.com
 jawholesepoy.rest
 jawigcqrumbez.space
@@ -77088,7 +77084,6 @@ jrbbavbvqmbaz.top
 jrbqw.searchamorr.net
 jrdxhaom.nveda.in
 jrfjcn.mebeli.bg
-jrfngdrodrdop.icu
 jrhp.com.cn
 jrhrn.cushionsource.com
 jriaqfqtufu.com
@@ -83437,6 +83432,7 @@ load.dluca.aurelwear.com
 load.dmc.ainkhathon.com
 load.dmc.sannai.com.bd
 load.dmc.topsaleshub.com
+load.dog.seupetsemtartaro.shop
 load.dqpqg.bynorah.com
 load.dr.palloncinogastrico.it
 load.dress.armarioterapia.com.br
@@ -92812,7 +92808,6 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaglacier.com
 mediago.io
@@ -97799,6 +97794,7 @@ mtrs.fluor.com
 mtrs.fluorconstructors.com
 mtrs.fluoruniversity.com
 mtrvx.closurelondon.com
+mtrx.go.sonobi.com
 mts-lab.net
 mts.femalac.de
 mts.femna.de
@@ -101274,7 +101270,6 @@ npv.indexexchange.com
 npv.sonicsads.com
 npvcb.23andme.com
 npvcfn.icu
-npvgghqmsehdq.club
 npvos.com
 npvqolcucthor.website
 npvva.purplegator.com
@@ -102003,6 +101998,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
+nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -104289,7 +104285,6 @@ oqbowztarb.com
 oqbpqf.syretski-sady.com.ua
 oqcw1f9yw.com
 oqdgibwa.com
-oqezwhyvtyduh.click
 oqfy4va7a.com
 oqgelc.samuelhubbard.com
 oqgrax.sissy-boy.com
@@ -105300,7 +105295,6 @@ oxygensatireflew.com
 oxysijnvkoujm.space
 oxystc.com
 oxznypldeitas.space
-oxzuwixbqdakn.space
 oy.bloutding.shop
 oy.fazedtriers.com
 oy.fewteraurums.com
@@ -106015,7 +106009,6 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
-panel.gemius.com.ua
 panel.ioam.de
 panelghostscontractor.com
 pangaeainfima.com
@@ -115273,6 +115266,7 @@ recordingbush.com
 recordsbuoyage.cyou
 recordsdropsflora.com
 recordtwo.com
+recoset.com
 recoshopping.naver.com
 recount57.com
 recoupsamakebe.com
@@ -124278,6 +124272,7 @@ server.instructivacursos.com.br
 server.integradaeducativa.com.br
 server.interpretaenem.com.br
 server.interpretarexames.com
+server.introducaoalimentar.manualinfantil.com
 server.introvertplants.com
 server.invagadget.com
 server.investeringogstudiebolig.dk
@@ -132786,7 +132781,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
 smetrics.saxobank.com
@@ -135502,7 +135496,6 @@ sportuay.com
 sportybrains.com
 sportyforum.com
 sportyvestral.cyou
-sportzflix.xyz
 spotifyprimeszones-sl.ct.ws
 spotiplus.xyz
 spotlersearchanalytics.com
@@ -139637,6 +139630,7 @@ sst.drinkhighrider.com
 sst.driubeauty.lt
 sst.drmueller.de
 sst.drogueriaelbarco.com
+sst.dronebd.xyz
 sst.drufire.com
 sst.drunkshakespeare.com
 sst.dtlaprint.com
@@ -157875,7 +157869,6 @@ tracking-widget.fillr.com
 tracking-xaxis.adsafety.net
 tracking-zy.com
 tracking.10gb.vn
-tracking.196189.com
 tracking.360products.de
 tracking.aapa.org
 tracking.aatkit.com
@@ -165045,7 +165038,6 @@ vcjfxnwmzpdgu.store
 vcjlr.guavaandgold.com
 vcjsm.bluefalcongolf.com
 vckav.merakimedicinal.com
-vckeyscqjreer.icu
 vckgixqqnyosr.website
 vcl-brain.snssdk.com
 vclouds.com
@@ -170994,7 +170986,6 @@ www.ad287.com
 www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -175361,6 +175352,7 @@ yourdatelink.com
 yourdatingplace.com
 yourdatings-online.top
 yourdestinationlink.com
+yourdreaamiy.fun
 yourfirstfunnelchallenge.com
 yourfuture.walsh.edu
 yourgirltoday.com
@@ -175750,7 +175742,6 @@ yvcchjdiqzpog.rocks
 yvcjyi.beymen.com
 yvdaeg.on-running.com
 yvdb.cn
-yvdxhbuupndqo.love
 yvdxij.applevacations.com
 yvfgex.happyprince.co.kr
 yvgpj.keenfragrances.com
