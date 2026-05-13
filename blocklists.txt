@@ -6461,7 +6461,6 @@ ad-interactions-prod-lb-335339883.ap-south-1.elb.amazonaws.com
 ad-interactions-prod-lb-4-969060157.ap-south-1.elb.amazonaws.com
 ad-interactions-prod-lb-5-767829407.ap-south-1.elb.amazonaws.com
 ad-interactions-prod-lb-6-1189850172.ap-south-1.elb.amazonaws.com
-ad-interactions-prod-lb-7-457706752.ap-south-1.elb.amazonaws.com
 ad-interactions-prod-lb-773417274.us-east-2.elb.amazonaws.com
 ad-interactions-prod-lb-799516835.ap-southeast-2.elb.amazonaws.com
 ad-interactions-prod-lb-8-576600591.ap-south-1.elb.amazonaws.com
@@ -14039,9 +14038,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -14933,7 +14929,6 @@ analytics-chi-nfl.yinzcam.com
 analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -15664,6 +15659,7 @@ analytics.facebook.com
 analytics.faceitanalytics.com
 analytics.faitco.com
 analytics.falais.com
+analytics.fam.ir
 analytics.fandmstatebank.com
 analytics.fanlocks.com
 analytics.fap.bar
@@ -19748,6 +19744,7 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
+app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -50733,7 +50730,6 @@ eclick.360doc.com
 eclick.baidu.com
 eclick.vn
 eclicks.deliveroo.com
-eclickz.com
 eclinerybelfast.org
 eclipseablebodied.com
 eclkmpsa.com
@@ -90871,7 +90867,6 @@ majesticwaterscape.com
 majesticwilderness.com
 majestydisbeliefcalory.com
 majile.vip
-major.dvanadva.ru
 majorbarefooted.com
 majorcharacter.com
 majoriklink.com
@@ -104428,6 +104423,7 @@ nybfae.face-factory.com
 nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -110414,7 +110410,6 @@ p2h08fn94d.com
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
-p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -128048,7 +128043,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -148752,7 +148746,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
