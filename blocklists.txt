@@ -2021,6 +2021,7 @@
 612.com
 612fc22a02.com
 613f15a070.com
+616book.com
 61847b1398.com
 61edd03ae1.com
 61fe2d132b.com
@@ -6894,6 +6895,7 @@ ad.land.to
 ad.latimes.com
 ad.ldplayer.net
 ad.leadboltads.net
+ad.leadboltapps.net
 ad.leap.app
 ad.letmeads.com
 ad.lgsmartad.com
@@ -9294,7 +9296,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.corusradionetwork.com
@@ -11334,7 +11335,6 @@ adtube.media
 adtumxjckljej.space
 adtv-service.teletarget.ru
 aduahr.outbax.com.au
-aduapps.com
 adui.tg.meitu.com
 adukwai.com
 adulateearring.com
@@ -14073,8 +14073,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -16689,6 +16688,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -17696,6 +17696,7 @@ any-digital.com
 anyadx.live
 anycast.adnxs.com
 anycast.bapi.adsafeprotected.com
+anycast.popads.net
 anyclip-media.com
 anyfiles.ru
 anylist.c.appier.net
@@ -19773,6 +19774,7 @@ app.customerservice.royalmail.com
 app.datorama.com
 app.davision.ai
 app.dawsoncreekeventscentre.com
+app.deflliama.tech
 app.deliver.trendmicro.co.jp
 app.demand.nexsan.com
 app.dengage.com
@@ -20124,7 +20126,6 @@ app.returnpath.net
 app.richmondspiders.com
 app.rolltide.com
 app.rumt-zh.com
-app.rybbit.io
 app.saf.sharjahart.org
 app.saygames.io
 app.sbas.sage.com
@@ -21078,7 +21079,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -24625,7 +24625,6 @@ bed.bedkingdom.co.uk
 bedaffyamen.cfd
 bedamnssoaks.cyou
 bedashliegiersubset.cyou
-bedaslonejul.cc
 beddingfetched.com
 beddme.com
 beddn.gundrymd.com
@@ -32040,7 +32039,6 @@ chaconayautias.qpon
 chademocharge.com
 chaerel.com
 chafesbranialdisa.cyou
-chaglihysty.pro
 chagnougroalry.net
 chaibsoacmo.com
 chainads.io
@@ -45549,7 +45547,6 @@ dc.volkswagen.de
 dc.volkswagen.ie
 dc.volkswagen.no
 dc.volkswagen.pl
-dc.vw.co.za
 dc.vw.com
 dc.vw.com.mx
 dc.zales.com
@@ -46333,7 +46330,6 @@ dep.hmgroup.com
 dep.tc
 depannage-vehicule-maroc.com
 depart.trinitymedia.ai
-departedcomeback.com
 departgross.com
 departharpglove.com
 departmentannounced.com
@@ -53206,6 +53202,7 @@ ep1.adtrafficquality.google
 ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -60719,7 +60716,6 @@ gem-log.sloegem.com
 gem.gbc.criteo.com
 gemanwnnxezww.website
 gemeinderat.net
-gemfowls.com
 gemhu.adocean.pl
 geminalorion.cyou
 gemini.yahoo.com
@@ -67068,6 +67064,7 @@ gtm.um.edu.uy
 gtm.umavidaextraordinaria.com.br
 gtm.unbustore.com
 gtm.unibennegociosimobiliarios.com.br
+gtm.unibuybd.com
 gtm.unicef.dk
 gtm.unicid.edu.br
 gtm.unico.io
@@ -68155,7 +68152,6 @@ hairyalligatorviolently.com
 hairyboy.pro
 haitacshopgame.com
 haitao.9439.com
-haitingshospi.info
 hajfnkyzhvbqm.online
 hajilijnemo.com
 hajilijvicus.com
@@ -72351,7 +72347,6 @@ il-vip001.taboola.com
 il1i.co
 ilajqsjclnrajhxdeumm.com
 ilarh.dermstore.com
-ilaterdeallyig.info
 ilb.pns.kt.com
 ilbrh.florencebymillsfashion.com
 ilce.alicdn.com
@@ -73772,6 +73767,7 @@ indexhu.adocean.pl
 indexstat.index.hu
 indexstats.com
 indextools.com
+indexuniverse.eu
 indexww.com
 indgq.simplyearth.com
 india.activity.browser.intl.miui.com
@@ -84332,6 +84328,7 @@ load.dd.ukko.hu
 load.delta.goodshepherdroofing.com
 load.dendrosenecio.dpmedias.com
 load.dentist.thebusydentist.com
+load.dep.ga4.life
 load.desstr.tour-star.com
 load.detailers.hellodetailer.com
 load.dev.365customcourts.com
@@ -91672,6 +91669,7 @@ marketing.cableloc.com
 marketing.caldwell.com
 marketing.caldwellpartners.com
 marketing.caliberpublicsafety.com
+marketing.calilighting.com
 marketing.callahan.agency
 marketing.callmeonmycell.com
 marketing.callsource.com
@@ -92897,6 +92895,7 @@ marketing1.coldchaintech.com
 marketing1.directimpactinc.com
 marketing1.leica-microsystems.com
 marketing1.neverfailgroup.com
+marketing2.channel-impact.com
 marketing2.globalpointofcare.abbott
 marketing2.invacare.eu.com
 marketing2.leica-microsystems.com
@@ -95572,7 +95571,6 @@ metrics.dailystrength.org
 metrics.dailytelegraph.com.au
 metrics.dairyreporter.com
 metrics.damart.fr
-metrics.dandh.ca
 metrics.dandh.com
 metrics.darty.com
 metrics.data.hicloud.com
@@ -101955,6 +101953,7 @@ nbgpbzkllsdwk.space
 nbh0sl.ru
 nbhedrelpl.com
 nbhohrknitzvk.online
+nbi.healthyfood24.com
 nbiav.hoka.com
 nbitr.truenutrition.com
 nbjiwgsm.xyz
@@ -115269,7 +115268,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -118719,6 +118717,7 @@ qjwcjt.revolveclothing.com
 qjxhxu.lakeside.com
 qjxiyt.respect-shoes.ru
 qjxkce.patriziapepe.com
+qk-solutions.com
 qkacjgqdpvilp.website
 qkbjclwirtotj.vip
 qkbwam.innisfree.com
@@ -126150,7 +126149,6 @@ rs4.anti-leech.com
 rs6.net
 rsa.pub
 rsaard.en-tea.com
-rsalcch.com
 rsaltsjt.com
 rsapanhtopcqf.website
 rsavc.travelpro.com
@@ -128362,7 +128360,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -133443,6 +133440,7 @@ server.flyupintercambios.com.br
 server.flyx.com.bd
 server.followersreports.app
 server.followscope.app
+server.foodialbd.com
 server.foodicabd.com
 server.foodvalleyctg.com
 server.foodweb.pro
@@ -135332,6 +135330,7 @@ services.webestools.com
 services.wes.df.telemetry.microsoft.com
 services.wetek.com
 services.wigzopush.com
+services.xtm.com.au
 servicetarget.com
 servicetick.com
 servicing.business.hsbc.com
@@ -138443,7 +138442,6 @@ shopt1.com
 shoptarget.com.br
 shoptelligence.com
 shopteufunny.vn
-shopth2.com
 shopthanthoai.com
 shoptoplq.com
 shoptruongstar.com
@@ -147944,6 +147942,7 @@ ss.schmerzfrei-shop.ch
 ss.scoote.ch
 ss.sdbotoxaustin.com
 ss.sebastiansalvatore.co
+ss.seebabyworld.com
 ss.seheran.com
 ss.selectastor.com
 ss.selectastor.fr
@@ -149102,6 +149101,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -157131,6 +157131,7 @@ stats.artero.dev
 stats.artisansfiables.fr
 stats.artistchristinacarmel.com
 stats.artur-rodrigues.com
+stats.ase.edu.au
 stats.askmen.com
 stats.asmodee.net
 stats.asp24.pl
@@ -157464,6 +157465,7 @@ stats.fishersci.it
 stats.flightformation.com
 stats.flightsphere.com
 stats.flixhq.live
+stats.flowphantom.com
 stats.fluorescent.co
 stats.folienmarkt.de
 stats.fomo.com
@@ -157831,6 +157833,7 @@ stats.niravraval.com
 stats.nmedia.be
 stats.no-cosmetics.de
 stats.nodewood.com
+stats.noeticflow.com
 stats.nomade.fr
 stats.nonprofit.foundation
 stats.northernsafety.com
@@ -158011,6 +158014,7 @@ stats.rong-edge.com
 stats.rs-online.com
 stats.rssc.com
 stats.rtb-oveeo.com
+stats.ruhrfestspiele.de
 stats.rumundco.de
 stats.rustica.fr
 stats.rustore.ru
@@ -158295,6 +158299,7 @@ stats.wired.com
 stats.wisconsingenomics.org
 stats.wiseadmin.net
 stats.wordpress.com
+stats.world.hey.com
 stats.worldofwarships.asia
 stats.worldofwarships.com
 stats.worldofwarships.eu
@@ -162983,7 +162988,6 @@ tamus.net.anwalt.de
 tamxlmwxtizil.website
 tan.pridnestrovie.com
 tanbarshenh.org
-tanceteventu.com
 tanga.ojrq.net
 tanganrss.com
 tangerine.optika-oftalmos.si
@@ -164050,6 +164054,7 @@ techexpress.home.mindspring.com
 techfocus.activehosted.com
 techfocusmedia.net
 techfun.pl
+techgiantit.doi-maker.zaraad.com
 techgifts.tradeshow.globalsources.com
 techilymuskish.qpon
 techinfragotpush.com
@@ -170755,7 +170760,6 @@ trackingapi.foody.vn
 trackingapi.kaufda.de
 trackingapi.meinprospekt.de
 trackingbr.zingplay.com
-trackingclick.net
 trackingdesks.com
 trackingflaregames.net
 trackingimg.narvar.com
@@ -173285,7 +173289,6 @@ twitcount.com
 twitob.com
 twittad.com
 twitter-badges.s3.amazonaws.com
-twitter-status.com
 twitter.sx
 twitterchest.com
 twitterfollowers.site
@@ -181826,6 +181829,7 @@ whoseabacus.com
 whoseesyou.com
 whoslooking.herokuapp.com
 whoson.com
+whosthat.ssl2.duapps.com
 whoursie.com
 whouseem.com
 whpgbplalfntt.site
@@ -183505,6 +183509,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
