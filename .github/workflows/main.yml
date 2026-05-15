@@ -40,6 +40,7 @@ jobs:
           curl -fsSL --max-time 90 --parallel --parallel-immediate \
             https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt \
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
+            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
             https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
             https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt \
