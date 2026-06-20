@@ -3137,7 +3137,6 @@
 13js1lbtbj3.sparkloop.app
 13kub.com
 13m2-lefilm.com
-13miki.com
 13milebrand.com
 13o.net
 13one3.com
@@ -4794,6 +4793,7 @@
 2znp09oa.com
 2ztav5r7r.com
 2zxm2pb3q38m2k.cfd
+3-a.net
 3.5646.cn
 3.cjcp.cn
 3.html-load.cc
@@ -5764,7 +5764,6 @@
 4pn.cn
 4pnoo6qi5f2x9zzmrouxhmeo.cfd
 4popeyes.com
-4pu.com
 4q.iperceptions.com
 4qinvite.4q.iperceptions.com
 4quarantinetube.com
@@ -11867,7 +11866,6 @@ ad.leap.app
 ad.letmeads.com
 ad.lgsmartad.com
 ad.line-scdn.net
-ad.link
 ad.linkprice.com
 ad.linksynergy.com
 ad.liveinternet.ru
@@ -14370,6 +14368,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.brzchecagem.com
@@ -15812,6 +15811,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -16129,7 +16129,6 @@ adsmarketingfrontend-pa.clients6.google.com
 adsmarketingwebp13n-pa.clients6.google.com
 adsmart.co.uk
 adsmart.com
-adsmart.hk
 adsmart.net
 adsmartracker.com
 adsmatcher.com
@@ -19693,6 +19692,7 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -20777,6 +20777,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22557,7 +22558,6 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -26176,7 +26176,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27339,7 +27338,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -40096,7 +40094,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -48377,7 +48374,6 @@ cse3.chausport.com
 csebt.bloomist.com
 csectserector.shop
 csectskefti.com
-csengb.manfredijewels.com
 csep.app
 csephkkcdkljz.club
 csf.uzone.id
@@ -54019,6 +54015,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -54576,6 +54573,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -56221,6 +56219,8 @@ ddmuiijrdvv0s.cloudfront.net
 ddmwicctsqjhc.website
 ddnamecauma.com
 ddngtv.pittarello.com
+ddns.info
+ddns.name
 ddoamt.181450.com
 ddogiy.kicksewing.co.kr
 ddome-tag.blablacar.com
@@ -59485,6 +59485,7 @@ dns.0pengl.com
 dns.g8z.net
 dns.jd.com
 dns.weibo.cn
+dns05.com
 dns1.stabletransit.com
 dns2.stabletransit.com
 dnsbak.mediaz.vn
@@ -61722,6 +61723,7 @@ dynad.net
 dynad.website.bg
 dynalyst.jp
 dynamic-ad-server.martechservicenow.com
+dynamic-dns.net
 dynamic-report-api.appsflyersdk.com
 dynamic.163data.com.cn.tv
 dynamic.3lift.com
@@ -61733,6 +61735,8 @@ dynamic2.anandtech.com
 dynamicads.statsperformdev.com
 dynamicadx.com
 dynamicapl.com
+dynamicdns.biz
+dynamicdns.co.uk
 dynamicdownloads.outbyte.com
 dynamicfibroid.cyou
 dynamicmail.optimove.net
@@ -65654,6 +65658,7 @@ ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
 ep4p.com
 epaaab.com
+epac.to
 epacash.com
 epaej.cortazu.com
 epajsxijrpzbh.online
@@ -68699,6 +68704,7 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -76732,7 +76738,6 @@ glxsos.site
 glxtest.site
 glycansmolts.click
 glycinshimmer.shop
-glymanicale.com
 glyoxylpowered.cfd
 glyrcioxzpvvh.site
 glzsji.nordman.ru
@@ -89545,7 +89550,6 @@ img.bwin.com
 img.bwin.com.mx
 img.bwin.es
 img.cdns.turn.com
-img.channellive.tv
 img.cm.ksmobile.com
 img.cmpnet.com
 img.connatix.com
@@ -94434,7 +94438,6 @@ jet.zbp.ru
 jetbudjet.in
 jetengine.be
 jetm-tech.net
-jetos.com
 jetour.altosandes.com.pe
 jetpackdigital.com
 jetskiscovers.com
@@ -96087,7 +96090,6 @@ junctiontv.net
 jundzeaqsodl.in
 junefangs.com
 junepantomime.com
-jungleheart.com
 junior-a8cv.techacademy.jp
 junior-satisfaction.com
 junior-shine.com
@@ -100704,7 +100706,6 @@ lfhthokieryf.com
 lfjdqqmzpswof.website
 lfk.mybluehost.me
 lfkesv.seeplaces.com
-lflinkup.com
 lfmetrics.loyalfans.com
 lfmhcb.sefamerve.com
 lfmjmcdx.xyz
@@ -114349,7 +114350,6 @@ meetwebclub.com
 meetyouheree.com
 mefkkezojxnzn.website
 mefo1.zdf.de
-mefound.com
 mega-ad.de
 mega-p2p.net
 mega-r.com
@@ -116996,6 +116996,7 @@ mg.32r.com
 mg.adskeeper.co.uk
 mg.campaign.tumi.com
 mg.cd.rangeusa.com
+mg.channellive.tv
 mg.crdlmkt.mybobs.com
 mg.cscrewards.coldstonecreamery.com
 mg.e.mail.realtor.com
@@ -119730,7 +119731,6 @@ moneyfree.co
 moneygram-nhantien23quoctwe.weebly.com
 moneygram24hh.weebly.com
 moneyhay.net
-moneyhome.biz
 moneymakercdn.com
 moneyoyo.com
 moneyplatform.biz
@@ -121881,7 +121881,6 @@ mykydlznkanfk.online
 mylead-tracking.tracknow.info
 mylead.global
 myleague.com
-mylftv.com
 mylikes.com
 mylittlebigweb.com
 mylivejasmin.org
@@ -122060,6 +122059,7 @@ mywedding-beacon.team-rec.jp
 mywondertrip.com
 mywovcjadrtcb.online
 mywow.userecho.com
+mywww.biz
 myxpass.com
 myxuak.mir-kubikov.ru
 myyivaftgefsq.site
@@ -125393,6 +125393,7 @@ nrephihe.com
 nrepr.thegymking.com
 nrert.brighton.com
 nresystems.com
+nrezbuddfmt.com
 nrg.red-by-sfr.fr
 nrgdbe.astonlshlngdates.com
 nrgdsbuviocit.store
@@ -125517,6 +125518,7 @@ ns2.c13a856f4a879a89e9a638207efd6c94.biz
 ns2.cba4a6e5d3c956548a337c52388473f1.com
 ns2.datapipe.net
 ns2.mserversns.com
+ns2.name
 ns2.namebrightdns.com
 ns2.omtrdc.net
 ns2.phase8.net
@@ -125524,6 +125526,7 @@ ns2.sfj.pnap.net
 ns2.w3open.com
 ns3.c13a856f4a879a89e9a638207efd6c94.biz
 ns3.cba4a6e5d3c956548a337c52388473f1.com
+ns3.name
 ns336739.ip-37-187-249.eu
 ns38541.ovh.net
 ns3w1qrlbk4s.tip.etip-staging.etip.io
@@ -126135,7 +126138,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -133014,7 +133016,6 @@ p2kdjk34dd.com
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
-p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -133560,7 +133561,6 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
-panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -144604,6 +144604,7 @@ r2---sn-aigl6ner.c.2mdn.net
 r2---sn-aigl6ney.c.2mdn.net
 r2---sn-aigl6nl7.c.2mdn.net
 r2---sn-aigl6ns6.c.2mdn.net
+r2---sn-aigl6nsd.c.2mdn.net
 r2---sn-aigl6nsr.c.2mdn.net
 r2---sn-aigl6nz7.c.2mdn.net
 r2---sn-aigl6nze.c.2mdn.net
@@ -147606,7 +147607,6 @@ real-mind.com
 real-women-online.com
 real.delovoemesto.ru
 real.pclick.yahoo.com
-real.sp.analytics.yahoo.com
 realbig.media
 realcastmedia.com
 realcfadsblog.com
@@ -153026,6 +153026,7 @@ s.diypoolsandspas.com
 s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
+s.doyo.cn
 s.dpmsrv.com
 s.dreamland-plc.com
 s.dressforfun.de
@@ -161011,7 +161012,6 @@ servethis.com
 servetraff.com
 servetraffic.com
 serveurmumble.com
-serveuser.com
 serveusers.com
 servg.eskimi.com
 servg.modoro360.com
@@ -165951,6 +165951,7 @@ smartdrive.net
 smarterbidder.com
 smarterhq.io
 smarterremarketer.net
+smartex-bd.com
 smartflowerwave.com
 smarthappystream.com
 smartico.ai
@@ -170098,6 +170099,7 @@ sn-aigl6ned.c.2mdn.net
 sn-aigl6ner.c.2mdn.net
 sn-aigl6nl7.c.2mdn.net
 sn-aigl6ns6.c.2mdn.net
+sn-aigl6nsd.c.2mdn.net
 sn-aigl6nsr.c.2mdn.net
 sn-aigl6nz7.c.2mdn.net
 sn-aigl6nze.c.2mdn.net
@@ -176130,7 +176132,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -178809,6 +178810,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -186592,6 +186594,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suiformupdrink.cyou
+suijidaohxl.top
 suipqsqihrccz.online
 suitablecondemntin.com
 suitablepartner.life
@@ -186921,6 +186924,7 @@ support509.com
 supportedbailednotions.com
 supportedpantry.com
 supporters.redbankgreen.com
+supportive-addition.pro
 supportiveinvoicevarnish.com
 supportivespot.pro
 supportmetrics-uat.apple.com
@@ -188039,7 +188043,6 @@ synedawtit.com
 synencrisp.cyou
 synergize.co
 synergy-e.com
-synergy.com
 synerise.com
 synkd.life
 synochaauca.com
@@ -194854,7 +194857,6 @@ toyotaeurope.tt.omtrdc.net
 toyotafinancialservi.tt.omtrdc.net
 toysbasics.com
 toytakeover.com
-toythieves.com
 toytooth.com
 tp-cdn.com
 tp-em.cc
@@ -197062,7 +197064,6 @@ track.shore-experience.com
 track.shrinkplus.com
 track.sightseeing-experience.com
 track.signalwache.site
-track.siliconecasepereira.com
 track.simonton.com
 track.simpatiamay.online
 track.sindicorevoltado.com.br
@@ -203920,6 +203921,7 @@ update.krushmedia.com
 update.ludashi.com
 update.mopub.com
 update.net.jumia.ug
+update.postimp-ofw.fyber.com
 update.purina.com
 update.rubiconproject.com
 update.wps.cn
@@ -213757,6 +213759,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -220228,7 +220231,6 @@ yyzuhi.clarinsusa.com
 yz-ae.lojel.com
 yz6mh5m9j1fbkz3q8yg9p7j1xv.cfd
 yz70.com
-yz9gv7oczur.b4wfgbr26itlmf12i2nyf.cyou
 yzaxye.animal-valley.com
 yzazgq.buffalo.de
 yzccdzhpooakp.store
