@@ -12245,7 +12245,6 @@ ad.v3mh.com
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
-ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -14670,7 +14669,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -17629,7 +17627,6 @@ adzpier.com
 adzs.com
 adzs.nl
 adztec.com
-adztech-console.reviveservers.com
 adztech-delivery.reviveservers.com
 adztech-images.reviveservers.com
 ae-alimelog.taobao.com
@@ -20052,8 +20049,7 @@ alleviateportedliterally.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21183,7 +21179,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22945,6 +22940,7 @@ analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.sharecare.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -23329,6 +23325,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -26580,6 +26577,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -32394,7 +32392,6 @@ beigecheerfulslacken.com
 beigedevotedcockpit.com
 beigyagilely.cyou
 beijing.buzhi5.com
-beijingbg.com
 beijingjiagu.com
 beijingzhongnanhai.com
 beingajoytow.com
@@ -42014,7 +42011,6 @@ chief-child.com
 chief-sweet.pro
 chiefdigitalofficer.evergage.com
 chieferror.pro
-chiefindividual.com
 chieflydecorationtreasure.com
 chiefrecovery.com
 chifferexternecoys.cfd
@@ -48730,7 +48726,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -67032,6 +67027,7 @@ errs.qwrt.xyz
 errtherapystrictly.com
 errumoso.xyz
 ers.baidu.com
+ers.com
 ers.twilio.com
 erseducationin.org
 ershniff.com
@@ -72189,7 +72185,6 @@ flattenpliable.com
 flatteringwhirlpooldetergent.com
 flattermonumentsbarren.com
 flattervillage.qpon
-flavamovie.com
 flavg.drinkfreespirits.com
 flavorists.com
 flavouredjuicycontent.com
@@ -73278,7 +73273,6 @@ fota5t.adups.com
 fotao9.com
 fotareliance.adups.com
 fotchpandar.cfd
-fotmalslits.cyou
 foto-tip.pl
 foto.gd
 fotoscaseras.top
@@ -75313,6 +75307,7 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
+galaxien.com
 galaxy.bz.mgtv.com
 galaxy.reachifyinnovations.in
 galaxyattack-de0bd.firebaseio.com
@@ -78304,6 +78299,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -84259,7 +84255,6 @@ gzqzjytt.com
 gzr.mybluehost.me
 gzrlncudpybtf.site
 gzsy12348.com
-gzthedu.cn
 gzugqzgsfr.com
 gzuvq.sanitairkamer.nl
 gzvknriwrcwtt.website
@@ -85017,6 +85012,7 @@ hawserlimose.com
 hawserseuryon.cyou
 hawsuffer.com
 hawthorn33.top
+haxbyq.com
 haxddr.crocieraonline.com
 haxdym.min-breeder.com
 haxrkdicbviay.online
@@ -89095,6 +89091,7 @@ icmakp.united-arrows.tw
 icmxqeeivfzgo.site
 icn.brandnewapp.pro
 icodstatus.shop
+icog.com
 icon-uap.iads.unity3d.com
 icon.chartboost.com
 icon.cnmo.com
@@ -90160,7 +90157,6 @@ imageflow.store
 imagehost.pics
 imagehub.fun
 imagelx.yidianzixun.com
-imagenes.marketing.calidad.pucp.edu.pe
 imagenes.ubmmexico.com
 imagenest.site
 imagenft.com
@@ -95592,7 +95588,6 @@ jdt8.net
 jduvha.lamartina.com
 jdvnpqubqzzae.site
 jdvts.joyorganics.com
-jdvzwpsfnjphs.com
 jdwqsewrbvnnt.website
 jdxnelgnhtfyq.space
 jdxxuvnrpdmit.space
@@ -96171,6 +96166,7 @@ jkfivewwaldgy.space
 jkgeyo.urbanara.de
 jkgod.theforgebarbers.ca
 jkha742.xyz
+jkhad.com
 jkheiyvgvjfwy.online
 jkhjgg.cn
 jkivksjqquguc.store
@@ -114321,6 +114317,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -127861,6 +127858,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -133183,6 +133181,7 @@ opummf.himiwaybike.com
 opungnani.shop
 opus-dev.analytics.yahoo.com
 opus-whisky.com
+opus.analytics.yahoo.com
 opus.sexyxxx.biz
 opuuh.bikesonline.com.au
 opvanillishan.com
@@ -135333,6 +135332,7 @@ palpateshakedecoy.com
 palpedrecramp.qpon
 palsybecamedislike.com
 paltryapple25.com
+paltrydot.pro
 paltryheadline.com
 paltryruffian.com
 paluinho.cloud
@@ -135373,7 +135373,6 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
-panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -138729,7 +138728,6 @@ pixel.theagency.com
 pixel.thenexusgroups.org
 pixel.thoughtmetric.io
 pixel.tivo.com
-pixel.trackverify.com
 pixel.truecaller.com
 pixel.tuko.co.ke
 pixel.udpauto.ru
@@ -149426,7 +149424,6 @@ realxavounow.com
 realytics.io
 realytics.net
 realzeit.io
-reamedprovend.cfd
 reamusemooleys.com
 reaonq.xn--hdks770u8f0a8dvzft.net
 reapedawning.qpon
@@ -154750,6 +154747,7 @@ s.diypoolsandspas.com
 s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
+s.doyo.cn
 s.dpmsrv.com
 s.dreamland-plc.com
 s.dressforfun.de
@@ -155285,7 +155283,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -173309,7 +173306,6 @@ sonar-pat1-1.xx.fbcdn.net
 sonar-phl2-1.xx.fbcdn.net
 sonar-phx.xx.fbcdn.net
 sonar-phx1-1.xx.fbcdn.net
-sonar-pmo.xx.fbcdn.net
 sonar-pmo1-1.xx.fbcdn.net
 sonar-poa.xx.fbcdn.net
 sonar-poa1-1.xx.fbcdn.net
@@ -177888,6 +177884,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -188249,6 +188246,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -188621,7 +188619,6 @@ surecheapermoisture.com
 surechieflyrepulse.com
 sureconciliateprojection.com
 surefooted-customer.pro
-surefootedmaintenance.com
 surehits.com
 sureman.net
 surenther.xyz
@@ -201061,7 +201058,6 @@ trasupr.com
 traumaprocuredinsect.com
 traumaroadendorse.com
 traumatic-campaign.pro
-traumatic-somewhere.com
 traumaticassignearnest.com
 traumaticpower.com
 traumatictrash.com
@@ -205737,7 +205733,6 @@ upkmxceubeyuz.space
 upl.net-solutions.vn
 uplatiason.com
 uplcm.com
-upleandiocoel.cyou
 uplift-platform.com
 upliftsearch.com
 upload-ad.long.tv
@@ -206389,6 +206384,7 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -215711,6 +215707,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -217304,7 +217301,6 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
-www.www.my-exodus.com.co
 www.www.superset-qa.sese.cn
 www.wwwhwgo.com
 www.wwwmyboostnow.com
