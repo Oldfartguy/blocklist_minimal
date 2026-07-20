@@ -3871,7 +3871,6 @@
 1bots.top
 1bpmtrvkqkj.pettoonies.com
 1brcl.com
-1buu1.penyouw.com
 1buv.com
 1bva.sg.fr
 1bw7etm93lf.www.woodbrass.com
@@ -14683,6 +14682,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -20070,7 +20070,9 @@ alleviateportedliterally.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21200,6 +21202,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -23339,6 +23342,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -31027,7 +31031,6 @@ banner.dafasportbook.com
 banner.de
 banner.dhg-marketing.de
 banner.diamondclubcasino.com
-banner.dk
 banner.dspcdn.com
 banner.easyspace.com
 banner.electronic4you.at
@@ -32439,7 +32442,6 @@ belfrybreathrich.com
 belgikanst.iad-03.braze.com
 belgium.wolterskluwer.com
 belgorod-news.net
-belia-glp.com
 beliebtestewebseite.de
 belieffootballbetty.com
 beliefnormandygarbage.com
@@ -40681,6 +40683,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -70810,7 +70813,6 @@ festtube.com
 festyy.com
 fet20kdo93.com
 fetch.adivery.com
-fetchapiutility.com
 fetchergumdrop.com
 fetchlately.com
 fetchopentweak.click
@@ -86242,7 +86244,6 @@ hilariousdeposit.pro
 hilariouseconomics.com
 hilariouspurpose.pro
 hilarioussewingartsy.com
-hilarioussound.pro
 hilarioustasting.com
 hilariouszinc.com
 hilerant.site
@@ -88849,6 +88850,7 @@ iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmoo.apple.com
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -96589,7 +96591,6 @@ joqdd.madeincookware.com.au
 joqowqymkrywy.top
 joqpqwdsbjkpr.com
 jorammeatman.com
-jordan.qunis.ru
 jornal.tesouros-da-julia.com
 jornaya.com
 jorttiuyng.com
@@ -113219,6 +113220,7 @@ marketing.impexium.com
 marketing.inaani.com
 marketing.incrediwear.com
 marketing.indianadunes.com
+marketing.industrialspec.com
 marketing.inex.com
 marketing.influitive.com
 marketing.infogrouptargeting.com
@@ -113761,6 +113763,7 @@ marketing.thewilsonagency.com
 marketing.thimble.com
 marketing.thisisalpha.com
 marketing.thisiscleveland.com
+marketing.thomassci.com
 marketing.threadsol.com
 marketing.tidedrycleaners.com
 marketing.tignl.eu
@@ -131720,7 +131723,6 @@ okcmg.rogerssportinggoods.com
 okdcrqtemifgo.online
 okdebrid.com
 okdigital.me
-okdqnljk.com
 okeeblr.com
 okeebobbedancre.cyou
 okeechobeetimes.com
@@ -135375,6 +135377,7 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
+panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -139401,7 +139404,6 @@ pledgezoology.com
 pledgormagh.com
 pleisty.com
 plela.org
-plena.valvieira.com
 plenisthomonym.shop
 plenomedia.com
 plentifuloriginupwards.com
@@ -140416,6 +140418,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -177891,7 +177894,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -188250,6 +188252,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -207673,6 +207676,7 @@ vads.vn
 vaes-eu-preprod.amazon-adsystem.com
 vaes-eu.amazon-adsystem.com
 vaes-fe-preprod.amazon-adsystem.com
+vaes-fe.amazon-adsystem.com
 vaes-na-preprod.amazon-adsystem.com
 vaes-na.amazon-adsystem.com
 vafbmmsda.com
@@ -208468,7 +208472,6 @@ verkoop.kim
 verltabiedate.net
 verltabledates.com
 verngrog.cfd
-verninchange.com
 vernonspurtrash.com
 veronaaffect.cyou
 verooperofthewo.com
@@ -224097,7 +224100,6 @@ ztiztuglcs.com
 ztjsi.millieloveslily.com
 ztkoujoouepkn.site
 ztkyevuemenmj.online
-ztm.foolhardywear.pro
 ztm.zestdent.com
 ztmixw.golfplus.fr
 ztmxyzxqpihml.site
