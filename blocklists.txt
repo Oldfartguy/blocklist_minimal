@@ -5236,6 +5236,7 @@
 3d-tgp.com
 3d-unlimited.com
 3d-userconference.com
+3d.com
 3d1.gmobb.jp
 3d2print.net
 3d358eca33.com
@@ -14262,6 +14263,7 @@ ads-mtg.cbx-rtb.com
 ads-mth.cbx-rtb.com
 ads-not-by-this-site.de
 ads-optima.com
+ads-partner-noneu.truecaller.com
 ads-partners.coupang.com
 ads-partners.coupang.com.edgekey.net
 ads-pd.nbcuni.com
@@ -15861,6 +15863,7 @@ adserver-vpc-alb-1-725730730.us-west-2.elb.amazonaws.com
 adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com
 adserver-vpc-alb-2-553366957.us-west-2.elb.amazonaws.com
 adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com
+adserver.43plc.com
 adserver.4x4community.co.za
 adserver.71i.de
 adserver.a24.com.tr
@@ -19413,7 +19416,6 @@ akamai.smartadserver.com
 akamai.smartadserver.com.edgesuite.net
 akamai.tags.tiqcdn.com
 akamai.vungle-cdn.vungle.com
-akamaihd.net
 akanoo.com
 akarakas.com
 akashdayalgroups.com
@@ -24202,7 +24204,6 @@ aotiacg.site
 aotiw.cn
 aoulpo.puccini.pl
 aousjfw8z.com
-aouuldqzry.com
 aouvvblbuvhuo.online
 aovchina.com
 aowowvsdtebov.online
@@ -40656,6 +40657,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -49040,7 +49042,6 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -55442,6 +55443,7 @@ data.langaware.com
 data.lapidatio.com.br
 data.larbonito.com
 data.larioja.com
+data.lashmag.ro
 data.lasprovincias.es
 data.latinamerica.coca-cola.com
 data.laverdad.es
@@ -70811,7 +70813,6 @@ festtube.com
 festyy.com
 fet20kdo93.com
 fetch.adivery.com
-fetchapiutility.com
 fetchergumdrop.com
 fetchlately.com
 fetchopentweak.click
@@ -113300,7 +113301,6 @@ marketing.impexium.com
 marketing.inaani.com
 marketing.incrediwear.com
 marketing.indianadunes.com
-marketing.industrialspec.com
 marketing.inex.com
 marketing.influitive.com
 marketing.infogrouptargeting.com
@@ -120824,7 +120824,6 @@ mnoren.aosom.fr
 mnpa6gtrk.com
 mnpjxh.plaquinhaflex.com.br
 mnpuxygfpkvey.online
-mnpxmcrlmvdok.website
 mnqcpxjbfaaep.space
 mnqlog.ldmnq.com
 mnqojzussbscy.website
@@ -122649,7 +122648,6 @@ mtmkfjbitxzlhijfcenx.top
 mtmvrulutr.com
 mtnng.nonstopdogwear.com
 mtnubxvkutteu.website
-mtnukovxnnwjc.website
 mto.cgv.vn
 mto.mediatakeout.com
 mto4.tgramsearch.com
@@ -136481,6 +136479,7 @@ pasta.mt.duapps.com
 pasta.musicool.duapps.com
 pasta.nm.duapps.com
 pasta.parallelaccounts.duapps.com
+pasta.pc.duapps.com
 pasta.pw.duapps.com
 pasta.pwlite.duapps.com
 pasta.realcaller.duapps.com
@@ -140561,7 +140560,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -155279,7 +155277,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -177903,8 +177900,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -197220,7 +197215,6 @@ tr.dulsco.com
 tr.dwjq.com.cn
 tr.dxmcdn.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -201848,7 +201842,6 @@ trk.jornadadareformatributaria.com.br
 trk.justanswer.com
 trk.juztcard.mx
 trk.kaliakra.bg
-trk.kansashealthsystem.com
 trk.kicksdunk.com
 trk.kirbybuilt.com
 trk.kissmetrics.com
@@ -202635,6 +202628,7 @@ tshirtlabawfully.com
 tshmhp.icu
 tshts.xaliorganics.com
 tshuxi.bbqguys.com
+tsidfrri.ru
 tsis.jpush.cn
 tsiwoulukdlike.org
 tsj0.madeindesign.com
@@ -207901,7 +207895,6 @@ vapedia.com
 vapesurplus.com
 vapidnou.qpon
 vapidshopping.pro
-vapnecltonjc.com
 vapourdifferenceszealot.com
 vapxga.sieh-an.de
 vaqjgbsmdrqzp.website
@@ -222343,7 +222336,6 @@ yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcebhfvytfuhw.com
 yzcfva.healthyplanetcanada.com
-yzcoc.com
 yzcpqa.gumtree.com
 yzcwyy.com
 yzdkhftbkynua.site
