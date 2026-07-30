@@ -1041,7 +1041,6 @@
 0554xubin.com
 055xx.com
 05636.com
-05695.com
 057.org
 057108.com
 05712.com
@@ -10247,6 +10246,7 @@ abc.lapti.fi
 abc.linnenshop.nl
 abc.luxe5321.com
 abc.madrobe.com
+abc.magnetictomotivatedsellers.com
 abc.mediashake.fi
 abc.megafurniture.sg
 abc.metapcs.com
@@ -12193,6 +12193,7 @@ ad.v3mh.com
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
+ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -14616,7 +14617,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -20019,6 +20019,7 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -22971,6 +22972,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -83190,7 +83192,6 @@ gtm.sportexusa.com.br
 gtm.sportmaniac.ro
 gtm.spotbichos.com
 gtm.spyequipmentuk.co.uk
-gtm.srcolchao.com.br
 gtm.staaktreinamentos.com.br
 gtm.stadium.be
 gtm.stampenmedia.se
@@ -102946,7 +102947,6 @@ ligydaloca.com
 lihatt.icu
 lihayne.shop
 lihmnebydaizl.site
-lihshailmyjzb.space
 liiustriousdate.com
 liiustriousdate.net
 liiustrlousdate.com
@@ -137613,7 +137613,6 @@ peppery-dance.pro
 pepperyconvenience.com
 peppy2lon1g1stalk.com
 pepsia.com
-pepsibonanza.com
 pepsico.demdex.net
 pepwpv.icu
 peqfgslwvqndy.space
@@ -140607,6 +140606,7 @@ popmonetizer.xml.ak-is2.net
 popmyads.com
 popmycash.com
 popnc.com
+popped.biz
 popperama.com
 popplantation.com
 poppysol.com
@@ -140864,7 +140864,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -155563,6 +155562,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -170937,7 +170937,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -178232,8 +178231,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -189915,8 +189912,6 @@ sync.a-mo.net
 sync.ad-stir.com
 sync.adap.tv
 sync.adkernel.com
-sync.ads.152media.com
-sync.ads.oveeo.com
 sync.adspend.space
 sync.adspruce.com
 sync.adtelligent.com
@@ -200504,7 +200499,6 @@ tracking.nyhetstjansterna.dagensmedicin.se
 tracking.nyhetstjansterna.di.se
 tracking.nylim.com
 tracking.nynashamnsposten.se
-tracking.occident.com
 tracking.ocr.ca
 tracking.oe24.at
 tracking.offerista.com
@@ -205891,6 +205885,7 @@ untd.com
 untelicpermute.com
 unthickgangingcalesas.cyou
 untho.de
+untidyfee.pro
 untidynondescript.com
 untidyrelayidentifiers.com
 untidyrice.com
