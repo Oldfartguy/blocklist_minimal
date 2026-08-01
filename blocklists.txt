@@ -16478,6 +16478,7 @@ adst.citchenware.com
 adst.djaxadserver.com
 adstacks.g2afse.com
 adstag0102.xyz
+adstage-analytics.herokuapp.com
 adstage.io
 adstailor.com
 adstanding.com
@@ -19982,7 +19983,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21131,6 +21132,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22907,6 +22909,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -27683,6 +27686,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -32905,7 +32909,6 @@ bewilderedbattle.com
 bewilderedblade.com
 bewitched-display.pro
 bewitched-landscape.com
-bewitchedpin.pro
 bewitchtower.com
 bewnfl.houseoftents.co.uk
 bewormspumpman.cyou
@@ -40672,6 +40675,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -40754,6 +40758,7 @@ cdn.userreport.com
 cdn.usezeno.com.br
 cdn.ushareit.com
 cdn.vaara.id
+cdn.viadata.store
 cdn.vidcrunch.com
 cdn.video.playwire.com
 cdn.vidverto.io
@@ -40798,6 +40803,7 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
+cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -69812,16 +69818,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -72284,7 +72287,6 @@ flattenpliable.com
 flatteringwhirlpooldetergent.com
 flattermonumentsbarren.com
 flattervillage.qpon
-flavamovie.com
 flavg.drinkfreespirits.com
 flavorists.com
 flavorycrickey.qpon
@@ -73807,7 +73809,6 @@ franklinuniversity.evergage.com
 franklycommission.com
 franklymikie.qpon
 franklyprocesses.com
-frankproduct.pro
 franksfloral.com
 frankvehicle.com
 franticallyplayedproclaim.com
@@ -73961,7 +73962,6 @@ freefromads.com
 freefromads.pro
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -77605,7 +77605,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -77861,6 +77860,7 @@ globalservices.conde.digital
 globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalspec.demdex.net
+globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
@@ -88962,7 +88962,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -93357,6 +93356,7 @@ instant.one
 instant.page
 instant4ck.com
 instantbannercreator.com
+instantcash.ru
 instantconservativedetect.com
 instantdeceived.com
 instantdollarz.com
@@ -96719,6 +96719,7 @@ joqdd.madeincookware.com.au
 joqowqymkrywy.top
 joqpqwdsbjkpr.com
 jorammeatman.com
+jordan.qunis.ru
 jornal.tesouros-da-julia.com
 jornaya.com
 jorttiuyng.com
@@ -101465,7 +101466,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -110336,6 +110336,7 @@ lovingdrop.pro
 lovingforever.pro
 lovinghosethus.com
 lovingspeakclasped.com
+lovn.ru
 lovnlite.com
 lovrsdate.com
 low-house.com
@@ -111484,6 +111485,7 @@ lyyyupftoqfoz.site
 lyzhenlv.com
 lyzhutingqi.com
 lz-pub-ads.com
+lz.faenasturbit.com
 lz.galpseceder.shop
 lz.mazdarelayed.com
 lzadaq.hoonjaya.com
@@ -123046,6 +123048,7 @@ muyuan.asia
 muzarabeponym.website
 muzhskoy.xyz
 muzikguide.com
+muzza.ru
 muzzledberglet.shop
 muzzledescend.com
 muzzleexterminator.com
@@ -126212,7 +126215,6 @@ njpilt.icu
 njpmt.hatchetheadwear.com
 njpwzgxksptql.website
 njri9gn72.com
-njrrs.com
 njsarhluoqxqo.store
 njtbmyyhwjaxo.online
 njufaubstlpar.space
@@ -127899,7 +127901,6 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -130760,6 +130761,7 @@ obguj.wishgardenherbs.com
 obgynif.com
 obhtt.innosupps.com
 obhxvb.tmktools.ru
+obigre.ru
 obin.distinctrobin.com
 obiono.com
 obislame.ru
@@ -133318,7 +133320,6 @@ oqp.mybluehost.me
 oqr4.destinia.in
 oqrwzelhomc.com
 oqsmpiarwbpe.com
-oqsrwbyb.com
 oqtuzo.b2bpartner.cz
 oqtxcfuumplee.website
 oquassaclaroesjaegars.cfd
@@ -140527,6 +140528,7 @@ post-view.com
 post.agentanalytics.com
 post.iperceptions.com
 post.nationalrent.ru
+post.rmbn.ru
 post.update.3lift.com
 post.update.a-mo.net
 post.update.ap.lijit.com
@@ -145726,7 +145728,6 @@ qvu377cbhhgu.top
 qvuhsaqa.biz
 qvujlogasdcdg.site
 qvvep.minimlrefills.co.uk
-qvvqbm.incrediblesdate.net
 qvvurjgilhgbd.space
 qvwcrygyfqeih.site
 qvwick.mister-auto.de
@@ -150377,6 +150378,7 @@ removeads.workers.dev
 removedidentification.com
 removedrehabilitation.com
 removeverizon.net
+remox.com
 remp-beam.golem.de
 remp-campaign.golem.de
 remp.dailymaverick.co.za
@@ -152004,6 +152006,7 @@ rmazxvjbpymsz.website
 rmb-trf.net
 rmbalnswelwcp.online
 rmbehm.junjewelry.com
+rmbn.ru
 rmcje.remedymeds.com
 rmclskudgnbgj.space
 rmd.device-api.indigitall.com
@@ -155078,6 +155081,7 @@ s.schuback-parfuemerien.de
 s.schwabensolar.com
 s.scourtinerie.com
 s.scuolayogashanti.it
+s.sdx.ru
 s.seelenverwandter.de
 s.service.tiresplus.com
 s.sfxfunded.com
@@ -155193,7 +155197,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -171471,6 +171474,7 @@ smilingvery.com
 smilitygorb.club
 smind.hr
 sminerva.healthcentral.com
+smiru.ru
 smism.jp
 smitchbakongo.qpon
 smiteanimatedbeaker.com
@@ -180510,7 +180514,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -180959,6 +180962,7 @@ sst.trtmethod.com
 sst.truclothing.com
 sst.truefollowrs.com
 sst.trustallred.com
+sst.tryamm.ro
 sst.trymyfirmtech.com
 sst.tryperiod.com
 sst.tryvytadose.com
@@ -194155,6 +194159,7 @@ thebook.digital
 thebostonglobe.demdex.net
 thebrainybulb.com
 thebrighttag.com
+thebritlist.co.uk
 thebugs.ws
 thecalokas.com
 thecameronhome.com
@@ -194932,7 +194937,7 @@ timot-cvk.info
 timpromos.com.br
 timsef.com
 timyrw.com
-tinb.nee-analytics.herokuapp.com
+tinb.net
 tincture-trove.site
 tindilater.cyou
 tindungcanhan.online
@@ -214962,7 +214967,6 @@ wozeducation.org
 wp-cdn.cityads.com
 wp-club.net
 wp-log.api.useinsider.com
-wp-worthy.de
 wp.24smi.org
 wp.alcmpn.com
 wp.blawnsodium.com
@@ -217318,7 +217322,6 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
-www.www.my-exodus.com.co
 www.www.superset-qa.sese.cn
 www.wwwhwgo.com
 www.wwwmyboostnow.com
@@ -218375,6 +218378,7 @@ xi.baldscatkins.com
 xi.calendavesture.com
 xi.cavedcitrean.com
 xi.etiquetcomplot.top
+xi.glucosesalique.com
 xiailvhqrdoml.website
 xiajgy.taisho-beauty.jp
 xiakas.xyz
@@ -222298,6 +222302,7 @@ yzaxye.animal-valley.com
 yzazgq.buffalo.de
 yzccdzhpooakp.store
 yzcfva.healthyplanetcanada.com
+yzcoc.com
 yzcpqa.gumtree.com
 yzcwyy.com
 yzdkhftbkynua.site
