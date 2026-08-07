@@ -14553,7 +14553,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15971,7 +15970,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -19950,6 +19948,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -22874,7 +22873,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -23264,7 +23262,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -26480,6 +26477,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26608,6 +26606,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -27359,6 +27358,7 @@ arg.atomex.net
 argalasaminscurship.qpon
 argalsheydays.qpon
 argantalcs.com
+arglesmtn.com
 arglingpistole.com
 argo.svcmot.com
 argofundsolutions.info
@@ -27632,7 +27632,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -28607,7 +28606,6 @@ atnhkodwem.com
 atnkdx.guthaben.de
 ato.atozzen.com
 ato.tooopen.com
-atodutiz.xyz
 atom-log.3.cn
 atom-qa.warnermedia.com
 atom-tickets.pxf.io
@@ -44835,7 +44833,6 @@ code.piano.io
 code.r5hsid.ru
 code.randomhouse.com
 code.revcontent.com
-code.snapengage.com
 code.tidio.co
 code.usergram.info
 code.wenbanzhu.com
@@ -48827,6 +48824,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -53560,9 +53558,7 @@ data-8468e8ebc5.laola1.at
 data-849004cc69.radio-regenbogen.de
 data-849004cc69.regenbogen.de
 data-84926a5f67.energie-und-management.de
-data-84a0f3455d.transfermarkt.at
 data-84a0f3455d.transfermarkt.be
-data-84a0f3455d.transfermarkt.ch
 data-84a0f3455d.transfermarkt.co
 data-84a0f3455d.transfermarkt.co.in
 data-84a0f3455d.transfermarkt.co.kr
@@ -54877,6 +54873,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -63729,6 +63726,7 @@ ebistoppan3.ornithine.jp
 ebistoppan5.kyowahakko-bio-healthcare.jp
 ebistoppan6.kyowahakko-bio-campaign3.com
 ebisu.saison-am.co.jp
+ebiznesclub.com
 eblastengine.com
 eblastengine.upickem.net
 eblindap.com
@@ -63919,7 +63917,6 @@ ecommrce-web-amazon.netlify.app
 ecommstats.com
 ecommstats.s3.amazonaws.com
 ecommu.itu.com
-ecommunication.mti.com
 ecomsend.com
 econda-monitor.de
 economicadvantage.midamerican.com
@@ -69870,13 +69867,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -72327,7 +72327,6 @@ flattenpliable.com
 flatteringwhirlpooldetergent.com
 flattermonumentsbarren.com
 flattervillage.qpon
-flavamovie.com
 flavg.drinkfreespirits.com
 flavorists.com
 flavorycrickey.qpon
@@ -74007,6 +74006,7 @@ freefromads.com
 freefromads.pro
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -82222,7 +82222,6 @@ gtm.medicinepark.com.ro
 gtm.medicinepark.ro
 gtm.medicoagora.fun
 gtm.mediconline.se
-gtm.medinaturo.com
 gtm.meeting-hub.net
 gtm.megabazar.pro
 gtm.megaeletronicostdai.com
@@ -89483,7 +89482,6 @@ idealistic-car.pro
 idealjav09212026.shop
 idealmedia.io
 idehe.tlfapparel.com
-iden.se
 identicaldrench.com
 identicalpeach.com
 identicalprofile.com
@@ -93435,7 +93433,6 @@ instant.one
 instant.page
 instant4ck.com
 instantbannercreator.com
-instantcash.ru
 instantconservativedetect.com
 instantdeceived.com
 instantdollarz.com
@@ -96801,7 +96798,6 @@ joplxewzuektu.com
 joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
-joqpqwdsbjkpr.com
 jorammeatman.com
 jordan.qunis.ru
 jordan.zcdn.click
@@ -101532,6 +101528,7 @@ lawfulpatience.com
 lawgiverblue.net
 lawksister.shop
 lawmakecluther.com
+lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawsage.ai
@@ -101580,6 +101577,7 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -104663,7 +104661,6 @@ load.custom.barglass.no
 load.custom.bcsolar.org
 load.custom.blurindia.com
 load.custom.chezcalinea.fr
-load.custom.daxtonsfx.com
 load.custom.diamondbedding.co.uk
 load.custom.follobyggservice.no
 load.custom.imaginayregala.com
@@ -114601,6 +114598,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -115957,6 +115955,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -128047,6 +128046,7 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -166703,6 +166703,7 @@ silkceasedkidney.com
 silklanguish.com
 silkmanthanksdobson.qpon
 silkroad.csdn.net
+silkroadweb.com
 silkworm.boxmood.be
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
@@ -178072,6 +178073,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -180722,6 +180724,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -188375,6 +188378,7 @@ suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -189289,6 +189293,7 @@ sweetnessnewest.com
 sweetnessspeaksintimidate.com
 sweetpacks.com
 sweetsandswipes.com
+sweetslope.com
 sweetstudents.com
 sweettoothbags.com
 swelen.com
@@ -197386,6 +197391,7 @@ tr.dulsco.com
 tr.dwjq.com.cn
 tr.dxmcdn.com
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -207727,8 +207733,8 @@ v1-ad.video.yximgs.com
 v1-c73e.kxcdn.com
 v1-feed.idreamsky.com
 v1.addthisedge.com.edgekey.net
-v1.al
 v1.alllinear.com
+v1.allnestinfinite.com
 v1.ard.update.itlily.com
 v1.bowintelligence.com
 v1.cnzz.com
@@ -212644,7 +212650,6 @@ web3ads.net
 web3connectfix.pages.dev
 web3mainnetdapp.pages.dev
 web3mobile.g2afse.com
-web3primevault.com
 web3projects.substack.com
 web3seo.com
 web4friends.com
