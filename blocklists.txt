@@ -3300,7 +3300,6 @@
 158cafe.com
 158e65a1db.com
 158i.com
-158meiju3.xyz
 158x.net
 15946bfe8d.com
 159988.com
@@ -16458,7 +16457,6 @@ adst.citchenware.com
 adst.djaxadserver.com
 adstacks.g2afse.com
 adstag0102.xyz
-adstage-analytics.herokuapp.com
 adstage.io
 adstailor.com
 adstanding.com
@@ -19972,6 +19970,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -24192,6 +24192,7 @@ aolqejkjfgxpr.website
 aolsvc.snowqueen.ru
 aom.smartbrief.com
 aomenxinpujing.baijiale.tmdss.com
+aomi.net
 aommvcuqktmls.site
 aomqlg.imirki9.com
 aon.smartbrief.com
@@ -25419,7 +25420,6 @@ api.pubfinity.com
 api.publytics.net
 api.pubnative.net
 api.puhlmannprinting-dental.de
-api.pulsebreathe.shop
 api.purpleads.io
 api.pushalert.co
 api.pushdi.com
@@ -26689,6 +26689,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.yesware.com
@@ -29125,7 +29126,6 @@ aunehofyojgfq.space
 aungudie.com
 aunnnuvegyzfm.website
 aunsoocmunoan.net
-aunstollarinets.com
 auntieminiature.com
 auntiesurfeatable.com
 auntiewolfappraise.com
@@ -38173,6 +38173,7 @@ cactusglobal.io
 cactusheadroomscaling.com
 cad.donga.com
 cad.youku.com
+cad4defd63.a3c72512d5.com
 cadazypgstyas.space
 cadeaukaartbol.com
 cadence33.top
@@ -39677,7 +39678,6 @@ cautiouscrate.com
 cautiouscredit.com
 cautiousfetchedslick.com
 cautiouslyanalysecrystal.com
-cautommityring.com
 cavai.com
 cavalryimage.com
 cavatesignory.cfd
@@ -49293,7 +49293,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -58823,6 +58822,7 @@ di2.zooplus.es
 di2e2m1cmrtc9.cloudfront.net
 di2xlfgjbl0v7.cloudfront.net
 di2xwvxz1jrvu.cloudfront.net
+di7stero.com
 diabetesickness.com
 diagassets-lb.apple.com.akadns.net
 diagassets.apple.com
@@ -69964,7 +69964,6 @@ facilityappreciate.com
 facinghuldee.com
 facingostensible.com
 facingturtle.com
-facisespess.com
 fackhfindvaqz.space
 factors.ai
 factortg.com
@@ -74019,7 +74018,6 @@ fr-log.vietnamplus.vn
 fr-register.xmpush.global.xiaomi.com
 fr.adpinfo.com
 fr.api.xmpush.global.xiaomi.com
-fr.auxilliquory.com
 fr.bebelelo.com
 fr.blogs.cam4.com
 fr.contact.alphabet.com
@@ -77943,7 +77941,6 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -78803,7 +78800,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -84490,6 +84486,7 @@ gw-iad-bid.ymmobi.com
 gw-metadata.euc1.dynamicyield.com
 gw-usa-tracker.zmaticoo.com
 gw.blacked.com
+gw.blackedraw.app.com
 gw.blackedraw.com
 gw.cerealsromana.com
 gw.conversionsapigateway.com
@@ -87805,7 +87802,6 @@ hostinfo.cafe24.com
 hosting.gemius.hu
 hosting.sproutbuilder.com
 hostingcloud.racing
-hostingfile.live
 hostip.info
 hostiran.name
 hostiserver.com
@@ -89366,7 +89362,6 @@ iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmoo.apple.com
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -97167,7 +97162,6 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
-jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -100992,7 +100986,6 @@ kwxxuqnikarny.site
 kwyoqlhshixgt.website
 kwzhpjykelckr.com
 kwzm.uniformix.pl
-kx.castorsperron.top
 kx.indexexchange.com
 kx.lensevakil.com
 kx.prigsazerac.com
@@ -109167,7 +109160,6 @@ location.tiktokw.us
 location.us.tiktokv.com
 location.wynk.in
 location.ximalaya.com
-location16-normal-useastred.tiktokv.eu
 locationevents.de
 locationhistory-pa.googleapis.com
 locations.api.yle.fi
@@ -115823,6 +115815,7 @@ mdata.action1.com
 mdbkdndghnjpi.space
 mdbzgpjywsgvh.online
 mdc.meitustat.com
+mdckwfdl.com
 mdd18ho6.xyz
 mddbdmylgchjx.space
 mddkxi.touchinsol.com
@@ -117079,7 +117072,6 @@ metaapi.communityca.com.br
 metaapi.estudioabrassear.com.br
 metabase.petametrics.com
 metabase.taplytics.com
-metabatted.com
 metabolicparent.com
 metaccordingly.com
 metacommunication.xyz
@@ -122047,7 +122039,6 @@ mon15-normal-checkout.tiktokv.com
 mon15-normal-useast1a-checkout.tiktokv.com
 mon15-normal-useast1a.tiktokv.com
 mon15-normal.tiktokv.com
-mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-no1a.tiktokv.eu
@@ -128642,7 +128633,6 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -132052,7 +132042,6 @@ offers.filezilla-project.org
 offers.hddistributors.com
 offers.jazelauto.com
 offers.la-z-boy.com
-offers.propellerads.com
 offers.royalvegascasino.com
 offers.storagepipe.com
 offerscdn.net
@@ -134340,7 +134329,6 @@ orlobozvlrryl.space
 orlovskyi.com
 orlowedonhisdhilt.info
 orlqtz.lampenwelt.ch
-ormanizeled.com
 ormatenqron.com
 ormhyvwciiqqg.space
 ormimvlawciog.space
@@ -141332,7 +141320,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -146657,6 +146644,7 @@ qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
 qxnuan.noo-paris.com
+qxplus.ru
 qxpxrbettkskb.space
 qxqjccxfiihvf.online
 qxsfaj.caloo.jp
@@ -149757,6 +149745,7 @@ rbp-gen1.site
 rbpark1.website
 rbparks.sskarta.ru
 rbpksavddouil.store
+rbpsh.ru
 rbptt.com
 rbqcg6g.de
 rbquj0i95f.cfd
@@ -150075,7 +150064,6 @@ real-mind.com
 real-women-online.com
 real.delovoemesto.ru
 real.pclick.yahoo.com
-real.sp.analytics.yahoo.com
 realarmscherm.qpon
 realbig.media
 realbig.online
@@ -156113,7 +156101,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -159096,7 +159083,6 @@ sebumu28.com
 sebvlvis.graviditetsillamaende.se
 sec-analytics.panasonic.co.uk
 sec-analytics.panasonic.de
-sec-cdn.static.intl.xiaomi.net
 sec-cdn.static.xiaomi.net
 sec.levexis.com
 sec.resource.xiaomi.net
@@ -166770,6 +166756,7 @@ shirtseasons.com
 shirtsidewalk.com
 shisanmaozser.com
 shiseido.demdex.net
+shishartech.com
 shitainfamy.cyou
 shitblimp.gasm.ninja
 shitcheksauh.net
@@ -175642,7 +175629,6 @@ sproose.com
 sprout-ad.genieesspv.jp
 sproutamazedpursuing.com
 sproutingbag.com
-sprtnd.com
 spruegibbles.com
 sprungextraordinaryhonorary.com
 sprungstorm.com
@@ -176639,6 +176625,7 @@ ss.diemlegal.co.uk
 ss.dierkla.com
 ss.diffbeautyksa.com
 ss.differentshopbd.com
+ss.digiformats.com
 ss.digitalestates.dk
 ss.digitalguest.com
 ss.diipsecret.com
@@ -178828,7 +178815,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -184903,7 +184890,6 @@ stape.riyadesignshop.com
 stape.rlcontainer.com
 stape.rnaengenharia.com
 stape.robertarocco.com.br
-stape.robodolightroom.com
 stape.robottime.com.br
 stape.roccaconstrutora.com.br
 stape.rocheengenharia.com.br
@@ -185808,7 +185794,6 @@ stat.nsc-lab.io
 stat.ntv.ru
 stat.nyheter24.se
 stat.octomax.net
-stat.oefd63.a3c72512d5.com
 stat.okko.sport
 stat.okko.tv
 stat.op.hu
@@ -187803,7 +187788,6 @@ sternmore.com
 steroidgear.org
 steroidprop.com
 steroidslaughteradvertise.com
-steropequippu.shop
 sterta.pl
 stertorhedges.cfd
 stesoargoucket.com
@@ -189142,6 +189126,7 @@ suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
