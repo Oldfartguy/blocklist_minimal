@@ -375,6 +375,7 @@
 00tx.com
 00vp.com
 00webhostapp.com
+00wikipedia.org
 00x99.com
 00xxfree.net
 01-la.com
@@ -1451,6 +1452,7 @@
 0ff34e8ab8.com
 0fmm.com
 0following.com
+0forum.biz
 0fs.me
 0fs6pe6w0j.com
 0gamestop.com
@@ -2783,7 +2785,6 @@
 123movies-to.info
 123movies.market
 123movies.study
-123movies.training
 123movies123.online
 123movies1free.com
 123movies2.com
@@ -19933,8 +19934,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -23269,7 +23270,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -25212,6 +25212,7 @@ api.mestresdosite.com.br
 api.meta.almamedia.tech
 api.metodo-cisne.pt
 api.metodo-de-eficiencia.com.br
+api.metodoadt.com
 api.metodohigservice.com.br
 api.metrics.eu-south-2.iris.apx.amazon.dev
 api.metrics.eu-west-1.iris.apx.amazon.dev
@@ -26513,7 +26514,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26643,7 +26643,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.yesware.com
@@ -45748,7 +45747,6 @@ colourmingle.com
 colourrobot.com
 coloursdentfolk.com
 colpwoofell.qpon
-colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -50233,6 +50231,7 @@ cy-stats.com
 cy.hexereisellout.shop
 cy.libardwannish.com
 cy.reloandewater.com
+cy.zilchesavys.shop
 cy2.vortex.data.microsoft.com.akadns.net
 cy98g9wuwn0n.angularjs.poc.glenigan.com
 cya2.net
@@ -55552,7 +55551,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -60646,6 +60644,7 @@ dof9zd9l290mz.cloudfront.net
 dofattv.com
 dofca.thebeardstruggle.com
 doflygonan.com
+dofpwadx.com
 dofrhyluyqtex.online
 doftec.com
 dog.christinamoore.us
@@ -64136,7 +64135,6 @@ ecommrce-web-amazon.netlify.app
 ecommstats.com
 ecommstats.s3.amazonaws.com
 ecommu.itu.com
-ecommunication.mti.com
 ecomsend.com
 econda-monitor.de
 economicadvantage.midamerican.com
@@ -85403,7 +85401,6 @@ has.njdisa.com
 has.vpro.nl
 hasan.bebshapath.com
 hasan.cheirobd.com
-hascezjji.com
 hascleaninginc.com
 hascommodities.com
 hasdarot.com
@@ -110993,7 +110990,6 @@ lp.club.costacoffee.pl
 lp.coloradoavalanche.com
 lp.coloradomammoth.com
 lp.communications.manulife.ca
-lp.comosersaudavel.online
 lp.connect.garnethealth.org
 lp.connectedcare.wkhs.com
 lp.customer-success-apac.adobe.com
@@ -112181,6 +112177,7 @@ m.beehive.in.intl.miui.com
 m.benaughty.com
 m.bets10-guveniliadres.com
 m.bijbelgenootschap.nl
+m.bingads.microsoft.com
 m.biqu7.cc
 m.biquge5200.cc
 m.bolo2vas22.click
@@ -115813,6 +115810,7 @@ mcs-sg.tiktok.com.edgekey.net
 mcs-sg.tiktok.com.ttdns2.com
 mcs-sg.tiktokv.com
 mcs-sg.tiktokv.com.edgekey.net
+mcs-tiktok.byteoversea.net
 mcs-ttp.lemon8-app.us
 mcs-ttp2.tiktokv.us
 mcs-ttp2.tiktokv.us.edgesuite.net
@@ -127841,7 +127839,6 @@ np.cloudflaire.lat
 np.ductilevoider.com
 np.fareuncorks.com
 np.graytik.com
-np.nestmepartners.com
 np.turkishfoodworld.com
 npario-inc.net
 npaym.com
@@ -128699,6 +128696,7 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -141400,6 +141398,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -150534,6 +150533,7 @@ recreationducked.com
 recreativ.com
 recreativ.com.ua
 recreativ.ru
+recruit-gold.com
 recruit.go.apprenticeshipcommunity.com.au
 recruit.gradleaders.com
 recruit.mbafocus.com
@@ -156189,6 +156189,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -157267,6 +157268,7 @@ samsungph.api.useinsider.com
 samsungr.com
 samsungrm.com
 samsungrum.beusable.net
+samsungsamcol.api.useinsider.com
 samsungsamcolepp.api.useinsider.com
 samsungsavinaepp.api.useinsider.com
 samsungscript.beusable.net
@@ -184960,7 +184962,6 @@ stape.rhmaistalentos.com.br
 stape.ribascontabilidade.com.br
 stape.ricieri.net.br
 stape.rico.bet.br
-stape.ridenation.com.br
 stape.rifa321.com
 stape.rinaldiartemusical.com.br
 stape.rivio.com.br
@@ -206399,7 +206400,6 @@ unirsweqilejf.website
 unisalute.demdex.net
 unisdk.proxima.nie.easebar.com
 unisound.cdnvideo.ru
-uniswap.org.in
 unitarycambism.com
 united-establishment.com
 united-infos.net
@@ -214628,6 +214628,7 @@ whatismyipaddress.ru
 whatisuptodaynow.com
 whatisyourglam.com
 whatmore-analytics-service.ap-south-1.elasticbeanstalk.com
+whats.bz
 whatsapp-32w.pages.dev
 whatshelp.io
 whatsmycountry.com
