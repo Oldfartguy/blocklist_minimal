@@ -1468,6 +1468,7 @@
 0fs.me
 0fs6pe6w0j.com
 0gamestop.com
+0gb.us
 0gomovies123.com
 0gw7e6s3wrao9y3q.pro
 0h0j.com
@@ -14276,6 +14277,7 @@ ads-portal-cdn.vidaatv.net
 ads-privacy-api.prd.mz.internal.unity3d.com
 ads-privacy.vidaahub.com
 ads-prod-narrowcasting.s3.us-west-2.amazonaws.com
+ads-production-public.s3.amazonaws.com
 ads-production-public.s3.us-east-1.amazonaws.com
 ads-pubsfusion.com
 ads-query.luizalabs.com
@@ -14535,7 +14537,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -20015,6 +20016,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -21173,7 +21176,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22943,7 +22945,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -23328,6 +23329,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -26681,7 +26683,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -27708,7 +27709,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -34654,6 +34654,7 @@ bluelyretunedromero.cfd
 bluemtnscollective.com
 bluenest.net
 blueoyster.click
+bluepages.smaato.net
 bluepanda.bike-mailorder.com
 bluepanda.contorion.at
 bluepanda.contorion.de
@@ -38926,7 +38927,6 @@ capicst.ia-atendente.com
 capicst.pretzeladv.online
 capidm.cocoons.com
 capifb.kidzfunbd.com
-capifb.raidobd.com
 capig.10fitness.com
 capig.adaptorclothing.com
 capig.altlifeagency.com
@@ -43642,7 +43642,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickmsummer.com
@@ -46287,7 +46286,6 @@ confideclassifiedtimer.com
 confidence.dev
 confidenceacted.com
 confidencetalks.com
-confidentialcrash.com
 confidentialitybroadsheet.com
 config-factory.com
 config-ltvp.inmobi.com
@@ -72590,6 +72588,7 @@ flattenpliable.com
 flatteringwhirlpooldetergent.com
 flattermonumentsbarren.com
 flattervillage.qpon
+flavamovie.com
 flavg.drinkfreespirits.com
 flavorists.com
 flavorycrickey.qpon
@@ -73335,7 +73334,6 @@ footprintsfurnish.com
 footstepflick.com
 footweargrewshaped.com
 fopduzolpqdue.space
-fops.net
 fopsoadseds.net
 fopxicajsprkh.site
 for-1.rest
@@ -75768,6 +75766,7 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
+galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -78793,7 +78792,6 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
-go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -87066,7 +87064,6 @@ hkjwazawuwxiy.online
 hkkhsppnknkoy.space
 hkl4h1trk.com
 hknet.com
-hknwd525.top
 hknztzqlkjzhc.space
 hkpjnieraypcn.site
 hkplzozwl.com
@@ -98552,6 +98549,7 @@ kaminari.systems
 kamint.ru
 kamiyatabinet.cyou
 kamiyayday.top
+kamju.cestlavie-newyork.com
 kamleshyadav.com
 kamoiimclmryu.space
 kamoni.com
@@ -111238,6 +111236,7 @@ lruiz.iedm.com
 lruqanolg.com
 lruqoojiabeik.online
 lrvpquoavttir.site
+lrvtffyxhmz.com
 lrwgmmuhrimpk.store
 lrwmjfmq.prioritystdtesting.com
 lrwprzvusazvh.website
@@ -144299,6 +144298,7 @@ pvd.to
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
+pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pvfbav.sportler.com
@@ -155825,7 +155825,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -163899,7 +163898,6 @@ sfoxservices.com
 sfp.safe.baidu.com
 sfp7.eco-conscient.com
 sfpc.changehealthcare.co.uk
-sfqiwfoccp.com
 sfqzr.callashoes.com
 sfr.mno.link
 sfrkyc.argenprop.com
@@ -178516,7 +178514,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -189623,7 +189620,6 @@ swaiafx.com
 swak-adguard.pro
 swalaoilandgas.com
 swalessidi.com
-swalfmfqdheqsw.com
 swaljol72dgv.controlconceptsusa.com
 swallow.pelias.io
 swallowcrockerybless.com
@@ -193816,6 +193812,7 @@ telegorda.net
 telegraf.detmir-stats.ru
 telegrambotsolution.pages.dev
 telegramhcn.com
+telegramm.site
 telegramspun.com
 telegramvb.com
 telegramx.me
@@ -207176,7 +207173,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -223171,7 +223167,6 @@ ywuzuazsjnzto.online
 ywxi.net
 ywxkuh.street-moto-piece.fr
 ywxlhbcndgi.com
-ywxtspmmd.com
 ywygrtyblmaxe.site
 ywzehjepmwcbe.website
 ywzmvh.trovaprezzi.it
