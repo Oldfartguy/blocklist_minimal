@@ -1834,7 +1834,6 @@
 10000ms.com
 10000stepsaustralia.com
 10000stepsusa.com
-10001mb.com
 10001pisowifipausetime.com
 10007.net
 10007.org
@@ -10264,6 +10263,7 @@ abc.vedobi.in
 abc.versiloqa.com
 abc.vilimed.com
 abc.vilvahstore.com
+abc.vintafurniture.com
 abc.withblip.com
 abc.woodsea.studio
 abc.xn--bserkater-07a.de
@@ -15516,6 +15516,7 @@ ads.wenet.pl
 ads.wetpussy.sexy
 ads.whitelabelpros.com
 ads.whoishostingthis.com
+ads.wiezoekje.nl
 ads.wikia.nocookie.net
 ads.win555capi.com
 ads.wineenthusiast.com
@@ -18226,7 +18227,6 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
-affiliates.vpn.ht
 affiliates.woodbrass.com
 affiliates.xapads.com
 affiliatesensor.com
@@ -26578,7 +26578,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -37565,7 +37564,6 @@ byehd3.life
 byehero.com
 byescrollnitrogen.com
 byet.org
-byethost14.com
 byethost18.com
 byethost4.com
 byethost9.com
@@ -59808,6 +59806,7 @@ discordianbliss.com
 discordinvites.net
 discordvip.createsocialcard.top
 discospizza.com
+discount.jmoutfit.com
 discount63.top
 discountclick.com
 discountplacidlysymphony.com
@@ -69479,7 +69478,6 @@ exitmoney.com
 exitmonitor.com
 exitsurgeoneliminate.com
 exixnnmmqkc.com
-exiyrtpcucn.com
 exjsyuhjwjyzr.space
 exkgtbwoereyg.online
 exkunden.info
@@ -72264,7 +72262,6 @@ findav.org
 findbestop.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
@@ -77803,7 +77800,6 @@ ghghgf.51dongshi.com
 ghghgf.xuexiwa.com
 ghgsdzfzzunmb.online
 ghhxnabvunfey.store
-ghiczvfpaakdj.com
 ghidralite.com
 ghifrc.baldai1.lt
 ghishiozvcmi.in
@@ -92157,7 +92153,6 @@ in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
 in-gmtdmp.mookie1.com
 in-go.experian.com
-in-group.xyz
 in-ilockcardf.realme.com
 in-miuilog.sms.intl.xiaomi.com
 in-mktg.vodafone.com
@@ -92539,7 +92534,6 @@ infinity-message.com
 infinity-tracking.com
 infinity-tracking.net
 infinityads.com
-infinityfree.io
 infinityfree.me
 infinityhedge.com
 infinityid.condenastdigital.com
@@ -95140,7 +95134,6 @@ iruqe.haverhill.com
 irurng.wondershare.jp
 irv.si
 irvzya.weekly-monthly.net
-irwkzcsi.com
 irxcm.com
 irxjqekijejhe.website
 irxoiu.iglucruise.com
@@ -103766,7 +103759,6 @@ linen-static.online
 linenvirginityclient.com
 lineodtpdajrz.store
 lineoflife.ru
-lines-metric.h16.ru
 lines.superkot.com
 lineside.networkrail.co.uk
 linesys.jp
@@ -122278,7 +122270,6 @@ moneralsramana.shop
 moneraltilting.com
 moneren.net
 monerise.com
-monero.hashvault.pro
 monerohash.com
 monerominer.rocks
 moneroocean.stream
@@ -125087,6 +125078,7 @@ nappyattack.com
 nappyneck.com
 nappyonsetstiffness.com
 napquatet.com
+naprfjbdpqn.com
 napthe.asia
 napthe.me
 napthe.online
@@ -133705,7 +133697,6 @@ oos4l.com
 oosbocswffckr.website
 ooslg.veryspecialgames.com
 oosmj.swimsuitsforall.com
-oossod.potterybarn.ae
 oosterhout.click
 oot59rxrwm.com
 ootcv5.com
@@ -141157,7 +141148,6 @@ poogliptailomer.net
 poohsrebuild.shop
 pooksys.site
 pool.admedo.com
-pool.hashvault.pro
 pool.supportxmr.com
 poolcoolukprese.org
 poolcushions.com
@@ -157352,7 +157342,6 @@ samsungph.api.useinsider.com
 samsungr.com
 samsungrm.com
 samsungrum.beusable.net
-samsungsamcol.api.useinsider.com
 samsungsamcolepp.api.useinsider.com
 samsungsavinaepp.api.useinsider.com
 samsungscript.beusable.net
@@ -171671,6 +171660,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -178987,6 +178977,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -189292,6 +189283,7 @@ suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -204212,7 +204204,6 @@ tuplebar.com
 tupmsen.com
 tupperwaresecuritiessettlement.e.epiqnotification.com
 tuq.mybluehost.me
-tuqahfxt.com
 tuqakbsucajc.com
 tur-tur-key.com
 turbaninfectedexterior.com
@@ -209458,7 +209449,6 @@ vcsa.vmware.com
 vcsc1fp2f.com
 vcslotoplay.com
 vcsphxpnlxnrm.online
-vctfewxxfkd.com
 vcvbogndkwheb.space
 vcvncewkfhtmp.website
 vcvnl.fashionnova.com
@@ -217132,6 +217122,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
