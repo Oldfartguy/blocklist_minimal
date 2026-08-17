@@ -2507,7 +2507,6 @@
 117ce.com
 117f.net
 117hm.com
-117yes.com
 1180.info
 11815gilmoreapartments.com
 1181898.com
@@ -2905,7 +2904,6 @@
 123towingtx.com
 123trophies.com
 123trophy.com
-123tvchannel.com
 123tvgo.com
 123tvmovie.com
 123ubb.com
@@ -14606,6 +14604,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -16016,7 +16015,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -16979,7 +16977,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -20015,7 +20012,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -21185,7 +21182,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -26700,7 +26696,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -31346,6 +31341,7 @@ bardatm.ru
 barddfvgkhctch11.ru
 bardesswaxbill.cfd
 bardinghuggery.com
+bardinghuggeryle.mequoda.com
 bardmaterials.com
 bare-character.com
 bare-type.pro
@@ -42775,6 +42771,7 @@ cineprime.online
 cinetaro.buzz
 cinezone.site
 cingo.sbs
+cinnamonhandsomeoccurs.com
 cint.com
 cintnetworks.com
 cio.mybluehost.me
@@ -76062,7 +76059,6 @@ gahkj.zomasleep.com
 gahkoekeybyxv.online
 gahlr.readyrocker.com
 gahst.com
-gahyuck.com
 gaietydirector.com
 gaietyunhappy.com
 gaigu.xyz
@@ -89688,7 +89684,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -97451,6 +97446,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -112780,7 +112776,6 @@ madelynmckenna.com
 madeup-candidate.com
 madeup-management.pro
 madeupdrunk.pro
-madeupenergy.pro
 madeupice.com
 madeupindication.com
 madeupteamspupil.com
@@ -138860,6 +138855,7 @@ phcnvk.schalke04.de
 phczhg.johnjohndenim.com.br
 phdmedianz.demdex.net
 phdswgp.pro
+phea.com
 pheasant.ampapageorgiou.gr
 pheasant.sonistaging.com
 pheasantbottomfulfil.com
@@ -141566,6 +141562,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -146106,6 +146103,7 @@ qpqgb.nordiccatch.com
 qprfs.drunkelephant.com
 qprod2.net
 qprskl.com
+qps.cint.com
 qpsbd.lksneakers.com.br
 qptfdtjasvzmb.site
 qptghqpgmdqhl.online
@@ -156329,6 +156327,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -165146,7 +165145,6 @@ sgtm.evo-doors.com
 sgtm.evolvelongevity.com
 sgtm.evri.com
 sgtm.exclusivecoversusa.com
-sgtm.exclusiveitalytours.com
 sgtm.exodus.co.uk
 sgtm.exotek.no
 sgtm.expatguidance.com
@@ -179042,7 +179040,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -183423,7 +183420,6 @@ stape.arreyhotelbeach.com.br
 stape.arreyhotelboutique.com.br
 stape.arreyriopotypraia.com.br
 stape.artcomercial.com.br
-stape.artdentalstudio.ro
 stape.artecuadros.com
 stape.arteirinhos.com.br
 stape.arteneon.cl
@@ -189374,7 +189370,6 @@ sukienhanghieuskin.weebly.com
 sukienhhlmht.weebly.com
 sukienlienminh2022.weebly.com
 sukienlienminhhanghieu.weebly.com
-sukienlq.com
 sukienmd.epizy.com
 sukienvongquay.site
 sukienzingspeed.com
@@ -200349,7 +200344,6 @@ tracker-remp.active.radio
 tracker-remp.magyarnarancs.hu
 tracker-server.high-cdn.com
 tracker-shr.ortb.net
-tracker-tds.info
 tracker-v4.gamedock.io
 tracker-zlivestream.zapps.vn
 tracker.24xtra.hu
@@ -203605,7 +203599,6 @@ trustedzone.info
 trusteverything.de
 trustgrape.com
 trustimproving.garden
-trusting-offer.com
 trusting-produce.com
 trustinghurt.pro
 trustingself.com
@@ -207186,6 +207179,7 @@ upskittyan.com
 upsloperoyalet.com
 upsmq.perlcosmetics.com
 upsnap.com
+upspinarakor.com
 upsrv.ru
 upstackdata.io
 upstackified.com
@@ -211714,7 +211708,6 @@ vox.voxstudios.com.br
 voxar.xyz
 voxpopme.com
 voxtjm.about-you.ee
-voxus-targeting-voxusmidia.netdna-ssl.com
 voxus.com.br
 voyagedearanatomy.com
 voyageedgyglass.com
@@ -218803,7 +218796,6 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
-www.www.my-exodus.com.co
 www.www.superset-qa.sese.cn
 www.wz-zjol-com-cn.garvin.cn
 www.xadsmart.com
