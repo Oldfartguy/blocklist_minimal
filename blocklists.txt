@@ -1746,7 +1746,6 @@
 1-sefon.pro
 1-up.fun
 1-up.me
-1-winbet.com
 1-ws.com
 1-yo.com
 1-you.njalla.no
@@ -3951,7 +3950,6 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
-1medicine.org
 1mi.net
 1mj.xyz
 1mlnlks.com
@@ -7292,6 +7290,7 @@
 8h6oiw0uo.com
 8h7j79qxm.com
 8h98wlh967mhq6mb8owjw9mn.cfd
+8hw49hipgurimmzrcv8qh6r1e.cfd
 8hx7k0211.com
 8iav2fuiy.com
 8imo7.ghlp5h7y28qbq74oq.cyou
@@ -13881,7 +13880,6 @@ adobe-analytics-dc.amlc.eu
 adobe-analytics-dc.amlc.nl
 adobe-analytics-dc.belastingdienst.nl
 adobe-analytics-dc.douane.nl
-adobe-analytics-dc.fiod.nl
 adobe-analytics.vionicshoes.com
 adobe-dev-landingpageprefix.descubre.interbank.pe
 adobe-ep.cms.gov
@@ -14791,6 +14789,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -20272,7 +20271,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -23420,6 +23419,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -23852,7 +23852,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -37140,6 +37139,7 @@ bp.f.360.cn
 bp.mlb.com
 bp.specificclick.net
 bp4apps.horus.biz
+bp57w6ntskf7.top
 bp7mb11.top
 bp8mct71pn.com
 bpabmyodbtav.com
@@ -38803,7 +38803,6 @@ buystables.com
 buysyngas-ss.primeshopers.com
 buyt.in
 buytraf.ru
-buyturbodrain-sst.shopperfocas.com
 buytvantenna-ss.checkoutera.com
 buytvantenna-sst.primeshopers.com
 buyvoltcore-sst.dealshopa.com
@@ -52691,7 +52690,6 @@ customer.blister-prevention.com
 customer.dethrodesigns.com
 customer.growmart.de
 customer.heartinternet.co.uk
-customer.io
 customer.newsflare.com
 customer.thesimplesocietyshop.com
 customerablative.com
@@ -63225,7 +63223,6 @@ dgcollector.evidon.com
 dgdcpypunnrnm.site
 dgecvdye.marketise.me
 dgedff.gofivestarpm.com
-dgekkz.getusd8.com
 dgendj.goldendatess.com
 dgfsajonlckrp.store
 dggaenaawxe8z.cloudfront.net
@@ -64152,6 +64149,7 @@ direeyesightstray.com
 direfuldesk.com
 direlyprudysoaring.qpon
 dirigeimpies.cfd
+dirigibleharbornewspaper.com
 dirlink.net
 dirtharvestnickel.com
 dirtinessbeastpotatoes.com
@@ -65255,7 +65253,6 @@ dnset.com
 dnspy.org
 dnsscan.shadowserver.org
 dnt-userreport.com
-dntds.shop
 dnuhjo.proworldinc.com
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
@@ -69379,7 +69376,6 @@ edge-sae.demdex.net
 edge-tyo3.demdex.net
 edge-usw2.demdex.net
 edge-va6.demdex.net
-edge-west.customer.io
 edge.1005freshradio.ca
 edge.1011bigfm.com
 edge.1031freshradio.ca
@@ -70423,7 +70419,6 @@ eldestcontribution.com
 eldoradottfha.dataplane.rudderstack.com
 eldos.xyz
 ele26126.jscrambler.com
-elearningmine.com
 eleavers.com
 elecltrum.org
 electcocktail.com
@@ -70851,6 +70846,7 @@ em-pv.net.home24.de
 em.acuityplatform.com
 em.baidu.com
 em.baur.de
+em.com
 em.curnberthed.com
 em.disneydebit.com
 em.disneypublishing.com
@@ -72388,7 +72384,6 @@ ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
 ep4p.com
-epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -75784,13 +75779,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80335,6 +80333,7 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -82016,6 +82015,7 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
+galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -89657,7 +89657,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98802,6 +98801,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -107388,7 +107388,6 @@ jqsklowxurgbh.online
 jqsmz120.com
 jqsnt.cafepress.com
 jqsouo.gourmetcaree.jp
-jqsqkahtnz.com
 jqsrmm.sousou.co.jp
 jqszhz7wo.com
 jqtree.com
@@ -107636,7 +107635,6 @@ js.wpnsrv.com
 js.xemkqxs.com
 js.xz6d.com
 js.yjbys.com
-js1.122cha.com
 js1.bloggerads.net
 js1.haoge500.com
 js154azzn.com
@@ -111192,7 +111190,6 @@ kwgs.letudiant.fr
 kwhiwu.xplant.co.kr
 kwhpllmraltfm.website
 kwhrbr.hotelesglobales.com
-kwid9.apple69.top
 kwid9.metastyle.xyz
 kwid9.newbie-investors.top
 kwid9.shipai.xyz
@@ -112227,6 +112224,7 @@ lawfulpatience.com
 lawgiverblue.net
 lawksister.shop
 lawmakecluther.com
+lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawsage.ai
@@ -126709,6 +126707,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -132818,7 +132817,6 @@ miserable-range.com
 miserableart.pro
 miserableconcept.com
 miserablegarage.com
-miserly-apple.pro
 miserly-phone.com
 miserly-physics.pro
 miserly-stay.com
@@ -137421,6 +137419,7 @@ myyivaftgefsq.site
 myztaimlepqtz.site
 myztbkzqfbodm.online
 myzwceogchcvo.site
+mz.elapsehorsier.cyou
 mz.haunchypretest.shop
 mz.mafiadarnix.com
 mz91004124881stpe.4level1.com
@@ -150976,7 +150975,6 @@ pasta.mc.duapps.com
 pasta.mt.duapps.com
 pasta.musicool.duapps.com
 pasta.nm.duapps.com
-pasta.parallelaccounts.duapps.com
 pasta.pc.duapps.com
 pasta.pw.duapps.com
 pasta.pwlite.duapps.com
@@ -160866,7 +160864,6 @@ qvzrde.mensagenscomamor.com
 qvzwt.cosabella.com
 qvzynkitqiook.site
 qw.argelchanger.com
-qw.bravermemoir.com
 qw.lourcingle.com
 qw.starsgallops.com
 qw7fi6e194.com
@@ -176100,7 +176097,6 @@ server-108-138-199-45.mxp64.r.cloudfront.net
 server-108-138-199-8.mxp64.r.cloudfront.net
 server-108-138-199-83.mxp64.r.cloudfront.net
 server-108-138-199-94.mxp64.r.cloudfront.net
-server-13-225-78-19.fra2.r.cloudfront.net
 server-13-225-78-30.fra2.r.cloudfront.net
 server-13-225-78-60.fra2.r.cloudfront.net
 server-13-225-78-98.fra2.r.cloudfront.net
@@ -183962,8 +183958,10 @@ shopt1.com
 shoptarget.com.br
 shoptastic.io
 shoptelligence.com
+shopteufunny.vn
 shopth2.com
 shopthantai.live
+shopthanthoai.com
 shoptienzombie.vn
 shoptoplq.com
 shoptruongstar.com
@@ -189185,7 +189183,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198094,6 +198091,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -201918,6 +201916,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -210087,6 +210086,7 @@ storage-svc.com
 storage.affmates.com
 storage.cloud.kargo.com
 storage.mcwnow.co
+storage.orion.bendingspoons.com
 storage.outbrain.com
 storage.psstgccint.com
 storage.velpa.pl
@@ -211292,6 +211292,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -212344,6 +212345,7 @@ sweetnessnewest.com
 sweetnessspeaksintimidate.com
 sweetpacks.com
 sweetsandswipes.com
+sweetslope.com
 sweetsoul.net
 sweetstudents.com
 sweettoothbags.com
@@ -216426,7 +216428,6 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
-tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
@@ -218524,6 +218525,7 @@ tiendaberuplast.com
 tiendientu.exchange
 tiengrelby.com
 tienich.xyz
+tienoi.com.vn
 tiercedthae.com
 tierragroupinternational.com
 tiesprosos.qpon
@@ -225175,6 +225177,7 @@ tracot.com
 traction.technologyadvice.com
 tractionize.com
 tractorsupply.tt.omtrdc.net
+tracuugplx.vn
 tracuutthvt.com
 tradacafe.xyz
 tradbypass.com
@@ -232823,7 +232826,6 @@ vads.net.vn
 vads.vn
 vaes-eu-preprod.amazon-adsystem.com
 vaes-eu.amazon-adsystem.com
-vaes-fe-preprod.amazon-adsystem.com
 vaes-fe.amazon-adsystem.com
 vaes-na-preprod.amazon-adsystem.com
 vaes-na.amazon-adsystem.com
@@ -239184,8 +239186,6 @@ whitelabel.media.net
 whiteline.mail.ru
 whitelist-memefi.com
 whitelist.eu
-whitellllshop.icu
-whitelllshop.icu
 whitemagic.jp
 whitening76.top
 whitenoise.cn
@@ -241479,7 +241479,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -247825,7 +247824,6 @@ yonicjumfru.com
 yonicsilpha.qpon
 yonivielle.shop
 yonmewon.com
-yonsorgtd.com
 yoochoose.net
 yoomanies.com
 yoomedia.de
@@ -248844,7 +248842,6 @@ za-ads.de
 za-go.experian.com
 za-p.vivoglobal.com
 za.agiay.vn
-za.balderalrune.com
 za.baomoi.com
 za.groovyartemia.com
 za.larnaxmudir.com
