@@ -412,7 +412,6 @@
 010pj.com
 010shopping.com
 010store.com
-010t.com
 010tv.com
 010wan.com
 011-sk.com
@@ -12313,7 +12312,6 @@ ad.v3mh.com
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
-ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -14484,6 +14482,7 @@ ads-static.brave.com
 ads-static.conde.digital
 ads-static.phonepe.com
 ads-static.recon.com
+ads-storage.avito.ru
 ads-swkbank.de
 ads-tag.ads-tinyorbit.com
 ads-tag.rtb-adingenious.com
@@ -16194,7 +16193,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -18889,7 +18887,6 @@ agrariancapable.com
 agrariansabletogether.com
 agrarianstraightentaint.com
 agrbyslxnivin.website
-agreatamericanprintshop.com
 agreatgodet.cfd
 agreeable-ice.com
 agreeable-key.pro
@@ -20267,8 +20264,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -23417,7 +23412,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -24683,6 +24677,7 @@ anytrack.io
 anywaypossible.com
 anyxp.com
 anyylbcfxtswu.site
+anz.brandkit.io
 anz.demdex.net
 anz7.allianz-voyage.fr
 anzaxffpetu.com
@@ -27527,7 +27522,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -28433,6 +28427,7 @@ areareweld.com
 areasnap.com
 areca.construction
 arecaskwela.com
+areconform.com
 areekwiney.com
 arega.petalsgummies.com
 arena.altitudeplatform.com
@@ -28748,6 +28743,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -45895,6 +45891,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -49969,7 +49966,6 @@ coomjohnian.cfd
 coonierregian.qpon
 coonlentisk.cyou
 coonnfirrmm-bankingg247njf.weebly.com
-coonvalleydairysupply.com
 cooolors.com
 coop.vmware.com
 coopeecraney.qpon
@@ -51256,6 +51252,7 @@ createsocialcard.top
 createwebsite.ghost.io
 creatingbankvolatile.com
 creationpartnershipputrescent.com
+creationworked.com
 creative-bunny.bidease.com
 creative-cdn.oddsserve.com
 creative-gallery.gumgum.com
@@ -71550,7 +71547,6 @@ emoney2017.com
 emoneyspace.com
 emong.org
 emoryday-analytics.com
-emoteev.io
 emoticon-sns.iqiyi.com
 emotingwombed.cfd
 emotional-orange.com
@@ -73325,6 +73321,7 @@ etgsdg.ogogo.ru
 eth.llamarpc.com
 eth0.me
 ethanbriton.shop
+etharticles.substack.com
 ethecityonata.com
 ethecityonatallcolu.org
 ethelcontinuallyrepercussion.com
@@ -76395,6 +76392,7 @@ fb.awexeducation.com
 fb.bangaverbena.com
 fb.barkadrivingschool.co.uk
 fb.bukserjeans.com
+fb.evertsmiggles.com
 fb.fitforward.no
 fb.ggeyedoctors.io
 fb.knolledhard.com
@@ -96711,7 +96709,6 @@ hnwbhkraakeyp.site
 hnwifmsebxemw.site
 hnwin.com
 hnwlazmnkzwxj.space
-hnwqolckynifk.website
 hnwtejxpmyqlk.website
 hnwttl.re-katsu.jp
 hnxbnj.rippedupnutrition.com
@@ -100623,6 +100620,7 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
+images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -109664,6 +109662,7 @@ kidnapproductions.com
 kidnapstrongestfeathers.com
 kidnaptriplerbehap.cfd
 kidneyconfirmed.com
+kidneyflog.com
 kidobedientteeth.com
 kidomax.com
 kidpowers.com
@@ -138006,7 +138005,6 @@ naptheff.net
 naptheff.org
 naptheff.vn
 napthefreefire.mobi
-napthefreefire.vn
 napthelienquan.net
 napthengay.net
 napthepubg.mobi
@@ -140359,7 +140357,6 @@ nlvuh.longtermdenial.com
 nlvxwyesryreu.space
 nlxkzo.friopecas.com.br
 nlxpsparlszfu.space
-nlyhovtjoknoo.site
 nlykgmhozbcee.online
 nlytcs.diffen.com
 nlytcs.idfnet.net
@@ -140400,6 +140397,7 @@ nmgassets.com
 nmgdxeuophsqo.website
 nmgneqqnnbtac.site
 nmhcxlyyjginl.online
+nmhdzc.alterego-design.be
 nmhoj.tubbytodd.com
 nmi.mybluehost.me
 nmia.com
@@ -167979,6 +167977,7 @@ rolt7it2lhml5rxa.edge41.testandtarget.omniture.com
 rolteregnou.net
 roma.prashant.co
 romainlooed.cyou
+romancdate.com
 romance-net.com
 romance-time.net
 romancedale.com
@@ -177763,6 +177762,7 @@ server.girlssecretbd.com
 server.gisellesell.com
 server.glamourladyshop.com
 server.gleathershop.com
+server.gllowupbeauty.store
 server.glmodas.com.br
 server.globaldreamshop.com
 server.globalgadgetitems.com.bd
@@ -190584,7 +190584,6 @@ smo.mybluehost.me
 smoads.com
 smobile.wotif.com
 smodus.nike.com
-smoggy-twist.pro
 smoggyfeed.com
 smoggysnakes.com
 smoggysongs.com
@@ -198361,6 +198360,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -198662,6 +198662,7 @@ sst.advancefundsnetwork.com
 sst.advantagegold.com
 sst.adveco.co
 sst.advencya.com
+sst.adventure-valley.be
 sst.advertisingco.com
 sst.aec-collection.com
 sst.aeonfunded.com
@@ -199750,6 +199751,7 @@ sst.duf-rejser.dk
 sst.duifhuizen.nl
 sst.dunninkzwolle.nl
 sst.durance.fr
+sst.durbuygreenfields.com
 sst.duschmeister.de
 sst.dusit.com
 sst.duursport.nl
@@ -200949,6 +200951,7 @@ sst.legojurassicworldtheexhibition.fi
 sst.lejlighedrenovering.dk
 sst.lejsb.dk
 sst.lekolar.dk
+sst.lelabyrinthe.be
 sst.lelast.com
 sst.lema.at
 sst.lendrive.com.au
@@ -211549,7 +211552,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -213930,7 +213932,6 @@ t.instadoodle.com
 t.instanthookups.com
 t.interaction-design.org
 t.invitemedia.com
-t.io
 t.iowaeventscenter.com
 t.irtya.com
 t.irtyc.com
@@ -214833,7 +214834,6 @@ tag.uplift.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
-tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waf360.com
@@ -217057,7 +217057,6 @@ telegraf.detmir-stats.ru
 telegrambotsolution.pages.dev
 telegramdisposedjaws.com
 telegramhcn.com
-telegramm.site
 telegramspun.com
 telegramvb.com
 telegramx.me
@@ -229138,7 +229137,6 @@ ubmdob.connection.com
 ubmitt.heine.ch
 ubmups.houseofindya.com
 ubmwua.maisonsetappartements.fr
-ubmyqcleulnqa.website
 ubofu.beachwaver.com
 uboundpuggree.com
 ubp.mybluehost.me
@@ -241877,7 +241875,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
