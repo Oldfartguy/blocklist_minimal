@@ -16198,6 +16198,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -20262,6 +20263,7 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -21478,6 +21480,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23840,7 +23843,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -26352,7 +26354,6 @@ api.sharkninjabrasil.com.br
 api.shein.litrox.com
 api.shein.zuremod.com
 api.shirtival.de
-api.shopcarpe.com.br
 api.shopliix.com
 api.shubunk.com
 api.shuris.com.br
@@ -27515,7 +27516,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -33051,6 +33051,7 @@ bd1.guancha.cn
 bd1.jinbaozy.com
 bd1.moguvet.com
 bd1.pipaw.com
+bd1.qcjslm.com
 bd1.sosg.net
 bd1.szhk.com
 bd1.yidu.cc
@@ -44268,6 +44269,7 @@ chestionar.ro
 chetchoa.com
 chethgentman.live
 chethsbit.cfd
+chetopenimette.com
 chevronlubricants.demdex.net
 chevy-clan.ru
 chewinglatinus.cyou
@@ -51905,7 +51907,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -72223,7 +72224,6 @@ enter.brazzersnetwork.com
 enter.javhd.com
 enter.tempusbypalme.com.br
 entercasino.com
-enterdonateslieu.cfd
 enterdrama.com
 enteringlacquergiant.com
 enterombacerick.com
@@ -74904,7 +74904,6 @@ exodygrafter.qpon
 exofrwe.com
 exogampeplos.com
 exoletetumboa.shop
-exonews.ru
 exoniantignumpayably.qpon
 exosrv.com
 exotic-wax.surge.sh
@@ -84874,6 +84873,7 @@ glxta.site
 glxtest.site
 glycansmolts.click
 glycumute.shop
+glymanicale.com
 glymqvvctmdkx.site
 glyoxalkoibal.cfd
 glyrcioxzpvvh.site
@@ -91850,7 +91850,6 @@ gtm.sandandfoghome.com
 gtm.sandbergwallpaper.com
 gtm.sandrocaldeira.com.br
 gtm.sannyamara.com.br
-gtm.santarempassagens.online
 gtm.sante-studios.com
 gtm.santecancercenter.com.br
 gtm.santecph.com.br
@@ -141167,6 +141166,7 @@ nrkoed.datingwithgirls.com
 nrkxbm.go2loving.com
 nrlgwr.datinggmatch.com
 nrlhvfqxwstsb.website
+nrmdmw.deilcatedates.com
 nrngm.raise.com
 nrnma.com
 nrnrj.shopcrystalflush.com
@@ -150117,6 +150117,7 @@ paraveronline.com
 parazoabeirut.cyou
 parazoamirks.com
 parbatekolkozyimblaze.qpon
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -151155,7 +151156,6 @@ paxzslunbisvh.online
 pay-ads.com
 pay-click.ru
 pay-hit.com
-pay.cld36a.top
 pay.com
 pay.getadmiral.com
 pay.i-h3dhgj8q3wnzeox7.online
@@ -155310,7 +155310,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -172948,6 +172947,7 @@ sbdtds.com
 sbeacon.sina.com.cn
 sbeqti.koaj.co
 sber.cod63.com
+sber.sell2dealer.com
 sbermarketing.ru
 sbfsdvc.com
 sbfw.work
@@ -174246,6 +174246,7 @@ seaskypro.com
 seasonendued.cyou
 seasonsepisode.watch
 seat-auto.buzz
+seatbaizesnoiler.cfd
 seatedbrickslong.com
 seatedsaintinsist.com
 seatrackingdomain.com
@@ -178407,7 +178408,6 @@ server.nubesmart.com.br
 server.number1shopping.com
 server.number90bar.co.uk
 server.nupontog.com
-server.nuroclean.shifalife.shop
 server.nurturebio.com
 server.nusratbd.com
 server.nusratifymart.com
@@ -189247,6 +189247,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -194323,6 +194324,7 @@ srv.honwari.com
 srv.imonomy.com
 srv.innere-staerke-trainieren.de
 srv.jaime-higuera.com
+srv.javierbotia.com
 srv.journal-der-gesundheit.com
 srv.kimonoecia.com.br
 srv.kitchen.eu
@@ -198151,7 +198153,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -215322,7 +215324,6 @@ talentpastryadvisedly.com
 talesapricot.com
 talipatinmeats.qpon
 talipesspirts.com
-talk.com
 talk99.cn
 talkahead.com
 talkdeskapp.com
@@ -225207,6 +225208,7 @@ tracks20.com
 tracks3.ferrari.com
 tracksacai.com
 tracksale.co
+trackserver.fundacaolemann.org.br
 trackset.it
 tracksfaster.com
 tracksfree.com
@@ -247674,7 +247676,6 @@ yklgge.oc.hu
 ykmsxu.vitalabo.ch
 yknbqe.marinobus.it
 yknhfifccqozk.space
-yko.yogakledingonline.nl
 ykokfoyc1v.v6fxgcjj6wk58ftiytm.cyou
 ykowel.muscat.pl
 ykoza.com
