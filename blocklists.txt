@@ -1744,6 +1744,7 @@
 1-sefon.pro
 1-up.fun
 1-up.me
+1-winbet.com
 1-ws.com
 1-yo.com
 1-you.njalla.no
@@ -2778,6 +2779,7 @@
 123movies-t.com
 123movies-to.info
 123movies.love
+123movies.market
 123movies.study
 123movies00.com
 123movies123.online
@@ -3935,6 +3937,7 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
+1medicine.org
 1mi.net
 1mj.xyz
 1mlnlks.com
@@ -13296,6 +13299,7 @@ adhslx.com
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
+adhub.ru
 adhubly.com
 adhudg.nec-lavie.jp
 adhunt.net
@@ -16190,7 +16194,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -21470,7 +21473,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23401,7 +23403,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -27506,6 +27507,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -28632,7 +28634,6 @@ arsdev.net
 arsenylasearch.com
 arsey.in
 arshinspraams.cyou
-arsinspection.com
 arsnivyr.com
 arsonassignmentstain.com
 arsonclot.com
@@ -40095,6 +40096,7 @@ camby.com
 camchickscaps.com
 camcrush.com
 camdough.com
+camduty.com
 camel.gastro-plan.app
 camel.headfarming.com
 camel.nonpopularopinion.com
@@ -40314,9 +40316,12 @@ candyoffers.com
 candyprotection.com
 candywarehouse.evergage.com
 cane.intel.cn
+cane.intel.co.jp
+cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
 cane.intel.com.au
+cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
 cane.intel.de
@@ -42864,7 +42869,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -44082,7 +44086,6 @@ chatterfretten.com
 chatterhospitalityhaze.com
 chattertexturecareful.com
 chattts-49f1.beszyrecala.workers.dev
-chattygiirls.com
 chaturbate2.com
 chatursply.com
 chatwaifuapp.com
@@ -45854,6 +45857,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -55697,7 +55701,6 @@ dailydivision.com
 dailydomino.com
 dailyexcessivestocks.com
 dailykarma.io
-dailymegawin.com
 dailymuslim.org
 dailypaul.com
 dailyprizehub.com
@@ -61091,7 +61094,6 @@ dateyourpllace.com
 dati.isopan.pl
 datiingcorner.com
 datiinghuub.com
-datiingplace.com
 datilhotted.cyou
 dating-amour-club.com
 dating-express.com
@@ -61132,10 +61134,7 @@ datinglifee.net
 datingliffee.com
 datinglite.com
 datingllfes.com
-datingllife.com
-datingllove.net
 datingmeetnet.com
-datingnoow.com
 datingoverviews.com
 datingpassionn.com
 datingprudethimble.com
@@ -61171,10 +61170,8 @@ datos.pueblacapital.gob.mx
 datosstammel.qpon
 datpix.net
 datteinlove.com
-datteroom.com
 dattewonder.net
 datting4you.com
-dattinglife.net
 datto.evergage.com
 dattomesarchstupe.cfd
 datum.jsdelivr.com
@@ -65263,6 +65260,7 @@ dnset.com
 dnspy.org
 dnsscan.shadowserver.org
 dnt-userreport.com
+dntds.shop
 dnuhjo.proworldinc.com
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
@@ -65406,7 +65404,9 @@ dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
 dogo.intel.co.kr
+dogo.intel.co.uk
 dogo.intel.com.au
+dogo.intel.com.br
 dogo.intel.com.tr
 dogo.intel.com.tw
 dogo.intel.de
@@ -72418,6 +72418,7 @@ ep10.online
 ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -72459,7 +72460,6 @@ epicclicks.net
 epicenerepoint.shop
 epicgameads.com
 epicgolive.rainresources.com
-epicluckyday.com
 epicoldschool.com
 epicooler-ss.checkoutera.com
 epicpotec.com
@@ -77840,11 +77840,11 @@ findav.org
 findbestop.com
 findbetterresults.com
 findcalculator.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
 finddateforyou.net
-finddatiing.com
 finddatinglocally.com
 finderhy.video.qq.com
 finderliminal.qpon
@@ -78548,7 +78548,6 @@ flattenembrawnuvrou.cyou
 flatteringwhirlpooldetergent.com
 flattermonumentsbarren.com
 flattervillage.qpon
-flavamovie.com
 flavg.drinkfreespirits.com
 flavorists.com
 flavorycrickey.qpon
@@ -82050,6 +82049,7 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
+galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -84450,6 +84450,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -86984,7 +86985,6 @@ grkrh.express.com
 grkti.sokofy.com
 grlaev.dlstinguishedates.com
 grled.com
-grmavj.datingllove.com
 grmfa.slomins.com
 grmtas.com
 grmtech.net
@@ -96290,7 +96290,7 @@ hizechizr.com
 hizomjzikq.com
 hizph.bogeybros.co
 hiztz67hunr56p.jto284b7mr4tmgrb.cyou
-hj.su
+hj.subechoterbias.com
 hj11pdwgnu.cfd
 hj3z.com
 hj67fadszx.appspot.com
@@ -98826,7 +98826,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -108067,7 +108066,6 @@ juslxp.com
 jusoworld.org
 jusssxc6w.com
 just-news.pro
-just2dating.com
 justad.mobi
 justbaat.org
 justbuyessay.com
@@ -108106,7 +108104,6 @@ justrelevant.com
 justsayyes.infor.com
 justservingfiles.net
 justsingleonly.com
-justtdating.com
 justtdating.net
 justthegays.com
 justtrack.io
@@ -114826,7 +114823,6 @@ lloteria.com
 lloveaffair.net
 lloveconecte.com
 llovedatng.net
-llovefinder.com
 lloveonline.com
 llovesgreat.com
 llowvn.dateewithus.com
@@ -126539,7 +126535,6 @@ mas.protecmedia.com
 mas.sector.sk
 mas2trk.com
 masakeku.com
-masasaudi.com
 masaxe.xyz
 masbpi.com
 mascara21.top
@@ -128231,7 +128226,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -155289,7 +155283,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -170978,7 +170971,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -189218,7 +189210,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198124,6 +198115,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -205081,7 +205073,6 @@ stape.fabiodantascursos.com.br
 stape.fabiogiusti.com.br
 stape.fabirochaboutique.com.br
 stape.fabricadesocios.com
-stape.fabriciaperon.com.br
 stape.fabriciodutra.com.br
 stape.fabrilcenter.com.br
 stape.fabulosoatelie.com.br
@@ -209425,6 +209416,7 @@ stats.unlimited24.de
 stats.unnaturalhistorytv.com
 stats.unrulymedia.com
 stats.upslide.net
+stats.urban-media.com
 stats.urban-vpn.com
 stats.us-light-edge.com
 stats.uscreen.io
@@ -211630,7 +211622,6 @@ support-widget.nakanohito.jp
 support-widget.userlocal.jp
 support.a8.net
 support.amputee-coalition.org
-support.flex.com
 support.fredhutch.org
 support.hqts.com
 support.labcorp.com
@@ -211642,8 +211633,6 @@ support.stripchat.com
 support.tbllprem.com
 support.tenten.vn
 support0.bigo.sg
-support2.flex.com
-support3.flex.com
 support509.com
 supportacs24.com
 supportedbailednotions.com
@@ -215375,7 +215364,6 @@ tanganrss.com
 tangerine.optika-oftalmos.si
 tangerineprestigiousbehaved.com
 tangerskinker.cfd
-tangible-guarantee.pro
 tangiblecrevice.com
 tangiblee.com
 tangibleteam.com
@@ -216442,6 +216430,7 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
+tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
@@ -231518,6 +231507,7 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -239262,6 +239252,8 @@ whitelabel.media.net
 whiteline.mail.ru
 whitelist-memefi.com
 whitelist.eu
+whitellllshop.icu
+whitelllshop.icu
 whitemagic.jp
 whitening76.top
 whitenoise.cn
@@ -249203,7 +249195,6 @@ zbgoyqs.xyz
 zbgqgh.ozerty.com
 zbhq.com
 zbj.mybluehost.me
-zbkkrb.dattinglife.com
 zbkrmwrzftiav.site
 zbl40hvzzy.com
 zblbp.dukeshealth.com.au
