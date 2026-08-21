@@ -814,6 +814,7 @@
 03436.com
 0346788.com
 03468.com
+0347.net
 0347.org
 034747.com
 03493.com
@@ -1260,6 +1261,7 @@
 08393.com
 08443.com
 08463.com
+08509.com
 08515.com
 0851rc.net
 0855i.com
@@ -1742,7 +1744,6 @@
 1-sefon.pro
 1-up.fun
 1-up.me
-1-winbet.com
 1-ws.com
 1-yo.com
 1-you.njalla.no
@@ -2777,7 +2778,6 @@
 123movies-t.com
 123movies-to.info
 123movies.love
-123movies.market
 123movies.study
 123movies00.com
 123movies123.online
@@ -3935,7 +3935,6 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
-1medicine.org
 1mi.net
 1mj.xyz
 1mlnlks.com
@@ -14776,6 +14775,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -17160,6 +17160,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -20252,7 +20253,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -21469,6 +21470,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23399,6 +23401,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -23830,7 +23833,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -27504,7 +27506,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27647,6 +27648,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28724,6 +28726,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -31256,7 +31259,6 @@ azkwwrejomzjm.top
 azlaghavm.com
 azlej8cdm.pragmaticwebsecurity.com
 azlniwfmehas.com
-azlsffez.com
 azlvcxyvmt.com
 azlyta.immowelt.de
 azmatomo.service.4matnetworks.com
@@ -33403,7 +33405,6 @@ beans.opensuse.org
 beanstalkdata.com
 beap-bc.yahoo.com
 bear-naked.pxf.io
-bear.builtbyborda.com
 bear.datingrelationshipsadvice.com
 bear.jake.nyc
 bear.modulr.design
@@ -37014,6 +37015,7 @@ boulevardrelative.com
 boulevardrunningprofane.com
 boulevardsift.com
 boulevardvending.com
+boultershutoku.click
 bounce-ads.de
 bounce-west.emxdgt.com
 bounce.brealtime.com
@@ -40312,12 +40314,9 @@ candyoffers.com
 candyprotection.com
 candywarehouse.evergage.com
 cane.intel.cn
-cane.intel.co.jp
-cane.intel.co.kr
 cane.intel.co.uk
 cane.intel.com
 cane.intel.com.au
-cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
 cane.intel.de
@@ -42865,6 +42864,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -55410,6 +55410,7 @@ da-ads.com
 da-bank.com.co
 da-cdn.amazon-adsystem.com
 da-stats.sladewatkins.net
+da-tracking.com
 da.965.de
 da.aleya-aesthetics.de
 da.anythinktech.com
@@ -64328,7 +64329,6 @@ disfunzioneerettileitaly.com
 disgigattars.qpon
 disgorgephew.com
 disgownsealess.cyou
-disguised-confidence.pro
 disguised-dad.com
 disguisedtask.pro
 disguisedtimingbreath.com
@@ -65263,7 +65263,6 @@ dnset.com
 dnspy.org
 dnsscan.shadowserver.org
 dnt-userreport.com
-dntds.shop
 dnuhjo.proworldinc.com
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
@@ -65407,9 +65406,7 @@ dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
 dogo.intel.co.kr
-dogo.intel.co.uk
 dogo.intel.com.au
-dogo.intel.com.br
 dogo.intel.com.tr
 dogo.intel.com.tw
 dogo.intel.de
@@ -72421,7 +72418,6 @@ ep10.online
 ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
-epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -77844,7 +77840,6 @@ findav.org
 findbestop.com
 findbetterresults.com
 findcalculator.com
-findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
@@ -80568,7 +80563,6 @@ frighteningrelative.com
 frightenoncoming.com
 frightfulmascara.com
 frightfulvisitorimportant.com
-frigid-airline.pro
 frigidzymases.cyou
 frigssstor.cyou
 frihcl.jothencosmetics.com
@@ -82056,7 +82050,6 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
-galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -86908,6 +86901,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 gribeorlneka.net
 grid-bidder.criteo.com
@@ -89698,6 +89692,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -96295,7 +96290,7 @@ hizechizr.com
 hizomjzikq.com
 hizph.bogeybros.co
 hiztz67hunr56p.jto284b7mr4tmgrb.cyou
-hj.subechoterbias.com
+hj.su
 hj11pdwgnu.cfd
 hj3z.com
 hj67fadszx.appspot.com
@@ -104547,7 +104542,6 @@ irdqtqawrvxeg.space
 irduunijdrixi.site
 ire-dsc.shalltry.com
 ire-dsu.shalltry.com
-ire-oneid.shalltry.com
 ire.mybluehost.me
 iready.curriculumassociates.com
 iredirect.net
@@ -126494,6 +126488,7 @@ marriott.pxf.io
 marriottinternationa.demdex.net
 marriottinternationa.tt.omtrdc.net
 marriottownershipresortsinc.demdex.net
+marrubeploughs.click
 marrysschoche.cyou
 mars.jd.com
 mars.media
@@ -126721,6 +126716,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -161332,6 +161328,7 @@ r1---sn-ab5szn6e.c.2mdn.net
 r1---sn-ab5sznld.c.2mdn.net
 r1---sn-ab5sznly.c.2mdn.net
 r1---sn-ab5sznzr.c.2mdn.net
+r1---sn-ab5sznzs.c.2mdn.net
 r1---sn-ab5sznzy.c.2mdn.net
 r1---sn-aigl6n6s.c.2mdn.net
 r1---sn-aigl6ned.c.2mdn.net
@@ -161768,6 +161765,7 @@ r2---sn-ab5sznzy.c.2mdn.net
 r2---sn-aigl6n6s.c.2mdn.net
 r2---sn-aigl6ned.c.2mdn.net
 r2---sn-aigl6nl7.c.2mdn.net
+r2---sn-aigl6ns6.c.2mdn.net
 r2---sn-aigl6nz7.c.2mdn.net
 r2---sn-aigl6nze.c.2mdn.net
 r2---sn-aigl6nzl.c.2mdn.net
@@ -163076,6 +163074,7 @@ r5---sn-ab5sznld.c.2mdn.net
 r5---sn-ab5sznly.c.2mdn.net
 r5---sn-ab5sznz6.c.2mdn.net
 r5---sn-ab5sznzr.c.2mdn.net
+r5---sn-ab5sznzs.c.2mdn.net
 r5---sn-ab5sznzy.c.2mdn.net
 r5---sn-aigl6n6s.c.2mdn.net
 r5---sn-aigl6ner.c.2mdn.net
@@ -170979,6 +170978,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -176620,7 +176620,6 @@ server.bailarinapreparada.com.br
 server.bajeemaat.com
 server.balbiguga.com.br
 server.baldinini-shop.com
-server.balighor.com
 server.balsamocongelados.com.br
 server.bambinos.live
 server.bananafood.com.br
@@ -184444,6 +184443,7 @@ silkieawk.cyou
 silklanguish.com
 silkmanthanksdobson.qpon
 silkroad.csdn.net
+silkroadweb.com
 silkworm.boxmood.be
 silkworm.margrietprinssen.nl
 silkworm.preventingsuicideinsussex.org
@@ -189218,6 +189218,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198123,7 +198124,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -216442,7 +216442,6 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
-tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
@@ -230354,7 +230353,6 @@ unlockads.com
 unlockdienthoai.zyrosite.com
 unlockedforward.com
 unlockers.ru
-unlockfile.store
 unlockfilenow.com
 unlockswervehustle.com
 unlocky.org
@@ -239264,8 +239262,6 @@ whitelabel.media.net
 whiteline.mail.ru
 whitelist-memefi.com
 whitelist.eu
-whitellllshop.icu
-whitelllshop.icu
 whitemagic.jp
 whitening76.top
 whitenoise.cn
