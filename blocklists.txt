@@ -14475,6 +14475,7 @@ ads-service.api.linkme.global
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
 ads-setu-proxy.amazon.com
+ads-sg.business-tiktok.com
 ads-sg.tiktok.com
 ads-shopping.shouqianba.com
 ads-smoot.com
@@ -17050,7 +17051,6 @@ adv-japan-east-prod.vmobapps.com
 adv-mydarkness.ggcorp.me
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
-adv-sv-stat.focus.cni.queryly.com
 adv-web-tracking-logs.azurewebsites.net
 adv.a8.net
 adv.adflex.vn
@@ -18075,6 +18075,7 @@ affil.mydrinks.cz
 affil.myface.cz
 affil.nanoshop.cz
 affil.nanospace.cz
+affil.netbiznis.sk
 affil.nutriadapt.cz
 affil.peliskydog.cz
 affil.plkshop.cz
@@ -20261,7 +20262,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.all.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -21477,7 +21478,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23411,6 +23411,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -26256,6 +26257,7 @@ api.qttunion.com
 api.quantumgraph.com
 api.quaresmapio.com.br
 api.queimaprobiotica.com.br
+api.queryly.com
 api.qustodio.com
 api.rabbits.webcam
 api.radkovsky.capital
@@ -28733,6 +28735,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -51913,6 +51916,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -75312,6 +75316,7 @@ eyjkalrchn.com
 eylnhf.jobhouse.jp
 eylqdmtg.tallerdelcuadro.online
 eylzypoaxzyjs.online
+eymaker.go.sonobi.com
 eymiwj.cancan.ro
 eymiwj.ciao.ro
 eymiwj.promotor.ro
@@ -75846,16 +75851,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -79256,7 +79258,6 @@ fojt.com
 fokbrd.impo.ch
 fokking.net
 fokuslighting.com
-fol9.com
 folacinamylome.help
 folbwkw.com
 folddared.com
@@ -80402,7 +80403,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -82086,6 +82086,7 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
+galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -84481,7 +84482,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -84758,7 +84758,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -95994,7 +95993,6 @@ highcpmgate.com
 highcpmrevenuegate.com
 highcpmrevenuenetwork.com
 highercldfrev.com
-highercldfrevb.com
 higherengine.com
 highestfollowing.com
 highestslided.cyou
@@ -98848,6 +98846,7 @@ iad-04.braze.com
 iad-05.braze.com
 iad-06.braze.com
 iad-08.braze.com
+iad-2-apex.go.sonobi.com
 iad-2-sync.go.sonobi.com
 iad-2-xcp.go.sonobi.com
 iad-2.go.sonobi.com
@@ -98866,6 +98865,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -105760,7 +105760,6 @@ jaryfyba.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -109311,7 +109310,6 @@ keyhamates.com
 keyholedingy.com
 keyiqu.top
 keylesshowk.shop
-keymaker.go.sonobi.com
 keymandigonal.cyou
 keymedia.hu
 keymetric.net
@@ -118044,7 +118042,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -145895,6 +145892,7 @@ ojzpcvipynqhw.online
 ok-server.co.il
 ok.429men.com
 ok.aboardpleione.com
+ok.appnexus.com
 ok.carepayout.com
 ok.carepayout.us
 ok.carepayouts.com
@@ -170947,6 +170945,7 @@ s.swagprint.com
 s.syzs.qq.com
 s.t5z3w0p.com
 s.tag.moresafer.com
+s.tagstream.co.uk
 s.tamtam.hamburg
 s.tantanapp.com
 s.targetserving.com
@@ -171034,6 +171033,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -176769,7 +176769,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -178956,7 +178955,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -184103,7 +184101,6 @@ shoutloud.de
 shoutsnablus.cyou
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-api.1sapp.com
 show-creative1.com
 show-me-h0w.com
@@ -189282,6 +189279,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -202005,7 +202003,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -211361,6 +211358,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -241669,7 +241667,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -246389,7 +246386,6 @@ xudr8vwe.xyz
 xue.zbyw.cn
 xueaaaw.cn
 xuehjpsirhyol.space
-xuelixue.cn
 xueuqxlxsliup.online
 xuexi.hydcd.com
 xugsrpmdnvcwq.website
