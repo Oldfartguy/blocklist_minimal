@@ -1075,6 +1075,7 @@
 0597qc.com
 05a.com
 05b9daf35c.com
+05block.com
 05e76a16b8.5e3d5f480f.com
 05et.biz
 05et.net
@@ -3509,7 +3510,6 @@
 180nn.com
 180pk66.com
 180searchassistant.com
-180xpjdc.net
 1812challenge.com
 1816460cba.com
 181926.com
@@ -14713,6 +14713,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -16663,6 +16664,7 @@ adst.citchenware.com
 adst.djaxadserver.com
 adstacks.g2afse.com
 adstag0102.xyz
+adstage-analytics.herokuapp.com
 adstage.io
 adstailor.com
 adstanding.com
@@ -23842,7 +23844,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -27658,6 +27659,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28734,7 +28736,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -40343,6 +40344,7 @@ cane.intel.com.tw
 cane.intel.de
 cane.intel.es
 cane.intel.fr
+cane.intel.in
 cane.intel.it
 cane.intel.la
 cane.intel.pl
@@ -42881,6 +42883,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -45874,6 +45877,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -48165,7 +48169,6 @@ colourmingle.com
 colourrobot.com
 coloursdentfolk.com
 colpwoofell.qpon
-colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -51615,7 +51618,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -68154,7 +68156,6 @@ dzzzwkgr.torn.com
 e-10457.adzerk.net
 e-9660.adzerk.net
 e-ad-monitor.huya.com
-e-analytics.herokuapp.com
 e-bannerx.com
 e-c.tokyo
 e-car.day
@@ -75854,13 +75855,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80406,6 +80410,7 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84762,6 +84767,7 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -89730,7 +89736,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98383,7 +98388,6 @@ hxi.mybluehost.me
 hxiabp.colins.com.tr
 hxjhfqrolubqs.space
 hxjrxfwgbwlvk.online
-hxjsmpnsx.com
 hxjwiwl6j6hc8yb.cfd
 hxk8yvpuyzcv56fm6llwtmuyzc2wh9.cfd
 hxmbpq.bar
@@ -98870,7 +98874,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -100465,6 +100468,7 @@ images.go.hardware.group
 images.go.hulft.com
 images.go.ifund.com.hk
 images.go.impinj.com
+images.go.insidelpl.com
 images.go.jll.com
 images.go.mathworks.com
 images.go.metagenics.com
@@ -101633,6 +101637,7 @@ inco.clinicaincorpus.com.br
 incognia.com
 incognitosearches.com
 incogssr.boatrentalbali.com
+income.lplnow.com
 income88.com
 incomehippo.com
 incomesforeleg.qpon
@@ -102525,6 +102530,7 @@ info.paynewest.com
 info.payroll4construction.com
 info.pelicans.com
 info.pella.com
+info.pencewealthmanagement.com
 info.penna.com
 info.penrithpanthers.com.au
 info.pentra.aleragroup.com
@@ -102888,7 +102894,6 @@ informpay.com
 informperacid.com
 informsgainalexis.com
 inforsea.com
-infos-sundhed.com
 infos.anz-originator.com.au
 infos.anz.com
 infos.anz.com.au
@@ -105763,6 +105768,7 @@ jaryfyba.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
+jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -112332,7 +112338,6 @@ lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
 lazada77.com
 lazadaapp.shop
-lazalogistics.ph
 lazboy.demdex.net
 lazedrumpot.top
 lazesheitelprawner.qpon
@@ -118050,6 +118055,7 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
+load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -120301,7 +120307,6 @@ lobisuriname.org
 loboclick.com
 lobolarebsmachine.cyou
 lobspqdzvfvrp.space
-lobster.unionpeer.com
 lobsterbakerstealth.cfd
 lobup.whoiselijah.uk
 loc.cc
@@ -126765,7 +126770,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -148525,6 +148529,7 @@ outfunnel.com
 outgateprat.com
 outglanceauditioning.com
 outgoeslyase.cfd
+outgoing-speed.com
 outgoingproblem.com
 outgotinsy.qpon
 outgress.com
@@ -155354,7 +155359,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -171054,7 +171058,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -176790,6 +176793,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -178976,6 +178980,7 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
+server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -184121,6 +184126,7 @@ shoutloud.de
 shoutsnablus.cyou
 shoutwiki.club
 shoversuersjupard.cyou
+shovon.zelonii.com
 show-api.1sapp.com
 show-creative1.com
 show-me-h0w.com
@@ -185811,11 +185817,18 @@ smart.rexfordindustrial.com
 smart.styria-digital.com
 smart.tubeadvertising.eu
 smart.wheels.com
+smart1019.lplnow.com
+smart1064.lplnow.com
 smart112.lplnow.com
 smart1adserver.com
 smart2.dppl.com
+smart212.lplnow.com
 smart2cnjuh34jb.com
+smart322.lplnow.com
+smart46.lplnow.com
 smart4ads.com
+smart62.lplnow.com
+smart98.lplnow.com
 smartad.10010.com
 smartadblocker.com
 smartadexchange.xyz
@@ -186042,6 +186055,7 @@ smetric.vw.com.tr
 smetric.wellcarefindaprovider.com
 smetric.worldcat.org
 smetric.yardhouse.com
+smetricas.fgv.br
 smetrics-cns.panasonic.com
 smetrics-ieeexplore.ieee.org
 smetrics-mh.find-your-pensions.service.gov.uk
@@ -198200,6 +198214,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -202015,6 +202030,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -213012,6 +213028,7 @@ syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
 syndication.gcdnanalytics.com
+syndication.intel.com
 syndication.jsadapi.com
 syndication.link2az.com
 syndication.link2nx.com
@@ -228276,6 +228293,7 @@ twilitwolfdomfalcer.qpon
 twiltch.tv
 twimg.cash
 twin-iq.kickfire.com
+twin-original.com
 twin.staging.goclarity.io
 twinabonnementoutburst.com
 twinadsrv.com
@@ -230487,6 +230505,7 @@ unnaturalcask.com
 unnaturalcontradictblossom.com
 unnaturalindulgencerenown.com
 unnaturaljune.com
+unnaturallead.com
 unnaturalmountain.com
 unnaturalred.pro
 unnaturalsilver.com
@@ -230663,6 +230682,7 @@ untrhhc.veneera.co.uk
 untriedcause.pro
 untriedhusband.com
 untriedpoetry.com
+untriedshe.com
 untrimuncover.qpon
 untristseaside.com
 untrodlagged.com
@@ -231618,7 +231638,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -241684,6 +241703,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
