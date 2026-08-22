@@ -813,6 +813,7 @@
 03436.com
 0346788.com
 03468.com
+0347.net
 0347.org
 034747.com
 03493.com
@@ -14474,7 +14475,6 @@ ads-service.api.linkme.global
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
 ads-setu-proxy.amazon.com
-ads-sg.business-tiktok.com
 ads-sg.tiktok.com
 ads-shopping.shouqianba.com
 ads-smoot.com
@@ -17050,6 +17050,7 @@ adv-japan-east-prod.vmobapps.com
 adv-mydarkness.ggcorp.me
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
+adv-sv-stat.focus.cni.queryly.com
 adv-web-tracking-logs.azurewebsites.net
 adv.a8.net
 adv.adflex.vn
@@ -18074,7 +18075,6 @@ affil.mydrinks.cz
 affil.myface.cz
 affil.nanoshop.cz
 affil.nanospace.cz
-affil.netbiznis.sk
 affil.nutriadapt.cz
 affil.peliskydog.cz
 affil.plkshop.cz
@@ -20261,8 +20261,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -23413,7 +23411,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -26259,7 +26256,6 @@ api.qttunion.com
 api.quantumgraph.com
 api.quaresmapio.com.br
 api.queimaprobiotica.com.br
-api.queryly.com
 api.qustodio.com
 api.rabbits.webcam
 api.radkovsky.capital
@@ -27519,6 +27515,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27660,7 +27657,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28827,7 +28823,6 @@ asb.tynt.com
 asbbankltd.tt.omtrdc.net
 asbfala.com
 asbhv.invictastores.eu
-asbiupcvlaip.com
 asbolanablauts.shop
 asbqc.simplysoldoffers.com
 asc.asc-net.com
@@ -39304,7 +39299,6 @@ c.auntieannes.com
 c.autohome.com.cn
 c.baidu.com
 c.bannerflow.net
-c.bazo.io
 c.bazu.cc
 c.bebi.com
 c.betrad.com
@@ -42884,6 +42878,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -50461,6 +50456,7 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
+countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -53271,6 +53267,7 @@ czx5eyk0exbhwp43ya.biz
 czxbcy.com
 czxewl.kumobeauty.com
 czynhitkvjkkw.space
+czzhejnrhgtsc.site
 czzpv.iowtomatoes.co.uk
 d-064.com
 d-agency.net
@@ -66104,7 +66101,6 @@ drab-week.com
 drabbedhovenbauxite.cyou
 drabground.com
 drabimprovement.com
-drabsandwich.pro
 drabshine.com
 drabstrainedtriceps.com
 drachmaameers.qpon
@@ -66178,7 +66174,6 @@ drbtcjprbqkhj.site
 drcfwuuwswbni.store
 drct-match.com
 drct-match.net
-drctcldff.com
 drda5yf9kgz5p.cloudfront.net
 drdevelopmentcolor.com
 drdgpyhytqtnh.website
@@ -81463,6 +81458,7 @@ fwvduofolpzzj.site
 fwvzx907rr.com
 fwxpress.com
 fwxr.com
+fwyhwomzcudcj.site
 fwzvgdqhtxsxc.store
 fx.fixfy.eu
 fx.gearmanswings.com
@@ -82090,7 +82086,6 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
-galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -84486,6 +84481,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -86552,6 +86548,7 @@ gqcst.bettybasics.com.au
 gqdui.weareplufl.com
 gqfga.senreve.com
 gqfoi.roewellness.com
+gqfsjyhaoqzxs.website
 gqgvzbgm.carterbay.com
 gqhfjr.sizeofficial.es
 gqhlrr.fragrancedirect.co.uk
@@ -86939,6 +86936,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 gribeorlneka.net
 grid-bidder.criteo.com
@@ -88054,7 +88052,6 @@ gtm.autopecasnk.com.br
 gtm.autoroyal.no
 gtm.autumn-blu.com
 gtm.av.convergent.sa
-gtm.avalk.com.br
 gtm.avantejuntos.com.br
 gtm.avanticonexao.com.br
 gtm.avantiopenbanking.com.br
@@ -95528,6 +95525,7 @@ herbalife.tiendaherbal.shop
 herbalraising.com
 herberhorizon.cfd
 herbgreencolumn.com
+herbishfuroid.cyou
 herbishgleams.cyou
 herbmancubeb.shop
 herbstarsbuilding.com
@@ -98850,7 +98848,6 @@ iad-04.braze.com
 iad-05.braze.com
 iad-06.braze.com
 iad-08.braze.com
-iad-2-apex.go.sonobi.com
 iad-2-sync.go.sonobi.com
 iad-2-xcp.go.sonobi.com
 iad-2.go.sonobi.com
@@ -124548,6 +124545,7 @@ manipulativeslaves.com
 maniteka.com
 manjackkotaekaha.cyou
 manjackphenol.com
+manjeetpandar.shop
 mankinddemocrat.com
 mankindflatten.com
 manksdmejidwv.website
@@ -133071,7 +133069,6 @@ mjp.zimad.com
 mjphu.theherocompany.co
 mjqkrn.nativeorigins.com
 mjqqlwj.work
-mjqtpumpybytww.com
 mjramgmogoewx.site
 mjriazemzybdg.online
 mjrzu.youngla.com
@@ -141001,6 +140998,7 @@ npm.districtm.ca
 npmeflfn.kelvelo.com
 npmfetklmwfzj.online
 npmtyfajkldkj.space
+npocsfzbtijlt.online
 npojutficc.com
 npolkkpbzrrpl.site
 npozbs.msccruises.nl
@@ -144754,7 +144752,6 @@ oavgoe.irs.jp
 oavqowdsenguy.online
 oavsgdmtbealk.website
 oavyctdvbrlpz.space
-oawcqaqaykn.com
 oawkaajvnfkcu.site
 oaxcyzqojnyxy.online
 oazkdbvfj.com
@@ -145898,7 +145895,6 @@ ojzpcvipynqhw.online
 ok-server.co.il
 ok.429men.com
 ok.aboardpleione.com
-ok.appnexus.com
 ok.carepayout.com
 ok.carepayout.us
 ok.carepayouts.com
@@ -147856,6 +147852,7 @@ organicextentbounds.com
 organicmission.ogee.com
 organicowner.com
 organicparotisorias.cfd
+organicpimping.com
 organikhit.com
 organismdespite.com
 organismgums.com
@@ -148816,6 +148813,7 @@ owltin.com
 owlunimmvn.com
 owlycuffingasmen.cyou
 owmedia.rabbit.click
+owmgwqdbyv.com
 ownablearmful.qpon
 owndangle.com
 owndata.network
@@ -155342,6 +155340,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -170948,7 +170947,6 @@ s.swagprint.com
 s.syzs.qq.com
 s.t5z3w0p.com
 s.tag.moresafer.com
-s.tagstream.co.uk
 s.tamtam.hamburg
 s.tantanapp.com
 s.targetserving.com
@@ -171036,7 +171034,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -189285,7 +189282,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198194,7 +198190,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -218506,6 +218501,7 @@ thurgifunkers.cfd
 thuriofennecs.cyou
 thurnflfant.com
 thursdaycanada.com
+thurseworrelsinuses.qpon
 thushandkerchiefcentered.com
 thuthoock.net
 thutucnhantien-tunuocngoai.weebly.com
@@ -231097,6 +231093,7 @@ uqnnb.staud.clothing
 uqnnvhk.ericjavits.com
 uqocjf.campingred.es
 uqoqqnokfburn.online
+uqorvvojegngl.site
 uqoxtbwmhofzc.site
 uqpvd.nakie.co
 uqqclbgexmriv.store
@@ -235914,6 +235911,7 @@ vqqjqbkzclwav.website
 vqrdiduoqypac.site
 vqrei.originalgrain.com
 vqrwdwrmxbelz.website
+vqselsjtasr.com
 vqserve.com
 vqtuhcma.playcity.bg
 vquhshiqyqudr.space
@@ -243747,6 +243745,7 @@ wzeadwoc.com
 wzehmoil.com
 wzekavkp.com
 wzelipmfuva.com
+wzemzootg.in
 wzeocharram.com
 wzes.com
 wzjs1.oss-accelerate.aliyuncs.com
@@ -246556,6 +246555,7 @@ xxezsifdsivsa.site
 xxfdcz.thueringer-jobanzeiger.de
 xxh222.com
 xxhfuaek.icu
+xxhtuyqbjcqrq.site
 xxid.atl-paas.net
 xxid.atlassian.com
 xxikeloids.cyou
@@ -250117,6 +250117,7 @@ zjfvpv.serengeticatalog.com
 zjg1tcuer7.cfd
 zjhcdz.net
 zjhswy.comeup.com.tr
+zjhwrbopbrnzu.online
 zjihnfuxlyiof.com
 zjijuf.canlidershane.net
 zjikqm.europcar.ie
