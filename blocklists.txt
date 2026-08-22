@@ -14569,6 +14569,7 @@ ads.admatrix.vn
 ads.administrator.de
 ads.admized.com
 ads.adnods.com
+ads.adnuntius.delivery
 ads.adoffice.11st.co.kr
 ads.adpone.com
 ads.adred.de
@@ -14717,7 +14718,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -14788,7 +14788,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -20267,8 +20266,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -21484,7 +21483,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -28746,7 +28744,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -45881,7 +45878,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -51386,7 +51382,6 @@ creekytonnish.cyou
 creeperplotgrove.com
 creepgrandpa.com
 creepingseverely.com
-creepy-birthday.pro
 creepy-frame.com
 creepyjudgment.pro
 creesessalvia.cfd
@@ -74677,7 +74672,6 @@ exc-jrnl-ru.vidaahub.com
 exc-jrnl.vidaahub.com
 exc.ns.nl
 excafwcwlpevm.site
-excavajo16.gimmeporn.xyz
 excavateaccommodateupset.com
 excavatedefeatedshudder.com
 excavatenearbywand.com
@@ -75850,13 +75844,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80400,6 +80397,7 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84481,7 +84479,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -84758,6 +84755,7 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -98863,6 +98861,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -167398,7 +167397,6 @@ rm.queansoleyn.com
 rm.riskilychous.com
 rm.sina.com.cn
 rm.tapuz.co.il
-rm.thesculpts.com
 rm.undoerdubbah.com
 rm0005.net
 rm02.net
@@ -171019,7 +171017,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -176750,6 +176747,7 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
+server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -201984,6 +201982,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -211337,7 +211336,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -223230,7 +223228,6 @@ track.wattpadhq.com
 track.waura.com.br
 track.wbamedia.com
 track.webgains.com
-track.webgeniusbd.com
 track.webstatistik-bw.de
 track.weflatables.com
 track.weltura.com
@@ -237043,7 +237040,6 @@ wanyol.obs.cn-north-1.myhuaweicloud.com
 wao.atu.de
 wao.mybluehost.me
 waozmoee0c.com
-wap-apps-wending.com
 wap-dl-v6.shouji.sogou.com
 wap-master.xtgem.com
 wap.co.il
@@ -241635,6 +241631,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
