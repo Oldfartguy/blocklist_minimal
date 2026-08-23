@@ -14699,6 +14699,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -14769,6 +14770,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -16646,7 +16648,6 @@ adst.citchenware.com
 adst.djaxadserver.com
 adstacks.g2afse.com
 adstag0102.xyz
-adstage-analytics.herokuapp.com
 adstage.io
 adstailor.com
 adstanding.com
@@ -20251,8 +20252,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -23831,7 +23830,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -24277,6 +24275,7 @@ aniafitnut.com
 anian1.weebly.com
 aniapi.com
 anicobin.ldblog.jp
+anicsbank.co.com
 anihazels.com
 anijjm.winkelstraat.nl
 anik.perfumehousedhaka.com
@@ -49959,7 +49958,6 @@ coomjohnian.cfd
 coonierregian.qpon
 coonlentisk.cyou
 coonnfirrmm-bankingg247njf.weebly.com
-coonvalleydairysupply.com
 cooolors.com
 coop.vmware.com
 coopeecraney.qpon
@@ -68167,6 +68165,7 @@ dzzzwkgr.torn.com
 e-10457.adzerk.net
 e-9660.adzerk.net
 e-ad-monitor.huya.com
+e-analytics.herokuapp.com
 e-bannerx.com
 e-c.tokyo
 e-car.day
@@ -80425,6 +80424,7 @@ freehookupaffair.com
 freeingpilaff.cfd
 freeipapi.com
 freejoomlatemplatez.com
+freeko.pl
 freelinks.neocities.org
 freelogs.com
 freelovehere.com
@@ -84485,7 +84485,6 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -86936,7 +86935,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 gribeorlneka.net
 grid-bidder.criteo.com
@@ -89726,7 +89724,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -99518,7 +99515,6 @@ ieluqbvv.telemetry.connect.eu-central-1.amazonaws.com
 ieluqbvv.telemetry.connect.eu-west-2.amazonaws.com
 ieluqbvv.telemetry.connect.us-east-1.amazonaws.com
 ieluqbvv.telemetry.connect.us-west-2.amazonaws.com
-iemedyugz.com
 iemiller.net
 iemiq.com
 iemtz.admsport.com
@@ -155380,7 +155376,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -159275,7 +159270,6 @@ qakqvajmhdpzd.store
 qal0.destinia.gr
 qaldatrxnjssm.site
 qalizyiehylan.space
-qaltylntnghu.com
 qamhngalamvbl.site
 qamnyl.bever.nl
 qamrajywditki.online
@@ -164891,7 +164885,6 @@ recreationducked.com
 recreativ.com
 recreativ.com.ua
 recreativ.ru
-recruit-gold.com
 recruit.go.apprenticeshipcommunity.com.au
 recruit.gradleaders.com
 recruit.mbafocus.com
@@ -185533,7 +185526,6 @@ sleepilled.cyou
 sleepoverlimitprofound.com
 sleepovermilitary.com
 sleepoveryouth.com
-sleepy-quality.pro
 sleepyjury.com
 sleepypiglet.deltashore.uk
 sleepzeepro-ss.checkoutera.com
@@ -189341,7 +189333,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -193789,7 +193780,6 @@ spotless-reveal.com
 spotlessbreakfast.com
 spotlessstamp.com
 spotlesstotal.com
-spotlight.accuweather.com
 spotlight.offerista.com
 spotlight.pxf.io
 spotlightconvenience.com
@@ -211763,7 +211753,6 @@ support-widget.nakanohito.jp
 support-widget.userlocal.jp
 support.a8.net
 support.amputee-coalition.org
-support.flex.com
 support.fredhutch.org
 support.hqts.com
 support.labcorp.com
@@ -231676,7 +231665,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -241670,7 +241658,6 @@ www-fb.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 www-icloud.com
-www-mechanicsbank.co.com
 www-mechonics.top
 www-mfacebook.com.vn
 www-mt.daiichisankyo-hc.co.jp
@@ -241743,7 +241730,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -244047,7 +244033,6 @@ xads.codon.vn
 xads.joboko.com
 xadsmart.com
 xaejynr4rw.cfd
-xaertbvtrv.com
 xaeyjn.luzzibag.com
 xafrpagtesteb.online
 xafszmuibdlps.site
@@ -247710,7 +247695,6 @@ yiomeycjvtfhn.online
 yiookflg.3rdplanetguide.com
 yiookflg.3rdplanetproducts.com
 yiookflg.celebratorofficial.com
-yiopsuqcfjayh.com
 yip.su
 yipesalgarde.shop
 yipnhryqyfelw.space
@@ -248924,7 +248908,6 @@ yyecdiehcvadf.site
 yyeihh.run
 yyfhbgupnibgo.space
 yyfiuusddmtdz.online
-yyfseleoi.com
 yyghnnvhvvbaw.site
 yyhijp.g123.jp
 yyhjwjkzgfucr.website
