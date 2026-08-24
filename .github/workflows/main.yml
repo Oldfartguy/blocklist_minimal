@@ -48,6 +48,7 @@ jobs:
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi-onlydomains.txt \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme-onlydomains.txt \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended-onlydomains.txt \
+            https://small.oisd.nl/domainswild2 \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
