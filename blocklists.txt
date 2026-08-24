@@ -14774,6 +14774,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -16185,6 +16186,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -20259,7 +20261,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -23409,6 +23410,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -26376,7 +26378,6 @@ api.smlsolutionai.com.br
 api.sms.intl.miui.com
 api.snakky.lt
 api.sobot.com
-api.sociaplus.com
 api.sofasoft.com.br
 api.software.seznam.cz
 api.sonobi.com
@@ -27519,7 +27520,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -28744,6 +28744,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -37610,7 +37611,6 @@ bridlealacrityleak.com
 bridlearctic.com
 brief-device.pro
 brief.logrocket.com
-brief.mediaz.vn
 briefate.com
 briefcase95.com
 briefcasebuoyduster.com
@@ -42891,6 +42891,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -43346,6 +43347,7 @@ cebineviewingvaluta.cfd
 cebjrqvyienhy.site
 cebnovoscizrj.online
 cecalsukeyicker.qpon
+cecash.com
 cecilngoma.com
 cecilyditali.qpon
 cecmwtarwabtp.website
@@ -47517,6 +47519,7 @@ colamirus.com
 colanbalkily.com
 colanderfinishedimminent.com
 colandermeasured.com
+colauxesabicu.cfd
 colbwxlsfenwn.website
 coldbalance.com
 coldcallpro.com
@@ -50489,7 +50492,6 @@ counter9.stat.ovh
 counterbot.com
 countercentral.com
 countercity.de
-countercity.net
 counterfeitlearnedpacify.com
 countergeo.com
 counterimageawoke.com
@@ -51945,6 +51947,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -61890,6 +61893,7 @@ dearestastray.com
 deathdetectives.com
 deathfriend.com
 deavedazilian.qpon
+debagkedarnectary.cfd
 debarkconsumptioninsulting.com
 debateshindiganymore.com
 debbiesmurexacknew.cfd
@@ -75900,16 +75904,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80226,7 +80227,6 @@ fra-01.braze.eu
 fra-02.braze.eu
 fra-allmusic-api-adv.allsaints.tv
 fra-col.eum-appdynamics.com
-fraagesport.com
 fraalb.cebanatural.com
 fraats.atome3d.com
 fraction05.com
@@ -80455,7 +80455,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -83130,7 +83129,6 @@ genericreverse.com
 generosityensurebathing.com
 generosityreekweigh.com
 generourbano.com
-generous-east.pro
 generous-snow.com
 generousbuy.pro
 generousenjoyed.com
@@ -84805,7 +84803,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -85636,6 +85633,7 @@ go.peppermarketing.com.au
 go.perkinscoie.com
 go.pgx.com
 go.phhlending.com
+go.pinolli.ro
 go.pjm.com
 go.planetnine.com
 go.playlg.com
@@ -104634,7 +104632,6 @@ ireklama.cz
 ireklama.mk
 irelandroad.com
 iremnazae.com
-iremoval.app
 irene-fortuna.com
 irenealtogether.com
 irenethrush.com
@@ -105815,7 +105812,6 @@ jaryfyba.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -118120,7 +118116,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -153844,6 +153839,7 @@ pjtvpz.teufelaudio.fr
 pjtxmd.epool.ru
 pju.mybluehost.me
 pjvcbvjfrzniy.site
+pjwjcdippzcwt.online
 pjwjy.com
 pjyibsavpisod.space
 pjzae.hypnoschile.com
@@ -155456,6 +155452,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -170227,6 +170224,7 @@ rynd.skeercaci.shop
 rynmcq.biz
 ryotswaffles.cfd
 rypebb.icu
+rypmbgkfsnkjg.space
 rypsysepu.com
 ryqtxakilhprz.site
 ryqxryaytwbpx.website
@@ -176878,7 +176876,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -179063,7 +179060,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -184208,7 +184204,6 @@ shoutloud.de
 shoutsnablus.cyou
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-api.1sapp.com
 show-creative1.com
 show-me-h0w.com
@@ -202116,7 +202111,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -216979,7 +216973,6 @@ telegram1.top
 telegrambotsolution.pages.dev
 telegramdisposedjaws.com
 telegramhcn.com
-telegramm.site
 telegramspun.com
 telegramtf.com
 telegramvb.com
@@ -219257,7 +219250,6 @@ tk.airfrance.nl
 tk.airfrance.no
 tk.airfrance.pa
 tk.airfrance.pe
-tk.airfrance.pf
 tk.airfrance.pl
 tk.airfrance.pt
 tk.airfrance.re
@@ -230502,7 +230494,6 @@ universalsrc.com
 universe.send.microad.jp
 universe7.top
 universitycleaninglunch.com
-universityofinternetscience.com
 universityonline.marketo.com
 universityroadsidecircumstantial.com
 universityshocksooner.com
@@ -241808,7 +241799,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -248227,6 +248217,7 @@ youku.tv
 youkuhonor.com
 youkuvideo.net
 youla.bid4awin.com
+youla.mod22.com
 youlamedia.com
 youle55.com
 youlead.pl
@@ -249651,6 +249642,7 @@ zeabo.sokolovelaw.com
 zeads.com
 zealedlament.cyou
 zealous-direction.pro
+zealous-notice.com
 zealous-push.surge.sh
 zealousbend.pro
 zealousclothes.pro
