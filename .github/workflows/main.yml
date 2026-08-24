@@ -41,11 +41,6 @@ jobs:
             https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt \
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
             https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/popupads-onlydomains.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.apple.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung-onlydomains.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.xiaomi.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt \
             https://raw.githubusercontent.com/Oldfartguy/Oldfartguy-blocklist/refs/heads/main/List.txt \
             https://small.oisd.nl/domainswild2 \
           | awk '{
