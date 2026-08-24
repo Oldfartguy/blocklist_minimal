@@ -42,7 +42,6 @@ jobs:
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
             https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards \
             https://raw.githubusercontent.com/Oldfartguy/Oldfartguy-blocklist/refs/heads/main/List.txt \
-            https://small.oisd.nl/domainswild2 \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
