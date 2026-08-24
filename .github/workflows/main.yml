@@ -42,12 +42,6 @@ jobs:
             https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts \
             https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/domains.wildcards \
             https://raw.githubusercontent.com/Oldfartguy/Oldfartguy-blocklist/refs/heads/main/List.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.apple-onlydomains.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi-onlydomains.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.oppo-realme-onlydomains.txt
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.winoffice-onlydomains.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.samsung-onlydomains.txt \
-            https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.tiktok.extended-onlydomains.txt \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
