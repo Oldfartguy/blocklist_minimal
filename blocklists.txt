@@ -10247,6 +10247,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -12101,7 +12102,6 @@ adst.citchenware.com
 adst.djaxadserver.com
 adstacks.g2afse.com
 adstag0102.xyz
-adstage-analytics.herokuapp.com
 adstage.io
 adstailor.com
 adstanding.com
@@ -13620,7 +13620,6 @@ affiliate.lentiamo.fr
 affiliate.lentiamo.it
 affiliate.lentiamo.nl
 affiliate.lentiamo.se
-affiliate.levnoshop.cz
 affiliate.levsalonu.cz
 affiliate.lg-store.cz
 affiliate.licit.cz
@@ -15370,8 +15369,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -18370,7 +18367,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -23393,6 +23389,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -28771,6 +28768,7 @@ bigtracker.com
 bigwetbrush.com
 bigwinsnow.online
 bigworldsports.com
+bigyapae-analytics.herokuapp.com
 bihalvegoldi.com
 bihogbawtvemq.site
 bihunekus.com
@@ -38305,6 +38303,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -65544,16 +65543,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falhcegbmvooc.site
 falixa.com
 falkag.net
@@ -68594,7 +68590,6 @@ foreseestivy.cyou
 foresightcoercive.com
 foresightjs.appspot.com
 foresightretail.net.mydays.de
-foreskin.cc
 forest.zelt24.de
 forester.a2z.com
 forestreveal.com
@@ -69387,7 +69382,6 @@ freefromads.com
 freefromads.pro
 freefungames.net
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -73144,7 +73138,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -75062,6 +75055,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77756,7 +77750,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -97370,6 +97363,7 @@ lacrymrepointtorpex.cyou
 lactaryabacfoetors.cyou
 lactaselasi.shop
 lactoidmeasly.qpon
+lactolwant.com
 lacunads.com
 lacvzlcsxbsrz.website
 lacytrinityhissed.com
@@ -112803,7 +112797,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -121749,7 +121742,6 @@ nap5k.com
 napcard.net
 napeinigobeamage.cyou
 naperyumlauts.cfd
-napff.vn
 napffx5.com
 napfreefire.vn
 napfreefirex5.com
@@ -148084,7 +148076,6 @@ rjxujpuoxmtlr.website
 rjzbvmbkemqwq.top
 rjzbvmbybvokw.top
 rjzkulworyqil.space
-rjzmq.sanctuaryaz.com
 rk2kpo4ef.com
 rkazse.infirmiere.co.jp
 rkbisw.eden-reschensee.com
@@ -174348,7 +174339,6 @@ ss.cafecaramello.com.br
 ss.caffeineandcranks.cc
 ss.cakto.com.br
 ss.cakto.me
-ss.calicoclassic.com
 ss.calzaheymo.es
 ss.cambridgeshirewellnessclinic.com
 ss.cambuy.de
@@ -177607,7 +177597,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -178167,7 +178156,6 @@ sst.babyitem.nl
 sst.babypark.de
 sst.babypark.nl
 sst.babyscanning.co.uk
-sst.babyversebd.com
 sst.backdropsource.ca
 sst.backdropsource.co.nz
 sst.backdropsource.co.uk
@@ -179119,6 +179107,7 @@ sst.erikacavallini.com
 sst.eroscode.de
 sst.ertsignals.com
 sst.erythroslight.com
+sst.erzelemsuli.hu
 sst.es.greenpeace.org
 sst.esaletter.reviews
 sst.esbjergmuseum.dk
@@ -181416,7 +181405,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -193439,6 +193427,7 @@ tag.contactatonce.co.uk
 tag.contentanalytics.jp
 tag.contextweb.com
 tag.corsair.com
+tag.craftmartbd.com
 tag.cribnotes.jp
 tag.crsspxl.com
 tag.cygnetgroup.com
@@ -202367,6 +202356,7 @@ tracking.engineering.cloud.seek.com.au
 tracking.enlist.com
 tracking.ensonhaber.com
 tracking.ent.oviahealth.com
+tracking.eolienne-heragos.com
 tracking.epicgames.com
 tracking.epredia.com
 tracking.epsilon.com
@@ -218229,7 +218219,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -222674,6 +222663,7 @@ xvlgs.nyra.com
 xvlu.morql32ex5yq67j8ecg.cyou
 xvmzbkpppasoe.online
 xvn.mybluehost.me
+xvpqmcgf.com
 xvq66ekmebb83qy.rest
 xvqcsxmc.jovyco.com
 xvqidgxfdsxbe.store
