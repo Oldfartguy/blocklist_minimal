@@ -10245,6 +10245,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15367,7 +15368,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16413,7 +16414,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -18869,7 +18869,6 @@ analytics.xgimi.com
 analytics.xl.pt
 analytics.xn--72czaud0ezbn4b8de.com
 analytics.xoomenergy.com
-analytics.xxcontent.lol
 analytics.yahoo.com
 analytics.yamibuy.net
 analytics.yaysecurityapp.xyz
@@ -22461,7 +22460,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.xtreamarena.com
@@ -25585,7 +25583,6 @@ azulejobeleaps.cyou
 azullinhasaereas.tt.omtrdc.net
 azureanungrasppluvial.cyou
 azuredcalcar.com
-azureedge-global-fastly-cloudfront-ondigitalocean-stackpathcdn.buzz
 azuremystique.com
 azureserv.com
 azurestealth.com
@@ -35707,7 +35704,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -41991,6 +41987,7 @@ coomjohnian.cfd
 coonierregian.qpon
 coonlentisk.cyou
 coonnfirrmm-bankingg247njf.weebly.com
+coonvalleydairysupply.com
 cooolors.com
 coop.vmware.com
 coopar.com
@@ -61761,7 +61758,6 @@ empalesmarkka.cyou
 empaquatlbsgn.space
 empdat.com
 emperorinspiring.com
-emperors.bunkerhilltradingco.info
 emperorzosma.qpon
 empiotwxidzgh.space
 empirecdn.io
@@ -75038,6 +75034,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -88348,7 +88345,6 @@ ims3.tescogiftcards.com
 imsearch.dzh.com.cn
 imslyokecyhar.site
 imsonicgale.com
-imsowiwiwiwiwi.com
 imtshvsvjzeob.website
 imtwjwoasak.com
 imu.mybluehost.me
@@ -97342,7 +97338,6 @@ lacrymrepointtorpex.cyou
 lactaryabacfoetors.cyou
 lactaselasi.shop
 lactoidmeasly.qpon
-lactolwant.com
 lacunads.com
 lacvzlcsxbsrz.website
 lacytrinityhissed.com
@@ -98630,7 +98625,6 @@ lfhpe.planttherapy.com
 lfhugfivahoqe.online
 lfidtw.faesslerw.at
 lfjdqqmzpswof.website
-lfjrojdsqcrne.com
 lfk.mybluehost.me
 lfkesv.seeplaces.com
 lflinkup.com
@@ -103978,6 +103972,7 @@ load.sst.acesheets.com
 load.sst.acropolecapital.com.br
 load.sst.activealamin.com
 load.sst.adhdsuccesssystem.com
+load.sst.adremlimburg.nl
 load.sst.aegisav.com
 load.sst.agi-top.com
 load.sst.agilescrumgroup.nl
@@ -132691,6 +132686,7 @@ parasolcrimefactory.com
 paraveronline.com
 parazoabeirut.cyou
 parbatekolkozyimblaze.qpon
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -146979,7 +146975,6 @@ reshakeclifts.cfd
 reshin.de
 resi-api.pawns.app
 resi6-api.pawns.app
-residence.bunkerhilltradingco.info
 resideour.com
 resideplanned.com
 residuatankerslapels.cfd
@@ -151542,6 +151537,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -171889,6 +171885,7 @@ sonar-mnl1-2.xx.fbcdn.net
 sonar-mnl3-1.xx.fbcdn.net
 sonar-mnl3-2.xx.fbcdn.net
 sonar-mnl3-3.xx.fbcdn.net
+sonar-mrs.xx.fbcdn.net
 sonar-mrs2-1.xx.fbcdn.net
 sonar-mrs2-2.xx.fbcdn.net
 sonar-mrs2-3.xx.fbcdn.net
@@ -177559,7 +177556,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -190477,7 +190473,6 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -197552,6 +197547,7 @@ tk.airfrance.co.uk
 tk.airfrance.co.za
 tk.airfrance.cz
 tk.airfrance.de
+tk.airfrance.dj
 tk.airfrance.dk
 tk.airfrance.dz
 tk.airfrance.es
@@ -222623,7 +222619,6 @@ xvlgs.nyra.com
 xvlu.morql32ex5yq67j8ecg.cyou
 xvmzbkpppasoe.online
 xvn.mybluehost.me
-xvpqmcgf.com
 xvq66ekmebb83qy.rest
 xvqcsxmc.jovyco.com
 xvqidgxfdsxbe.store
@@ -224290,7 +224285,6 @@ ysekcv.voyage-prive.co.uk
 ysesials.net
 ysf.mybluehost.me
 ysfbmd.akitzpet.co.kr
-ysgcb.cc
 ysgvhmiwrvsvt.website
 ysgyc.bosca.com
 yskanba.com
