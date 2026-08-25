@@ -10176,7 +10176,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10247,6 +10246,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15369,7 +15369,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -16415,7 +16416,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22461,6 +22461,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.xtreamarena.com
@@ -23391,7 +23392,6 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -29076,6 +29076,7 @@ bj9zvb5ih.com
 bja2.destinia.cz
 bjads.bejbej.ca
 bjakku.com
+bjbbs.top
 bjcathay.com
 bjdata.ads.oppomobile.com
 bjdgzffnutlqs.site
@@ -38299,7 +38300,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -43710,7 +43710,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -71178,6 +71177,7 @@ gateway.cloud.sbs.co.kr
 gateway.craftinfocus.com
 gateway.cybertransform.com
 gateway.dbandit.com
+gateway.denso-am.eu
 gateway.euvou.events
 gateway.exoqarys.com
 gateway.five-am.com
@@ -75051,7 +75051,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77746,6 +77745,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -84792,7 +84792,6 @@ hqscene.com
 hqstcsetsckmf.website
 hqtrk.com
 hquerdxxxxdlp.site
-hqugajjuh.com
 hqurnvlwjlqgk.space
 hqvldtiayuvrho.com
 hqvrvageaf.com
@@ -85455,7 +85454,6 @@ hvrhgt.thesun.co.uk
 hvrhgt.thesun.ie
 hvricnk4ab.cfd
 hvrzig.e-domizil.ch
-hvsfbiflxxx.com
 hvteqk.snowleader.com
 hvuihu.undiz.com
 hvuuvjdlqdtwo.space
@@ -87148,7 +87146,6 @@ ilotteryillinois.tt.omtrdc.net
 ilovecheating.com
 ilovemobi.com
 iloveyourdata.universo.work
-iloveyourweewee.bz
 ilpuojxvpvjkr.space
 ilqnef.whipbunny.jp
 ilrbgltq.skabditvarksted.dk
@@ -132686,6 +132683,7 @@ paqkp.alignmedbrasil.com.br
 paqqlk.motatos.de
 paqxspfbapsai.site
 par.moyslovar.ru
+para.casa
 parabit.ru
 parachutehome.sjv.io
 paradefast.com
@@ -140621,7 +140619,6 @@ pyrkxp.novafotograf.com
 pyrzoa.kolonnenull.com
 pysdvwrawkwjz.space
 pysfn.benchclearers.com
-pysvfggnwzzf.com
 pyt.mybluehost.me
 pythagore.demdex.net
 python.casuallyprivate.com
@@ -159972,7 +159969,6 @@ service.ad.adesk.com
 service.arredamentopari.com
 service.athlon.com
 service.bambus-parkett.de
-service.bechtle.com
 service.changhong.upgrade2.huan.tv
 service.charitiesaidfoundation.org.uk
 service.cmp.oath.com
@@ -169024,6 +169020,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -177590,6 +177587,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -185155,7 +185153,6 @@ stape.lp.agentesdesonhos.com.br
 stape.lp.amdpromocionais.com.br
 stape.lp.ameliacostura.com.br
 stape.lp.assegura.com.br
-stape.lp.biossegurancasemstress.com.br
 stape.lp.caveo.com.br
 stape.lp.fausp.edu.br
 stape.lp.houseimobiliariadigital.com
@@ -186767,6 +186764,7 @@ stashpatrick.com
 stat-analytics.mediavitrina.ru
 stat-api.gismeteo.net
 stat-api.meteofor.com
+stat-avance.com.br
 stat-collector.totalbattle.com
 stat-common.youku.com
 stat-confluence.escap.un.org
@@ -189541,6 +189539,7 @@ stp.imperiumacquisition.com
 stp.intermed.de
 stp.kreator.ai
 stp.labonnepompe.com
+stp.lec.com.br
 stp.lemeforense.com.br
 stp.llumo.ai
 stp.lna-sante.com
@@ -190509,7 +190508,6 @@ suhvoulwtaxfj.site
 suibianmaimaicom.com
 suicidalruse.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -209252,7 +209250,6 @@ userprofile.push.heytapmobi.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -217872,7 +217869,6 @@ wt.viagogo.net
 wt.webstatsdomain.org
 wt2pcw2q4k.cfd
 wt2x6p7j.xyz
-wt3ctg.lol
 wtaccesscontrol.com
 wtag.estlier.net
 wtaphf.descomplica.com.br
