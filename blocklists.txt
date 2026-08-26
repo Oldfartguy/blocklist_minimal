@@ -10169,6 +10169,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -12334,7 +12335,6 @@ adtimabox.brand.zing.vn
 adtimaserver.vn
 adtiming.com
 adtingest.com
-adtival.com
 adtival.network
 adtive.com
 adtlgc.com
@@ -15353,6 +15353,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -16398,6 +16400,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22442,7 +22445,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.xtreamarena.com
@@ -35703,6 +35705,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -43711,7 +43714,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -75056,6 +75058,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grid-bidder.criteo.com
 grid.bidswitch.net
@@ -77740,7 +77743,6 @@ gtm.goodnightmate.com
 gtm.goodplanet.org.uk
 gtm.goodvit.com.br
 gtm.gooresultados.com.br
-gtm.gorocky.ph
 gtm.gorunningtours.com
 gtm.gothiakompetens.se
 gtm.gowarp.com.br
@@ -77751,7 +77753,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -90774,7 +90775,6 @@ io-ext.se
 io-sm-log.tantanapp.com
 io.fapnado.xxx
 io.fapnow.xxx
-io.inkohoreca.com
 io.mediarithmics.com
 io.narrative.io
 io.nodar.sa
@@ -132683,6 +132683,7 @@ parasolcrimefactory.com
 paraveronline.com
 parazoabeirut.cyou
 parbatekolkozyimblaze.qpon
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -137300,7 +137301,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -139383,7 +139383,6 @@ ptbiksimhxegf.online
 ptblrrymzxwfl.online
 ptbrdg.com
 ptbtzpasfsjdc.space
-ptcdn.mbicash.nl
 ptcdw.com
 ptcdwm.com
 ptclassic.com
@@ -141590,7 +141589,6 @@ qpqtdv.royalbathrooms.co.uk
 qprfs.drunkelephant.com
 qprod2.net
 qprskl.com
-qps.cint.com
 qpsbd.lksneakers.com.br
 qpscgpmcrakpd.site
 qptfdtjasvzmb.site
@@ -162507,7 +162505,6 @@ sgtm.potencializabrasil.com
 sgtm.poufsacco.it
 sgtm.poulsborv.com
 sgtm.pourdebon.com
-sgtm.powerrichsports.com
 sgtm.praguedays.com
 sgtm.predeion.it
 sgtm.prefast.nl
@@ -168971,6 +168968,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -177536,6 +177534,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -214465,7 +214464,6 @@ wby.mybluehost.me
 wbysnyeqjdwhl.site
 wc-tracking.lavasoft.com
 wc.paybooc.co.kr
-wc.whippycow.com
 wc.wholifeco.com
 wc.yahoodns.net
 wc6y3nrv7g.com
@@ -216058,7 +216056,6 @@ whetteddawkin.cfd
 whewlwattape.cfd
 wheybkethenic.qpon
 wheyeymesial.cfd
-whf.bz
 whfpbc.99.com.cn
 whglicfodltns.space
 whh.mybluehost.me
@@ -220160,6 +220157,7 @@ wzzhvn.hammer.de
 x-busty.org
 x-id.ls.glanceapis.com
 x-rite-photo.pxf.io
+x-stat.de
 x-storage-a1.cir.io
 x-traceur.com
 x-value.net
@@ -223950,7 +223948,6 @@ yoochoose.net
 yoomanies.com
 yoomedia.de
 yoozbit.com
-yoqiqrhmjoqb.com
 yorclk.wbidder.online
 yoreeddic.cfd
 yorkshiremacusergroup.com
